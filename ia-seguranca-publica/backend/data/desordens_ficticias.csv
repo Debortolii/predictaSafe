@@ -1,0 +1,1001 @@
+ID_Ocorrencia,Data_Hora,Tipo_Desordem,Local_Desordem,Latitude,Longitude,Periodo_Dia,Nivel_Severidade,Status_Ocorrencia,Observacoes,Risco_Previsao
+59b6f6af-4e8a-42c3-9171-ff8242a14324,2024-06-21 19:01:37,Vandalismo,Parque Urbano,-23.129446001092887,-46.49309032135017,Manhã,Crítica,Cancelada,Minima doloribus soluta dolorem qui.,0
+f22fb38f-466e-4e03-810b-66d568181a92,2024-12-23 05:08:59,Barulho Excessivo,Área Comercial,-23.26421559896988,-46.68105231342813,Madrugada,Média,Em Análise,Hic esse cumque accusamus totam tempore sint.,1
+181a532c-a39a-4eb4-bb12-50901b2c369e,2024-09-29 03:02:20,Aglomeração Suspeita,Bairro Residencial A,-23.82595428880324,-46.54735190394999,Manhã,Média,Resolvida,Tempore quaerat cupiditate et illo itaque consequatur.,1
+6cb1f2f4-13d9-48dd-b42e-12b642775206,2024-12-12 16:44:42,Outros,Bairro Residencial B,-23.81801008679704,-46.00275473943447,Noite,Alta,Em Análise,Ipsam consectetur enim optio cumque quis.,0
+e07a29f4-c7e2-4aac-b15c-3be5156c1f7a,2024-12-18 20:46:15,Vandalismo,Parque Urbano,-23.61872352828948,-46.014057947960985,Noite,Média,Cancelada,Maxime eum odit iste nesciunt.,0
+12c5cc65-e044-4d72-929a-d0d180deeea9,2025-05-03 04:01:04,Pichação,Bairro Residencial B,-23.618521002252596,-46.30392245392965,Tarde,Média,Em Análise,Ipsa sunt voluptas expedita.,1
+0a0958d8-9a0e-4674-9b40-3c8a0e47e760,2024-07-14 23:31:30,Aglomeração Suspeita,Bairro Residencial A,-23.36389460163454,-46.920523569808324,Manhã,Alta,Resolvida,Assumenda tenetur alias consequuntur.,0
+5cc3b0ab-0467-4bae-aa32-a2b3f0237402,2024-10-11 12:52:45,Vandalismo,Bairro Residencial A,-23.678177420242697,-46.80648729343116,Manhã,Crítica,Cancelada,Itaque natus debitis possimus eos iure eaque.,0
+54fed491-951a-4d62-92be-e3fa15a520f3,2024-12-22 11:29:26,Lixo Acumulado,Bairro Residencial B,-23.45024437106986,-46.93034433770018,Manhã,Baixa,Reportada,Sunt officia laborum repellendus quis minima.,0
+2607b2ae-58d2-4b11-ac18-b1254b061245,2025-02-18 02:26:04,Aglomeração Suspeita,Área Comercial,-23.389740013764865,-46.294401582640965,Noite,Média,Reportada,Dicta consequatur minima sunt eum quos dignissimos.,0
+b38043bb-3b15-48dc-a229-fdf2a8207bfa,2025-05-19 13:33:50,Lixo Acumulado,Parque Urbano,-23.90911765141491,-46.17708578205694,Tarde,Alta,Em Análise,Odio eveniet et maiores quos voluptatum.,0
+1996582d-763b-4782-a4b3-e65102e55b02,2024-06-28 21:11:55,Vandalismo,Bairro Residencial A,-23.646105432683125,-46.758377636032954,Madrugada,Crítica,Em Análise,Delectus nihil perspiciatis consequatur adipisci.,1
+18a754e2-d64b-4bb6-b0bb-e8102e120e8a,2025-05-26 13:31:58,Outros,Parque Urbano,-23.841848673202037,-46.74308999564414,Madrugada,Crítica,Cancelada,Vel voluptates occaecati architecto quia fugit.,0
+a5f492a9-247a-418d-aefd-7925280ac98e,2024-06-23 15:07:53,Vandalismo,Parque Urbano,-23.387775498229193,-46.12818301053776,Madrugada,Crítica,Reportada,Saepe magni soluta explicabo vero ipsum eos quidem.,0
+d69ad781-dc23-4e61-b607-0bbd85696d5d,2025-06-01 18:24:44,Lixo Acumulado,Bairro Residencial A,-23.3297148622897,-46.34661092539558,Noite,Crítica,Reportada,Beatae neque neque amet nobis voluptates sunt non.,0
+1bd33ccd-0634-4d11-b8b7-899151b7e9b8,2025-05-20 08:20:51,Pichação,Parque Urbano,-23.360517735680556,-46.988202059934316,Madrugada,Alta,Cancelada,Dignissimos dignissimos consequatur natus officiis impedit.,0
+024f5920-cc32-439a-b27e-25c1dca3acfb,2024-10-25 05:20:20,Lixo Acumulado,Bairro Residencial B,-23.48760305880714,-46.304929119140866,Tarde,Baixa,Reportada,Animi sequi consequatur.,0
+63afaa17-e65a-444a-948d-bfeecba34efd,2025-04-27 16:53:49,Pichação,Parque Urbano,-23.83721961358906,-46.603821947864745,Tarde,Média,Em Análise,Labore fugit nam cumque nemo amet.,0
+671f2744-3b56-4c3c-883d-664ecec6016a,2024-09-03 00:57:51,Pichação,Bairro Residencial A,-23.197817238662513,-46.11394561355921,Noite,Alta,Cancelada,Quisquam molestiae dolorem sequi nostrum nostrum quisquam deleniti.,0
+c820c0b5-1cb9-48c1-9ae1-69c3d975d3b7,2025-04-22 02:20:43,Outros,Parque Urbano,-23.586860972120594,-46.48854208616596,Manhã,Média,Resolvida,Saepe facere assumenda.,0
+0f538979-d1c2-46ac-a1be-371d97ed1474,2024-07-09 05:13:44,Lixo Acumulado,Estação de Metrô,-23.371004006775753,-46.875397924941595,Tarde,Alta,Resolvida,Hic quidem eos dolor.,0
+7cd8934d-f81e-4719-ab6d-278ef04d776d,2024-11-21 02:42:01,Vandalismo,Bairro Residencial B,-23.15184958543844,-46.72716095893645,Noite,Alta,Em Análise,Quae similique nulla quis repudiandae repellendus ducimus.,1
+bfd2bd0a-2044-4baf-aac6-8fe9860576b6,2025-02-04 05:28:31,Vandalismo,Praça Central,-23.418478816639634,-46.740702649124614,Madrugada,Média,Em Análise,Perferendis hic doloribus ad.,0
+ee5653a6-402d-48c9-a07f-70abfabcd4a6,2024-08-10 06:20:31,Vandalismo,Área Comercial,-23.836893623694962,-46.97725298549272,Madrugada,Baixa,Resolvida,Nemo corporis nobis omnis quasi.,0
+12918005-d925-4680-97a1-92b8bbdbce75,2025-01-09 06:42:07,Vandalismo,Bairro Residencial B,-23.762432036766988,-46.82447301527956,Madrugada,Crítica,Cancelada,Quos ullam voluptatum quia optio eligendi.,1
+cc4cb98c-2239-4276-814f-e2e1b5ed5bab,2025-04-30 19:05:09,Vandalismo,Parque Urbano,-23.26680413831949,-46.617520851037995,Madrugada,Crítica,Em Análise,Eos nam rerum doloremque maxime accusantium.,0
+e7815ebf-0db3-415c-ad74-4c5b7d22f184,2025-02-06 03:16:29,Lixo Acumulado,Praça Central,-23.89160331609298,-46.66720377917269,Noite,Crítica,Reportada,Nobis corporis animi exercitationem.,0
+2e7b298c-38fb-411e-8b85-b7f7a3537a8f,2025-06-13 04:11:08,Aglomeração Suspeita,Bairro Residencial A,-23.68961956498478,-46.68560281419074,Madrugada,Baixa,Cancelada,Cum fugit harum.,0
+f1c65bbb-6ee3-4958-aceb-7a078e809014,2025-04-12 00:11:32,Pichação,Estação de Metrô,-23.250828898145357,-46.421010989781266,Tarde,Crítica,Cancelada,Rerum aperiam illum neque vitae accusantium rem.,0
+46c67d69-af81-41b8-b08d-6b4b8b854c60,2025-06-17 10:58:12,Lixo Acumulado,Parque Urbano,-23.632895765653203,-46.11395046423016,Tarde,Crítica,Cancelada,Unde iste cupiditate incidunt repudiandae officia sunt odio.,0
+59466973-0802-4497-9ca5-131038a8455f,2024-09-15 12:54:23,Outros,Estação de Metrô,-23.00378229988495,-46.260392569535746,Manhã,Crítica,Resolvida,Dicta exercitationem consequatur.,1
+6a65b1d8-e837-4495-9538-9b30af032c35,2025-03-01 18:33:10,Pichação,Bairro Residencial A,-23.10715060381078,-46.686083593441694,Tarde,Baixa,Em Análise,Harum similique ipsa eius maxime.,0
+c06b5c21-ca7f-48f0-8305-5ddc06b4023e,2025-04-28 07:45:39,Vandalismo,Bairro Residencial A,-23.941940656386127,-46.64653658541227,Manhã,Média,Reportada,Repudiandae ea corporis temporibus alias pariatur.,1
+db4dd1f9-aaf8-4bb4-b304-056a01baba18,2024-11-09 13:53:18,Aglomeração Suspeita,Bairro Residencial B,-23.637428069421002,-46.79003158098551,Noite,Baixa,Resolvida,Officiis doloremque sit.,0
+806347ad-34b0-4d64-9e1a-cf7abd1da013,2024-10-01 20:30:21,Pichação,Bairro Residencial A,-23.576967352352202,-46.21097734858683,Tarde,Crítica,Resolvida,Deserunt nostrum ut reiciendis.,0
+92d3f340-8c1a-487a-9072-69e1ffe17037,2024-08-30 11:16:15,Barulho Excessivo,Parque Urbano,-23.462687555014153,-46.17498763308341,Manhã,Baixa,Em Análise,Rem officiis ratione aspernatur sapiente iusto.,1
+1b3fe32b-2dbf-464d-bd50-02f6c8fdff91,2024-07-31 11:50:57,Aglomeração Suspeita,Bairro Residencial B,-23.595155044743812,-46.56290620582386,Tarde,Alta,Reportada,Tempore facere sapiente tempore.,0
+456cbeaa-11b4-4fc6-a1f3-da57c455765e,2025-01-12 00:30:49,Aglomeração Suspeita,Parque Urbano,-23.170639227803186,-46.01775688642112,Tarde,Baixa,Cancelada,Optio vero similique quo voluptas quasi.,0
+25685152-14bc-486d-967e-144475062fa4,2025-01-30 18:50:12,Outros,Praça Central,-23.582344454242232,-46.150800920459474,Noite,Crítica,Cancelada,Quasi recusandae atque magni minima accusamus qui.,0
+e4b5c87d-6a38-4519-97d8-0544499db59f,2025-05-28 11:56:20,Lixo Acumulado,Bairro Residencial A,-23.090395831531342,-46.25327897902572,Madrugada,Média,Em Análise,Porro beatae repellendus nesciunt voluptatibus.,0
+445947cc-6694-4add-a5f4-22ce420a350e,2024-11-18 06:16:55,Aglomeração Suspeita,Área Comercial,-23.08680409477312,-46.91244636377118,Tarde,Baixa,Em Análise,Quae adipisci aspernatur cupiditate suscipit nam adipisci.,0
+61a805f7-62fb-429e-bf4d-568657ebe3d1,2024-11-28 19:03:20,Vandalismo,Praça Central,-23.572704454871367,-46.482693436638016,Noite,Crítica,Reportada,Corporis dicta itaque quo provident iste iusto corrupti.,1
+10b35c30-2241-4763-b86b-1144fd301196,2024-06-21 02:26:35,Lixo Acumulado,Área Comercial,-23.126810219018555,-46.353167440055,Madrugada,Alta,Cancelada,Vitae similique fugit voluptatem.,0
+771b5bb3-11f0-4a72-b9bc-fb49407af53e,2025-03-13 11:01:22,Pichação,Área Comercial,-23.379408914829177,-46.36361308374112,Madrugada,Alta,Resolvida,Laudantium sint veritatis iste.,0
+447e2ada-2706-44e8-af18-41cd8dbea155,2025-04-01 11:37:47,Pichação,Bairro Residencial B,-23.862252788475537,-46.143189939946296,Madrugada,Baixa,Cancelada,Excepturi quisquam ullam beatae nostrum.,0
+a0b15a5a-707f-41d8-be54-c0235b7d5d1f,2025-04-23 14:06:06,Aglomeração Suspeita,Área Comercial,-23.148975749626874,-46.91642075872392,Madrugada,Crítica,Cancelada,Aut harum nobis ex.,1
+dcfc3f89-c20d-467f-8628-615d417d8a42,2025-05-19 06:02:47,Barulho Excessivo,Bairro Residencial B,-23.407365541821864,-46.11788544799376,Noite,Média,Reportada,Cupiditate modi nulla dolores sapiente perferendis ipsa.,0
+b2f1edfc-3cdb-41f4-a7bc-b353cbcd29a8,2025-01-29 21:09:28,Barulho Excessivo,Parque Urbano,-23.74717668243606,-46.517059201654156,Noite,Crítica,Cancelada,Sit suscipit alias nostrum consequuntur illo.,1
+61b2a48f-22b2-4656-b792-d7d592cf0053,2025-03-03 09:33:01,Barulho Excessivo,Bairro Residencial A,-23.163566843402137,-46.600419462590786,Tarde,Alta,Em Análise,Eveniet rerum voluptates animi tenetur.,1
+a4ace186-c802-4c46-a03b-bdd27cbc2c54,2025-03-30 17:43:45,Outros,Bairro Residencial A,-23.97472541061922,-46.27785805351494,Tarde,Crítica,Cancelada,Omnis fugiat non eius.,0
+92f58964-1ff0-4697-bf62-997e093e0bff,2024-08-25 05:44:39,Lixo Acumulado,Estação de Metrô,-23.633393401832226,-46.81423811226966,Tarde,Baixa,Em Análise,Iste consectetur ex nemo illum.,0
+02893fbc-9a21-47d8-a382-ab6c9e0d5059,2025-03-22 17:12:23,Pichação,Bairro Residencial B,-23.76836022634129,-46.90204060833977,Manhã,Média,Reportada,Aspernatur vel ducimus mollitia vitae quidem dolor.,0
+619b6fb8-5fdc-4084-8d23-ad1617fd67ba,2025-01-09 13:01:49,Pichação,Parque Urbano,-23.04731883944262,-46.82891236955838,Manhã,Alta,Resolvida,Doloribus veniam officia.,0
+81b244ea-6e47-473f-a30e-98b133a8b9dd,2025-02-27 17:27:21,Vandalismo,Área Comercial,-23.49699262649453,-46.12119475708319,Manhã,Baixa,Reportada,Nesciunt vel doloremque velit error.,1
+ee65801d-b990-4993-9155-a0cdffd88f83,2024-09-17 11:02:53,Pichação,Bairro Residencial B,-23.955898287712387,-46.021990529998575,Madrugada,Crítica,Resolvida,Dolore deserunt sapiente.,0
+d865ed64-c58f-4d08-8f0a-86c3b2b41f3c,2025-03-31 16:05:34,Barulho Excessivo,Bairro Residencial A,-23.706167736084332,-46.562524769533816,Madrugada,Média,Reportada,Dolores amet quasi.,1
+3c551402-3d10-4f82-9ba6-d043bc7a1d64,2025-06-12 02:19:24,Barulho Excessivo,Bairro Residencial A,-23.636900433883103,-46.948182182207155,Tarde,Crítica,Cancelada,Aspernatur eaque incidunt fuga temporibus fuga a.,0
+0e07f690-ca81-41c0-aa13-70bfca328b8e,2024-08-25 14:52:06,Lixo Acumulado,Praça Central,-23.042653895307872,-46.393950112952304,Tarde,Crítica,Resolvida,Qui cumque ex autem.,0
+fd32e950-ebc7-45ca-9707-f63b4de41cd3,2025-03-04 22:56:42,Aglomeração Suspeita,Estação de Metrô,-23.131736951865946,-46.5676956794636,Noite,Crítica,Reportada,Molestias non cum iure saepe.,1
+453e9ae9-a180-4c92-95f6-68c1be7ba8ce,2024-11-08 18:42:25,Vandalismo,Praça Central,-23.830476252201372,-46.06013723860468,Madrugada,Baixa,Resolvida,Adipisci possimus vero accusantium.,0
+5cc9dbc7-6cc1-46b7-9a05-eadee51b383b,2025-03-27 21:50:04,Aglomeração Suspeita,Praça Central,-23.18935801542469,-46.15030128564899,Madrugada,Alta,Resolvida,Nihil animi voluptatum atque et.,0
+c1717b56-c23a-4af4-b0a4-99850402544d,2024-12-07 09:31:27,Aglomeração Suspeita,Área Comercial,-23.445882269971534,-46.92972883694613,Manhã,Crítica,Reportada,Quibusdam odit dolorum illo asperiores earum accusamus.,0
+79485600-6b57-4a4f-b2d9-5d8ceb688b48,2024-11-18 17:48:26,Lixo Acumulado,Bairro Residencial B,-23.87048688525926,-46.607299079859246,Madrugada,Baixa,Reportada,Amet occaecati recusandae ratione nulla sapiente distinctio ut.,0
+b44a8845-156e-41f1-9f6b-bf5e2c7fb89d,2024-12-22 09:55:14,Outros,Área Comercial,-23.50752987705146,-46.009510337077884,Tarde,Alta,Cancelada,Laboriosam praesentium consectetur possimus.,0
+4593ea1b-ce4a-4fb2-8e90-03906660e1a9,2024-08-30 19:22:27,Lixo Acumulado,Praça Central,-23.066643734998788,-46.1423933547798,Manhã,Média,Reportada,Dolorem quam optio temporibus deserunt.,0
+1ba99184-b1df-4319-9d78-d526d62207bd,2024-07-26 01:11:00,Barulho Excessivo,Estação de Metrô,-23.561285002831763,-46.2388878037663,Tarde,Alta,Em Análise,Nihil sint consectetur laudantium.,0
+821c28c9-2cfd-4fc6-9937-2f2adabfa51e,2024-07-18 13:34:20,Barulho Excessivo,Área Comercial,-23.770944205577297,-46.316944005225544,Tarde,Alta,Em Análise,Praesentium ducimus quibusdam consequatur illo voluptas culpa.,0
+024662bb-9a75-4d1c-84e6-7503f84b1d2e,2025-06-16 00:39:59,Aglomeração Suspeita,Bairro Residencial B,-23.477852604051467,-46.9215500927346,Noite,Média,Resolvida,Modi fuga necessitatibus voluptatum nostrum natus iste.,0
+45f36344-ee53-4907-b9b6-f49b5a9bf74f,2024-12-23 02:59:25,Barulho Excessivo,Praça Central,-23.257470422412688,-46.494768646774766,Manhã,Crítica,Em Análise,Hic labore vero aut.,1
+22ffe90b-1bdd-418b-bab9-c853dd4789b5,2024-09-10 10:52:27,Pichação,Praça Central,-23.17219612308425,-46.965482131147176,Manhã,Baixa,Resolvida,Nihil deleniti aperiam explicabo.,0
+bfa1c415-da7a-426d-a911-22fc53788b8d,2024-10-02 14:13:37,Vandalismo,Bairro Residencial B,-23.070747211986788,-46.82394278092139,Madrugada,Baixa,Cancelada,Deserunt ab sit eos consectetur consequatur corrupti.,1
+e7d25aff-43d1-4689-a042-429fbcf6c3f4,2024-11-07 10:36:39,Aglomeração Suspeita,Área Comercial,-23.521423944656586,-46.413261699234866,Tarde,Baixa,Cancelada,Enim necessitatibus aperiam error cumque quasi consequuntur illo.,0
+6319b9be-9a38-443e-9787-a2cd87e561d9,2024-09-27 10:07:55,Vandalismo,Praça Central,-23.492100304761387,-46.701582420095086,Madrugada,Crítica,Resolvida,Similique ipsa iure mollitia cumque.,0
+4da8a126-5b3d-40b2-8daf-d640d5be9d7f,2024-08-23 18:08:59,Aglomeração Suspeita,Estação de Metrô,-23.32575435781179,-46.86901987205421,Tarde,Baixa,Resolvida,Rerum in mollitia reprehenderit deserunt culpa quis numquam.,0
+80156b49-531d-4763-a497-5552c9327ed2,2024-07-29 19:39:47,Aglomeração Suspeita,Bairro Residencial B,-23.19413679763526,-46.884418939633996,Tarde,Baixa,Em Análise,A incidunt velit neque molestias.,0
+969c4acd-6b6b-4414-b034-1dd76d5c039b,2025-03-04 15:56:19,Outros,Bairro Residencial B,-23.26240058840598,-46.15333300832043,Tarde,Crítica,Em Análise,Neque ullam et eum libero tenetur dolor.,0
+0812d508-9cda-4e47-be3c-fabe8692aeee,2025-03-19 02:01:40,Pichação,Praça Central,-23.4194867853431,-46.20793491306632,Madrugada,Baixa,Reportada,Quis asperiores nesciunt.,0
+bf8af98d-61b2-486f-a707-084f70ae91cc,2025-02-14 17:01:23,Aglomeração Suspeita,Praça Central,-23.028807987971554,-46.173596039682316,Noite,Crítica,Reportada,Sequi quo eos eaque nesciunt.,0
+c5b7d7e0-0465-46c7-9f4a-4289ce36dc74,2025-04-17 09:09:21,Aglomeração Suspeita,Bairro Residencial B,-23.39556353331569,-46.12555442083241,Manhã,Média,Resolvida,Tempora voluptatibus rerum inventore soluta.,0
+bda308c6-7eba-4264-b821-40cf35a46f1d,2024-07-02 20:26:17,Vandalismo,Praça Central,-23.607260595626528,-46.74837963110023,Manhã,Média,Reportada,Error quos quis consequuntur.,1
+d874264e-6a0e-4fe5-a92f-c56736d047bd,2025-04-08 08:51:52,Pichação,Área Comercial,-23.700737584038635,-46.331938665660815,Tarde,Média,Reportada,Ut ducimus explicabo magnam quasi pariatur.,0
+bf40f19e-b361-4ce1-9647-b3c2b1a2f283,2024-10-17 14:35:52,Aglomeração Suspeita,Parque Urbano,-23.075826108270956,-46.89093011035174,Madrugada,Alta,Reportada,Molestiae vitae rem dolorem eligendi eligendi.,1
+6d6a03ae-50bb-4d86-b259-b4d4da1f3b60,2024-09-06 14:53:11,Pichação,Área Comercial,-23.76850583857735,-46.24891808088419,Madrugada,Média,Resolvida,Non fuga libero dolore.,0
+ea27b8ff-1685-4ca5-8a9e-5d2a59d17318,2024-11-13 05:05:41,Pichação,Praça Central,-23.3490460302853,-46.849007166621256,Noite,Alta,Em Análise,Reprehenderit beatae enim.,1
+9413ccb0-268e-401b-909f-06026a733d12,2025-06-06 09:28:58,Lixo Acumulado,Parque Urbano,-23.317213505480517,-46.48061861883976,Noite,Alta,Resolvida,Exercitationem unde quaerat harum aspernatur impedit inventore.,1
+c96245ba-af44-4f59-bf8f-2449e34cef9c,2025-02-03 06:57:10,Lixo Acumulado,Área Comercial,-23.962541040959717,-46.69019656455984,Manhã,Média,Em Análise,Blanditiis accusamus ab optio nemo nulla.,1
+5f3bf93c-8b92-43c5-a326-e22dfc1fcfcd,2024-09-09 04:10:39,Vandalismo,Praça Central,-23.425401696033415,-46.48487088334331,Tarde,Média,Cancelada,Est repudiandae veniam sapiente illo saepe distinctio.,0
+742fb216-7928-47da-a9da-503e1bd959db,2025-01-20 05:03:04,Outros,Bairro Residencial B,-23.21747510418464,-46.80236047236202,Manhã,Baixa,Resolvida,Maxime ratione sed quia veritatis eveniet.,1
+f1cda9bf-a3fe-45f1-92a1-bac7f4c2ea68,2024-12-28 07:28:34,Lixo Acumulado,Bairro Residencial B,-23.510834434174573,-46.067585418822226,Manhã,Alta,Cancelada,Magni doloremque nobis non tenetur sit.,0
+8ccacf86-4e62-4065-9a1d-41408e2b8704,2025-04-14 15:36:37,Aglomeração Suspeita,Bairro Residencial B,-23.494610841314046,-46.928745721658395,Noite,Baixa,Resolvida,Eveniet autem necessitatibus.,1
+def98ec5-9fce-4c1d-ba54-bfd3881808f0,2024-11-14 06:55:50,Outros,Estação de Metrô,-23.268914196169465,-46.01236836564116,Tarde,Crítica,Resolvida,Reprehenderit possimus sed.,0
+88ccfaee-aec3-4612-a678-05f7a626e659,2025-03-11 08:05:49,Outros,Área Comercial,-23.1016872020503,-46.836366894144135,Madrugada,Alta,Reportada,Aperiam numquam perspiciatis aliquid.,0
+7bbb7b94-40de-482a-a974-d2e3eb89d3dc,2024-09-13 06:19:05,Barulho Excessivo,Bairro Residencial B,-23.90989271497812,-46.25634018338056,Noite,Baixa,Cancelada,Molestias omnis harum praesentium.,0
+8a3a8d5b-dc27-40a3-85b0-ebf57cae4593,2025-02-16 18:17:44,Outros,Parque Urbano,-23.16919998413042,-46.870601205723915,Manhã,Alta,Resolvida,Tempora eveniet porro fuga quibusdam incidunt iusto beatae.,0
+100bbd6d-7647-4c0b-8f97-46866ad48eab,2024-10-06 07:43:02,Barulho Excessivo,Praça Central,-23.755220209860518,-46.850071868842456,Manhã,Crítica,Resolvida,Iure quo dolorem veritatis dicta.,0
+df77466d-4c79-4fab-a837-c02267173499,2025-05-12 06:52:29,Pichação,Parque Urbano,-23.48273758768358,-46.82357085582531,Madrugada,Alta,Resolvida,Veritatis minus nemo delectus voluptatem recusandae quibusdam.,0
+c6d1a888-18c1-4e47-9dc8-84ce2e35a783,2024-07-27 21:30:11,Vandalismo,Estação de Metrô,-23.865545808660517,-46.20936830320897,Manhã,Alta,Cancelada,Repellendus ab explicabo veritatis laudantium natus unde reprehenderit.,1
+1469c2fd-44ff-44a2-9bc5-49f84a6ecad2,2025-03-11 22:26:36,Outros,Estação de Metrô,-23.584081100736615,-46.5271881001916,Manhã,Crítica,Em Análise,In nisi sint ex quae.,0
+cf617f11-4854-46d4-a7bf-c5f877e7c4f2,2025-02-02 22:17:35,Barulho Excessivo,Praça Central,-23.941801204833656,-46.01928314763356,Tarde,Alta,Em Análise,Sunt repellendus explicabo beatae necessitatibus.,1
+f72314e2-dcc1-4495-b508-a2cf6592f25c,2025-05-30 13:45:18,Aglomeração Suspeita,Praça Central,-23.954966984376625,-46.97793600293822,Madrugada,Alta,Reportada,Corrupti quis maiores tenetur labore.,0
+12409576-941b-4b90-bf2f-37aad1b34ea1,2024-07-14 05:45:45,Lixo Acumulado,Estação de Metrô,-23.26350481202889,-46.44219332939347,Manhã,Alta,Reportada,Quo aliquid molestias harum eum similique necessitatibus.,1
+9b166fc0-6d3a-4c84-9cf8-dc94bffc7c15,2024-10-07 22:34:45,Vandalismo,Área Comercial,-23.44660835741604,-46.50178204574782,Noite,Baixa,Em Análise,Voluptatum voluptas vel magni ea.,0
+671327f3-aa69-4684-b119-e79421ccfc1c,2024-08-08 09:35:08,Outros,Praça Central,-23.460332659027397,-46.40725467610085,Madrugada,Alta,Reportada,In modi doloribus eius odio dignissimos.,0
+e6cd226d-402d-462b-961e-d24f9f969898,2025-03-16 04:38:43,Barulho Excessivo,Praça Central,-23.55379284999332,-46.74201674546809,Noite,Alta,Resolvida,Maiores repellendus dolorem hic.,0
+1c1aea41-ef4d-4e07-bcd8-af10e6165c93,2025-03-17 04:17:06,Pichação,Bairro Residencial A,-23.761008239170934,-46.69272307497398,Tarde,Baixa,Resolvida,Odit explicabo sed optio explicabo.,0
+73479f91-305d-4c38-a6f8-a01d293d4d30,2025-02-19 23:18:25,Vandalismo,Bairro Residencial A,-23.89256702880432,-46.34434331346439,Manhã,Baixa,Em Análise,Quia optio doloremque possimus aperiam aliquid pariatur.,0
+9db64422-570c-46a9-8e1e-3667a5fdf130,2024-10-26 20:26:51,Pichação,Parque Urbano,-23.99925489356483,-46.48693041628771,Tarde,Crítica,Reportada,Mollitia debitis distinctio vero error eum sit.,0
+76d27a17-49a1-4bdb-8307-2fa00701c24b,2024-09-07 04:38:27,Pichação,Parque Urbano,-23.42904273367315,-46.8549674017922,Noite,Crítica,Resolvida,Voluptate cupiditate numquam.,0
+484677db-31a3-4b66-8bcf-688eb2615f39,2024-08-15 00:40:47,Vandalismo,Área Comercial,-23.771000756296917,-46.73373703145375,Manhã,Alta,Reportada,Optio sint quibusdam.,0
+1723ebec-2a77-40df-8d73-a5f628e26202,2024-10-08 11:59:53,Pichação,Bairro Residencial B,-23.259628655927557,-46.43891356962967,Manhã,Média,Resolvida,Ut rem accusantium.,1
+ac1665c0-c0fb-43aa-a280-9276d9f36f31,2024-11-15 04:43:19,Aglomeração Suspeita,Praça Central,-23.28869866749852,-46.192406035789396,Manhã,Alta,Em Análise,Occaecati esse molestiae sit molestias facere optio eum.,0
+bf231003-7783-4dc4-bda9-83c5b912e58b,2025-05-17 23:41:27,Vandalismo,Estação de Metrô,-23.1695994835997,-46.59899454301152,Manhã,Alta,Reportada,Ratione aspernatur maxime non ipsa.,0
+bb5c63b1-26e1-494e-8482-10d94c8367b3,2025-04-27 13:29:04,Barulho Excessivo,Área Comercial,-23.638157553392432,-46.34579327714197,Noite,Baixa,Resolvida,Earum tempora deserunt doloremque.,0
+9b5f81d4-e9f8-499f-b858-6203d2331176,2024-11-03 14:42:31,Barulho Excessivo,Área Comercial,-23.944854768646856,-46.295999092717004,Noite,Alta,Reportada,Maiores exercitationem aliquid ipsum ipsam non esse temporibus.,0
+e6a72736-b5b3-41a2-a8c1-daad75eb4396,2025-04-24 00:17:09,Pichação,Bairro Residencial A,-23.03828882418257,-46.5391359721705,Noite,Baixa,Em Análise,Recusandae suscipit magni maiores.,0
+bc0f9ead-2167-4b3e-9716-f5210efd157f,2024-07-12 15:05:00,Lixo Acumulado,Parque Urbano,-23.445461273844245,-46.06816757272766,Madrugada,Crítica,Reportada,Illum nesciunt optio corrupti tempore reprehenderit impedit.,0
+b90d34c9-dc23-4b64-84f6-7c2a5bc962b5,2025-05-13 12:09:35,Outros,Parque Urbano,-23.2718820295785,-46.53770334609354,Madrugada,Alta,Cancelada,Quibusdam illo similique reiciendis.,0
+b6039092-dcb5-4333-a104-dddbfd3c5a35,2025-03-23 18:01:47,Barulho Excessivo,Parque Urbano,-23.05064653898222,-46.93362427189977,Madrugada,Baixa,Cancelada,Eius deserunt nihil distinctio ut.,0
+335e152a-5a73-4235-90b3-b3cf67f92628,2025-02-04 00:41:33,Lixo Acumulado,Estação de Metrô,-23.65003017735467,-46.55841040519475,Madrugada,Crítica,Resolvida,Doloribus vitae dicta est rem magni eius.,1
+715554ab-8ecf-45b5-bd71-b54238ce9ae6,2024-08-03 17:52:52,Pichação,Bairro Residencial B,-23.90647023204623,-46.53445265992084,Manhã,Média,Reportada,Architecto eos sint aut ipsa.,0
+a0d279ad-41e6-4c90-bb87-3115d73416b5,2025-04-27 17:03:35,Vandalismo,Estação de Metrô,-23.133929229408565,-46.15863448204767,Manhã,Alta,Resolvida,Eum cum consequatur optio.,0
+67c666fb-2c31-4f99-9425-e181bedd6383,2024-08-18 07:29:57,Lixo Acumulado,Bairro Residencial B,-23.027710488765226,-46.121041504199944,Tarde,Baixa,Resolvida,Natus id ipsa eius optio eius ipsum.,1
+bb780b03-f3b1-4b37-bc63-ddc02cba7eb8,2025-01-18 21:46:04,Lixo Acumulado,Parque Urbano,-23.137147822164994,-46.757852356742056,Noite,Crítica,Em Análise,Nesciunt suscipit excepturi quae.,1
+5983068f-91d3-42df-a700-7deb9f9ba142,2024-08-27 14:48:36,Barulho Excessivo,Praça Central,-23.92933632197989,-46.303266494535265,Noite,Média,Reportada,Assumenda dolores eligendi quas vitae aperiam inventore.,1
+f1788a61-8cf4-48e0-8b4f-5f1cb39a99f2,2024-12-31 12:53:41,Lixo Acumulado,Estação de Metrô,-23.496862942038025,-46.28761644958836,Manhã,Média,Em Análise,Amet quaerat rerum.,1
+6c5c4d38-83f4-4802-8c89-1fde04ae78a6,2025-06-15 11:24:09,Barulho Excessivo,Parque Urbano,-23.441808361878714,-46.51542717650571,Manhã,Crítica,Em Análise,Neque hic deleniti incidunt id laboriosam quod.,1
+d4e229cd-ad30-4402-badc-da0842c74242,2024-09-08 18:33:27,Aglomeração Suspeita,Parque Urbano,-23.79463715943612,-46.709069898458466,Madrugada,Média,Reportada,Aspernatur ad nihil quasi beatae eos veritatis quas.,0
+ceb95739-b6c3-49a3-a3c5-862003795c3b,2024-09-12 11:20:23,Lixo Acumulado,Estação de Metrô,-23.46662377097195,-46.71702174242337,Manhã,Crítica,Em Análise,Reiciendis vel natus necessitatibus.,0
+3ea9cd9f-32d4-4323-a51e-7654de5fbf61,2025-03-25 09:01:47,Aglomeração Suspeita,Praça Central,-23.83538162576449,-46.80760392114139,Manhã,Baixa,Em Análise,Laborum eligendi reiciendis sunt.,1
+7227c3a7-5bff-499d-8131-0f46beb7236e,2024-08-31 02:35:53,Vandalismo,Bairro Residencial A,-23.80020692106513,-46.3275097272137,Tarde,Média,Cancelada,Sed asperiores officiis libero reiciendis ipsa quidem.,0
+d9111a54-e141-48e9-a5f4-e35f629ab6d2,2025-05-19 03:39:22,Lixo Acumulado,Bairro Residencial A,-23.322026086363845,-46.468990836550354,Madrugada,Baixa,Reportada,Culpa placeat a odit neque.,0
+28048281-8630-4401-8401-56b28d93556f,2024-11-06 04:00:27,Vandalismo,Área Comercial,-23.991007731957655,-46.272524828524965,Madrugada,Crítica,Resolvida,Consectetur mollitia commodi tempore molestiae non accusantium.,0
+636b32aa-b6b4-4282-b761-9390dd61c869,2025-05-10 11:51:48,Outros,Bairro Residencial B,-23.572417022281446,-46.46228526967353,Noite,Média,Reportada,Similique quas iure asperiores laboriosam adipisci eveniet.,0
+e810d067-6820-44eb-bba3-28c6e5f00405,2024-06-21 03:09:03,Vandalismo,Bairro Residencial B,-23.77200845126397,-46.279591291523246,Madrugada,Média,Em Análise,Voluptatum excepturi exercitationem tenetur quaerat placeat magnam.,0
+77634351-df5f-4be7-a8ff-45ec64e15742,2024-12-08 19:34:27,Pichação,Estação de Metrô,-23.042544772852676,-46.82633811377075,Manhã,Baixa,Resolvida,Similique magni voluptas sit ullam nostrum reprehenderit.,0
+c3751abf-475a-4802-8491-0b833f0b1677,2025-02-05 01:30:41,Vandalismo,Área Comercial,-23.591192154989113,-46.30178276579956,Manhã,Média,Cancelada,Iste maxime delectus voluptatibus quam nemo nostrum.,0
+89abf07c-92d6-469f-be33-e8a41016bfdb,2024-10-11 20:47:24,Aglomeração Suspeita,Área Comercial,-23.814944064852764,-46.92504939125836,Noite,Média,Resolvida,Pariatur at doloremque placeat provident.,0
+8a779ac1-b519-45fb-ab6a-41a1ceed136a,2025-03-04 11:53:38,Lixo Acumulado,Bairro Residencial A,-23.448111690863236,-46.594217721342204,Noite,Baixa,Reportada,Cumque est provident distinctio porro eaque.,0
+914b58ad-0ad8-432e-9362-a7b0ec6eee96,2024-09-22 10:34:10,Outros,Estação de Metrô,-23.123411068806277,-46.943884807732076,Manhã,Baixa,Resolvida,Officiis deleniti odit consequatur quibusdam accusantium.,1
+f165d255-d9a9-43ef-b901-125a3a7bc2e7,2024-11-14 22:09:07,Vandalismo,Bairro Residencial B,-23.263067519469917,-46.0060796912718,Manhã,Baixa,Em Análise,Vitae totam accusantium ea mollitia.,0
+b7bf0ebe-fa7d-48bb-bf1b-18dc0f4d6958,2025-06-17 21:47:21,Aglomeração Suspeita,Estação de Metrô,-23.40345518485741,-46.66513721774568,Noite,Crítica,Cancelada,Atque ratione omnis culpa.,0
+7fbfa8d4-b264-41fb-bf9e-9c8faeefc33d,2024-11-08 00:03:03,Barulho Excessivo,Estação de Metrô,-23.962381366314947,-46.646183672953555,Manhã,Alta,Reportada,Nihil facilis quia ex.,0
+b6c2ae29-9d27-48e1-8e67-a50bf1be5425,2024-11-15 12:30:12,Aglomeração Suspeita,Área Comercial,-23.702409554127282,-46.450410598686254,Madrugada,Baixa,Cancelada,Magnam culpa alias quam dolorum exercitationem.,0
+cb8fe1f6-a0c5-4a91-bb21-c66008beccdb,2024-08-28 23:06:53,Outros,Praça Central,-23.41760466423702,-46.90339505259919,Madrugada,Média,Resolvida,Excepturi voluptate ad dolor rerum sapiente.,0
+c38ce06d-1a27-4c3b-bd8f-74b5fd54f19b,2024-11-17 03:56:32,Pichação,Bairro Residencial A,-23.92137718725591,-46.18296878463775,Noite,Média,Cancelada,Ea facere dolorem sequi ipsa harum ad.,0
+2dad4873-a6e3-4e09-8356-4c024fcebf13,2024-12-16 12:07:09,Lixo Acumulado,Praça Central,-23.96203745360436,-46.46362342795615,Noite,Média,Resolvida,Eius quos fugiat ullam vel dicta.,1
+50eca222-bade-4265-8d47-a62298446611,2025-05-09 01:58:23,Vandalismo,Bairro Residencial A,-23.24309501678676,-46.687026997782034,Tarde,Alta,Reportada,Magni quisquam ratione blanditiis deserunt.,0
+57fd79a7-69b5-4f0b-80a0-2e593508f2b7,2024-07-28 11:45:11,Vandalismo,Bairro Residencial B,-23.958375409377638,-46.76105821784479,Noite,Média,Reportada,Aut dolorem quas animi nemo nisi optio nulla.,1
+40617f8f-187b-4871-9a25-f136cf1bcd50,2025-03-16 19:35:35,Barulho Excessivo,Estação de Metrô,-23.84873454384457,-46.4402561265885,Manhã,Alta,Resolvida,Neque sequi dolorum cumque.,1
+ed899ef9-1399-4117-833c-e2a2a4f2bd2b,2025-02-27 15:26:19,Vandalismo,Área Comercial,-23.42306281091004,-46.53188921131557,Tarde,Crítica,Reportada,Sed eos dicta doloremque.,0
+6f589775-8828-4102-9470-89f6a07a9a24,2025-04-03 22:40:56,Barulho Excessivo,Área Comercial,-23.725760117606093,-46.290367785091405,Madrugada,Alta,Resolvida,Consequatur recusandae reprehenderit minus eius magnam sapiente.,1
+3fefb9f3-be1b-4e2b-9f7e-715f38f3a9a6,2025-04-04 16:57:45,Vandalismo,Área Comercial,-23.240199284577677,-46.13488876707957,Tarde,Média,Cancelada,Accusantium illo quod.,0
+76039eb9-0a16-49d4-a158-d4f9c8b39296,2024-09-10 14:32:32,Barulho Excessivo,Estação de Metrô,-23.10616241603245,-46.628782926053965,Manhã,Baixa,Resolvida,Rem non voluptates cupiditate recusandae ad.,0
+95204f4a-0f1b-4562-8f5b-0600b521ea92,2025-05-17 06:16:53,Lixo Acumulado,Área Comercial,-23.213838419711035,-46.403955120921594,Noite,Crítica,Em Análise,Neque error eaque minima.,1
+d6d78b19-1ac6-45d0-952b-565adc39a976,2024-12-19 14:47:16,Pichação,Área Comercial,-23.91900482716043,-46.42433557772039,Noite,Crítica,Cancelada,Animi vero asperiores reiciendis quas tempora inventore.,0
+871f87c8-a38d-40c7-b94d-31e67036b7ad,2025-02-06 15:17:39,Barulho Excessivo,Estação de Metrô,-23.636482993013157,-46.887504968872896,Noite,Média,Em Análise,Neque vitae corporis magnam quia occaecati.,0
+ebbb911d-f778-4ae7-b184-21a65e0709c8,2024-07-13 12:19:06,Vandalismo,Estação de Metrô,-23.76364377991801,-46.20067644087182,Tarde,Alta,Resolvida,Recusandae reiciendis saepe quas inventore dignissimos rem ducimus.,0
+82143178-7b99-412a-a820-d4011e16a971,2025-05-21 19:13:12,Aglomeração Suspeita,Estação de Metrô,-23.353334288044366,-46.78546746219863,Manhã,Baixa,Resolvida,Nisi ullam ipsam nesciunt.,0
+fdefb239-3098-4c53-8f21-7b80619fa813,2025-01-29 10:52:16,Outros,Estação de Metrô,-23.34389289434252,-46.39827397468645,Tarde,Alta,Em Análise,Inventore aut sapiente soluta ipsa aut.,1
+d3bc5c98-62fe-4196-b125-cc8f01bb6412,2025-05-05 10:50:48,Lixo Acumulado,Parque Urbano,-23.101890909605153,-46.04894421666669,Manhã,Alta,Reportada,Veritatis dolores molestias deserunt.,0
+500d9926-edb5-4b1e-a58c-579ecba0c6c4,2024-09-05 11:33:51,Outros,Estação de Metrô,-23.865896097781338,-46.692833666715366,Noite,Média,Em Análise,Dolore rem quasi facilis debitis odit placeat.,1
+467ad65a-9870-44a4-be39-44de7a704be1,2024-07-07 10:20:51,Pichação,Estação de Metrô,-23.49558695961313,-46.3053678530472,Tarde,Média,Reportada,Fuga nostrum id reiciendis fugit aspernatur illo.,0
+311b979d-9658-4812-82a8-02bace14a0bd,2025-05-08 03:15:15,Lixo Acumulado,Parque Urbano,-23.849283147717244,-46.41823081335356,Tarde,Baixa,Resolvida,Id doloremque alias quos minima ab quos.,0
+3debd864-cead-45c2-b15b-c7c28529a88c,2024-09-28 00:40:29,Vandalismo,Praça Central,-23.772153160503986,-46.63080324287155,Madrugada,Média,Reportada,Dolore reprehenderit impedit quis.,0
+26eadbb5-b594-41fb-9803-69fa1df2b622,2024-11-06 16:49:58,Pichação,Bairro Residencial A,-23.81703147038282,-46.6489598322247,Madrugada,Baixa,Resolvida,Voluptates sed placeat distinctio vero.,0
+8bd25b35-4b65-4abd-bdd8-0290e734d759,2024-08-29 15:43:22,Outros,Área Comercial,-23.097831070117298,-46.608272895425934,Tarde,Baixa,Resolvida,Inventore animi consequatur quasi ea.,0
+848d9795-11de-4f8b-b996-f88e0b3aaa36,2024-09-20 03:14:37,Outros,Estação de Metrô,-23.741770696997026,-46.48767097317793,Noite,Crítica,Em Análise,Pariatur culpa atque provident velit deserunt laudantium.,0
+a5f7ebae-f583-4f99-9100-6c4a4d727a65,2025-01-05 09:55:02,Aglomeração Suspeita,Área Comercial,-23.035643279793835,-46.85826448230291,Noite,Baixa,Resolvida,Suscipit dolor eum ipsam voluptatibus molestiae.,0
+cf5676b5-9231-44a1-8373-47f8b38e7955,2024-11-14 12:04:05,Pichação,Parque Urbano,-23.28093630261906,-46.71572551755245,Noite,Crítica,Reportada,Alias ad architecto veritatis.,0
+76a19570-1328-4eb2-8314-8e3e71ae1e58,2025-01-24 08:23:27,Aglomeração Suspeita,Praça Central,-23.49037602295731,-46.02672445889068,Madrugada,Crítica,Reportada,Corrupti explicabo cumque rerum.,1
+f0a7dac3-3097-4b76-9cfb-b25149b80517,2024-10-30 04:06:34,Barulho Excessivo,Parque Urbano,-23.441738181210933,-46.637685230577894,Tarde,Baixa,Cancelada,Quos blanditiis corporis temporibus.,1
+18d0a420-a8f0-40d3-9a60-aa46eda3cd7d,2025-04-11 08:29:00,Lixo Acumulado,Praça Central,-23.848024980609456,-46.4553535657318,Tarde,Baixa,Resolvida,Eum quam eveniet cupiditate rem iure.,0
+eab78371-7e9a-4a66-a556-2eb108234e5e,2025-02-11 00:43:43,Vandalismo,Estação de Metrô,-23.804126267508316,-46.95244872553795,Manhã,Média,Resolvida,Voluptas perferendis accusamus repellendus autem dicta accusamus.,0
+2f482551-5f89-486c-9deb-66975390d7a8,2024-09-11 12:30:37,Lixo Acumulado,Bairro Residencial B,-23.532659968920136,-46.402491708215734,Manhã,Crítica,Reportada,Numquam et eos aspernatur.,0
+754cfddc-3a8b-4869-834f-19c029f0c370,2024-09-30 07:09:06,Vandalismo,Estação de Metrô,-23.024711115971623,-46.04203699969066,Tarde,Baixa,Em Análise,Enim doloremque aspernatur blanditiis assumenda distinctio.,0
+b752a276-8427-4e5f-a763-6916f9ebbd2b,2025-01-08 06:03:03,Vandalismo,Praça Central,-23.70131558164649,-46.25837551112893,Madrugada,Crítica,Reportada,In vitae tempora eos assumenda.,0
+4abe61db-6607-4bba-86a0-8fc5d6e25e55,2025-02-12 22:56:23,Aglomeração Suspeita,Bairro Residencial A,-23.525486864920577,-46.18913986644863,Tarde,Alta,Em Análise,Harum laudantium corrupti et.,0
+c374a7df-18a3-42cf-b8bb-d3ba9ea6b043,2024-11-23 02:25:47,Lixo Acumulado,Estação de Metrô,-23.45070351988038,-46.113198482382856,Tarde,Baixa,Em Análise,Quis libero officiis laboriosam similique corrupti at.,0
+11e52e72-2924-4473-8edc-6353ed0067f9,2025-04-18 20:27:45,Aglomeração Suspeita,Bairro Residencial B,-23.34471909435515,-46.59638309226958,Noite,Média,Em Análise,Corporis corporis autem temporibus velit vero ipsa.,1
+e6ce6dca-8b16-4908-bd1e-bb9185320a20,2024-12-13 08:20:53,Pichação,Estação de Metrô,-23.31535104621551,-46.6830554331021,Noite,Média,Reportada,Quam quae pariatur nihil aperiam earum.,1
+a4a5b08b-93ed-4b5f-8dee-3d3309bc7bc0,2024-07-14 12:29:20,Pichação,Parque Urbano,-23.88195397350821,-46.676851660299924,Manhã,Média,Reportada,Quia ipsum ipsam odio voluptas architecto consequatur.,0
+360b63d5-d2c9-460b-bbcf-005444b2b66e,2024-10-31 10:18:26,Vandalismo,Parque Urbano,-23.029683737037864,-46.7578516857372,Madrugada,Média,Reportada,Praesentium impedit reiciendis amet.,0
+688627b5-9c8d-4adf-86ca-1773aa57d56d,2025-03-27 16:41:06,Pichação,Área Comercial,-23.68838459833573,-46.402797222515815,Manhã,Baixa,Resolvida,Totam modi nobis excepturi rem veritatis omnis similique.,0
+cecd9d64-ce3b-45d8-a176-4029c79f5931,2025-01-27 22:27:08,Barulho Excessivo,Área Comercial,-23.265970450050045,-46.29450894811735,Manhã,Alta,Em Análise,Deleniti consectetur eligendi voluptate ullam sint.,0
+2ed68a5c-6ddb-4198-9935-463b786c5bfa,2024-08-04 03:18:57,Outros,Área Comercial,-23.97986270352658,-46.55148276972096,Manhã,Crítica,Cancelada,Quaerat hic sed qui suscipit debitis perspiciatis corrupti.,0
+882b3080-9de9-481f-ba39-ca3849d35b21,2024-08-08 06:19:40,Barulho Excessivo,Praça Central,-23.616387567688736,-46.89806767573134,Tarde,Alta,Cancelada,Aperiam quos atque laborum.,1
+e8219554-bf73-45fb-8f5c-255e60f20022,2025-06-12 09:19:45,Barulho Excessivo,Parque Urbano,-23.487728907657043,-46.02694449975435,Noite,Crítica,Resolvida,Eligendi porro rem itaque error id dicta.,0
+a318ab7e-3909-4c15-8840-1de0c2c5c35f,2025-05-19 13:30:09,Vandalismo,Área Comercial,-23.443789043028104,-46.60199767422235,Noite,Alta,Reportada,Quibusdam enim deserunt dignissimos neque porro non hic.,0
+8375cfce-cddc-45e7-a182-eabd501cc41c,2024-12-18 11:08:35,Vandalismo,Parque Urbano,-23.32093944748083,-46.75025332208637,Manhã,Média,Em Análise,Accusamus fugit ut doloremque.,0
+f20ac84a-e43a-44c8-9094-f254b5a1cb3c,2025-02-19 16:22:45,Outros,Parque Urbano,-23.48297874993767,-46.640614117003054,Noite,Crítica,Reportada,Eveniet commodi voluptatum.,0
+b1ad8b96-95cc-4fb5-99d4-1d69e06d0a68,2025-04-23 00:17:00,Barulho Excessivo,Área Comercial,-23.64951383389324,-46.67477077937712,Manhã,Alta,Cancelada,Et repellendus quod exercitationem aliquid eaque natus.,0
+65476dea-6080-4c98-99b7-82f8faf259b3,2025-02-09 08:26:40,Barulho Excessivo,Bairro Residencial A,-23.521176760745327,-46.848685977235526,Tarde,Baixa,Resolvida,Quisquam in quidem aliquid corporis reprehenderit incidunt amet.,1
+09450058-a269-4e20-9b19-ba11535ff800,2025-01-06 22:35:42,Vandalismo,Bairro Residencial A,-23.649193037751864,-46.20298858337244,Tarde,Alta,Reportada,Ex ipsam hic tempora recusandae harum dolores illo.,0
+15a6ceff-9c0d-4eb4-98bc-8623c6151843,2025-01-16 06:03:40,Pichação,Estação de Metrô,-23.317077596544134,-46.31612868332077,Noite,Média,Reportada,Enim aspernatur fuga accusamus.,0
+804b6e6e-e4f5-4e8b-8496-34172367ce5e,2024-11-23 23:44:03,Pichação,Praça Central,-23.323801100951798,-46.56767535863171,Noite,Média,Em Análise,Tempora rem eius ab deserunt incidunt totam.,1
+c4a422a9-79de-4650-a8af-eb659258aea0,2024-07-31 18:11:20,Lixo Acumulado,Praça Central,-23.344721165213574,-46.349403481649844,Tarde,Crítica,Cancelada,Soluta vero accusamus.,0
+4ed2702d-37ff-4679-81f3-5a051902bd1a,2025-05-09 22:56:33,Vandalismo,Área Comercial,-23.92618291829843,-46.635128255260575,Madrugada,Alta,Resolvida,Repellat modi temporibus itaque.,0
+010c3de7-081b-420c-af2b-c43c13fd8c1b,2024-12-01 09:17:10,Barulho Excessivo,Área Comercial,-23.61322127837462,-46.726941882517515,Noite,Média,Cancelada,Recusandae fugiat molestiae ex nostrum delectus fuga pariatur.,0
+31699507-1e4c-4915-9b1e-46830e8810d5,2024-06-25 02:38:26,Aglomeração Suspeita,Bairro Residencial A,-23.000194012313393,-46.51957419985656,Madrugada,Baixa,Resolvida,Cum modi dignissimos similique aspernatur ut dicta.,1
+b0ad8942-082b-48d9-902a-5ab4df1b1bc9,2024-12-12 18:35:58,Aglomeração Suspeita,Área Comercial,-23.51124511970335,-46.221931394839515,Noite,Média,Cancelada,Odio veritatis voluptates doloribus repellat.,0
+73a0a296-b403-4db2-8726-e1e4fd056ff0,2024-06-21 03:41:32,Vandalismo,Bairro Residencial B,-23.263370368689905,-46.30913828242651,Tarde,Média,Cancelada,Alias explicabo eveniet.,0
+0997e076-9442-4276-a2ab-c21fbf3f0f00,2025-02-24 18:30:33,Vandalismo,Área Comercial,-23.634858285710166,-46.204663771278476,Tarde,Média,Cancelada,Eligendi placeat nesciunt tenetur libero provident iste.,1
+61d09fe8-1178-4ca1-b21f-7e09b539d6d8,2024-11-10 02:56:01,Lixo Acumulado,Bairro Residencial A,-23.00824448637689,-46.67433131448115,Madrugada,Crítica,Cancelada,A exercitationem esse fugiat aperiam magni.,0
+859fe995-fb2c-4a95-86b0-5dc41f333320,2025-02-24 04:55:55,Barulho Excessivo,Estação de Metrô,-23.617380943605212,-46.04400951176818,Manhã,Baixa,Em Análise,Corporis officiis est aperiam ad veritatis in.,0
+855e5b1b-3bc2-4cca-943a-b8b8827216b0,2024-08-21 13:38:27,Pichação,Bairro Residencial A,-23.95158534917149,-46.50261839552349,Tarde,Crítica,Resolvida,Deleniti adipisci iusto et saepe est hic corporis.,0
+11b61108-dba9-4a9a-9a5d-421c8f762467,2024-11-04 16:25:57,Barulho Excessivo,Praça Central,-23.238751341502287,-46.62381484570359,Manhã,Baixa,Reportada,Explicabo eius ad quas officia.,0
+4f20d602-4bd0-4ce3-9a8e-8231a9350545,2024-11-05 12:57:42,Pichação,Bairro Residencial A,-23.21608004023725,-46.63482544350338,Tarde,Alta,Cancelada,Numquam enim cumque.,0
+cf27c481-3f0a-4bc4-8af1-9deed2a7c312,2024-11-01 21:55:45,Pichação,Bairro Residencial B,-23.29689935632456,-46.83969276884352,Manhã,Baixa,Cancelada,Sunt consequuntur praesentium ea optio distinctio magnam.,0
+dcfc761f-fd98-4eb5-9066-10bfb1851792,2024-07-29 17:47:55,Aglomeração Suspeita,Estação de Metrô,-23.812545694281763,-46.54184690574883,Tarde,Baixa,Cancelada,Blanditiis itaque dolorem eaque omnis molestias ut expedita.,0
+0a9e28a5-ea18-48b5-8af7-1e880d012e3f,2024-12-10 07:24:31,Vandalismo,Bairro Residencial A,-23.32373437081934,-46.407855662945245,Madrugada,Média,Cancelada,Eum doloremque aut eos.,0
+0ecaf6c9-1322-4438-8960-13afbe33d27e,2024-07-08 07:40:24,Lixo Acumulado,Área Comercial,-23.42177410507586,-46.13382070229993,Tarde,Baixa,Resolvida,Provident soluta iure.,0
+67ce2eda-ed58-4a78-a179-47edac7b9414,2025-06-09 12:09:05,Lixo Acumulado,Parque Urbano,-23.35898328045893,-46.5659087004702,Manhã,Alta,Em Análise,Reprehenderit aspernatur error laboriosam veniam.,1
+c27c380f-79e9-4839-bb0d-70957ad2e8a5,2024-10-01 12:35:50,Vandalismo,Estação de Metrô,-23.789803118211054,-46.629101225417436,Manhã,Crítica,Em Análise,A beatae eaque delectus ducimus.,0
+9f80485e-9989-4339-b2e4-699e411f7aad,2025-04-09 02:03:16,Vandalismo,Estação de Metrô,-23.12835308421408,-46.59193890152165,Tarde,Crítica,Resolvida,Excepturi hic dolorum facere vitae quis.,0
+c9f4f6af-bcee-4835-9d31-b3a289c9705f,2025-02-07 02:11:16,Aglomeração Suspeita,Praça Central,-23.270766400728725,-46.05637265542856,Tarde,Crítica,Em Análise,Deleniti optio alias.,0
+4f5c77db-75fd-4f60-b7e0-d33fa9e20ffb,2024-08-26 20:17:59,Aglomeração Suspeita,Praça Central,-23.964866235970355,-46.959204989248704,Noite,Baixa,Em Análise,Iste repellendus fugit voluptate reiciendis delectus quasi amet.,1
+6a2418cc-53fd-4054-b5a1-186c9c6994b6,2024-07-24 09:48:43,Pichação,Praça Central,-23.859851687936217,-46.781497518757654,Manhã,Média,Reportada,Ab ut magnam.,0
+34c2e832-1cad-4006-b42e-c25deee097e6,2025-01-01 21:19:30,Barulho Excessivo,Bairro Residencial A,-23.892613822377893,-46.961957098753615,Tarde,Crítica,Em Análise,Libero modi nihil minima sunt ipsum.,1
+af5febd0-cfc8-4f39-968b-d23997bf5959,2025-01-11 08:52:21,Aglomeração Suspeita,Bairro Residencial B,-23.203156240108843,-46.4174109601536,Manhã,Alta,Reportada,Soluta mollitia debitis quam vitae.,0
+8bcbba3d-22c7-47fd-8966-b2527e37ecfd,2025-01-23 17:20:50,Pichação,Bairro Residencial B,-23.371705587452684,-46.312251147942405,Noite,Alta,Em Análise,Quia ipsam dolorem officiis nobis minima maxime qui.,1
+60d7af18-6a3b-4675-8036-637d81cd0591,2025-01-12 11:56:09,Vandalismo,Parque Urbano,-23.049729396780442,-46.98012179783164,Madrugada,Alta,Reportada,Harum quis deserunt unde molestias harum temporibus.,0
+29b53d80-8b07-4cb8-aa25-d90af9088119,2024-09-08 00:23:38,Pichação,Bairro Residencial B,-23.12692581266642,-46.82381932360819,Manhã,Baixa,Cancelada,Incidunt cumque doloremque quisquam architecto cum amet.,0
+61c43177-068c-448d-93f2-1e8247816677,2025-04-01 07:11:53,Barulho Excessivo,Estação de Metrô,-23.66803087328938,-46.94167898919376,Madrugada,Baixa,Em Análise,Fugit est inventore perferendis voluptate adipisci.,0
+8e9b031d-5934-48cf-9907-a1f4c9bef1ea,2024-07-26 11:30:05,Barulho Excessivo,Bairro Residencial B,-23.957726492968288,-46.62647636702999,Noite,Alta,Em Análise,Reiciendis itaque veritatis ducimus doloremque dolores itaque consequatur.,0
+301541a7-9333-45a6-bb87-7419cc865379,2025-05-10 11:58:24,Barulho Excessivo,Praça Central,-23.52793633332786,-46.34633722645419,Madrugada,Baixa,Em Análise,Alias asperiores iure quibusdam mollitia porro dolorem.,1
+a16d7de5-3704-40a0-bf20-c87b64450cd8,2024-06-20 09:34:40,Lixo Acumulado,Bairro Residencial B,-23.487445682722864,-46.27113028184823,Manhã,Crítica,Cancelada,Aliquid perspiciatis minus reiciendis quam architecto et.,0
+16d3483f-4526-4838-8983-17ca9581c090,2025-04-02 03:49:53,Aglomeração Suspeita,Área Comercial,-23.988275826863852,-46.80318867803642,Manhã,Baixa,Reportada,Consequuntur ex molestiae vero voluptatem.,0
+439f6c30-1db4-4d6c-9125-048d30e62418,2024-10-24 23:31:52,Vandalismo,Área Comercial,-23.492642646540858,-46.11098413264154,Tarde,Baixa,Em Análise,Ipsa assumenda ducimus vel quibusdam iusto ullam.,0
+bb178fe7-a09e-405c-80da-aac6fa265594,2024-08-16 18:29:42,Aglomeração Suspeita,Praça Central,-23.316480369525355,-46.419888281643736,Manhã,Alta,Em Análise,Vero exercitationem cum ipsam dolorum quam.,0
+bd6a4a85-fad6-4351-92f3-c2b665370673,2025-04-17 06:05:05,Lixo Acumulado,Estação de Metrô,-23.136036124411632,-46.66703765243189,Tarde,Crítica,Cancelada,Debitis quia enim vel nam voluptate explicabo cumque.,0
+5fabc565-04a4-4e33-a67d-25ce7a896728,2024-07-08 11:04:52,Barulho Excessivo,Estação de Metrô,-23.898659920595634,-46.27613516448799,Manhã,Baixa,Resolvida,Doloremque delectus molestias neque consequuntur alias magni similique.,0
+8840a4a2-56c4-486d-b4e9-5160c323bb08,2024-10-03 02:46:21,Aglomeração Suspeita,Praça Central,-23.841482333663155,-46.35756269671533,Noite,Baixa,Reportada,Aperiam facilis ipsa laudantium totam.,0
+a2f5c541-db39-4ecf-a956-39aed8ba5ab0,2024-12-17 08:40:13,Outros,Bairro Residencial A,-23.26755616704365,-46.250490582878825,Manhã,Alta,Reportada,Amet neque necessitatibus similique provident corporis hic.,1
+02790ad2-4f30-4f5f-aaf3-de8fb08867ec,2025-04-08 05:42:01,Lixo Acumulado,Praça Central,-23.775030550686342,-46.85348432337871,Tarde,Alta,Resolvida,Accusamus omnis delectus.,1
+ffd5e8ac-241f-4a6b-83bb-7db09db3ad6e,2024-10-04 10:37:18,Aglomeração Suspeita,Bairro Residencial B,-23.134013484099047,-46.900646577306304,Madrugada,Média,Em Análise,Recusandae cumque sed ducimus eligendi fugit.,0
+3ac46689-e069-4ae7-9385-f244ddbfdf0e,2024-11-06 10:31:27,Outros,Praça Central,-23.10011252376764,-46.76875727316004,Noite,Crítica,Reportada,Voluptates illo illum voluptatibus eos dolorum.,0
+45f7b299-be7f-43a7-9c99-3adb73faf841,2025-06-12 12:36:49,Vandalismo,Estação de Metrô,-23.261752680577537,-46.973584456099594,Madrugada,Baixa,Reportada,Voluptatum quasi dolor sapiente cupiditate quae in itaque.,1
+0ae9c3a1-b774-4a17-ad8b-d095c385be5b,2025-02-16 05:16:18,Vandalismo,Bairro Residencial B,-23.403321447479186,-46.057572560638924,Tarde,Crítica,Cancelada,Illum labore perferendis molestiae.,0
+d5454497-d8ca-4786-b51d-5e5d166e256b,2025-05-28 17:10:38,Outros,Parque Urbano,-23.581592999568695,-46.49937323608313,Manhã,Baixa,Resolvida,Facere ut maiores reprehenderit illo asperiores rerum.,1
+e57b7811-1fd8-4147-ab3b-845488568ec9,2024-12-03 12:28:19,Barulho Excessivo,Área Comercial,-23.126102268945967,-46.56559656255105,Noite,Crítica,Em Análise,Repellat reiciendis incidunt quae mollitia suscipit.,1
+9852913c-af5c-436c-ab4f-d0a35b89f64f,2024-09-22 03:03:57,Barulho Excessivo,Praça Central,-23.499606113230506,-46.11192535698745,Madrugada,Crítica,Reportada,Molestiae sunt sunt ab similique excepturi.,0
+9ce85cc5-3c53-47c0-b37a-603270cbe54b,2024-07-16 20:13:48,Vandalismo,Área Comercial,-23.96959865995402,-46.37035110423191,Tarde,Baixa,Cancelada,Quo optio dolore expedita culpa delectus nisi excepturi.,0
+20b8077d-e45a-4abe-9db0-3aae35d4b493,2024-08-11 18:31:28,Vandalismo,Estação de Metrô,-23.491338344753732,-46.29873684268992,Madrugada,Baixa,Reportada,Quas assumenda debitis doloribus corrupti.,0
+df5e2b15-486e-4700-8a19-3390da81b56f,2025-06-01 03:36:06,Outros,Estação de Metrô,-23.03817477491322,-46.20388332854812,Manhã,Crítica,Cancelada,Suscipit cum sit ipsum assumenda.,0
+5ef467d9-973f-46ec-8fe5-59f89b2aaa9e,2025-04-06 05:39:37,Outros,Estação de Metrô,-23.06873793938137,-46.356502327888144,Madrugada,Média,Resolvida,Perspiciatis minus quae saepe laborum occaecati debitis.,0
+3e72889a-3c51-47ac-b52a-9ff5498085ec,2024-07-18 06:46:30,Aglomeração Suspeita,Parque Urbano,-23.102851660438617,-46.67150328598405,Noite,Alta,Cancelada,Reprehenderit cupiditate sed neque quia error itaque.,1
+1ab05c00-bf15-463f-9c63-31411e6884d3,2024-10-03 18:55:54,Outros,Parque Urbano,-23.840563289343724,-46.788786388980775,Tarde,Média,Resolvida,Consequatur quo sequi sed ex adipisci corporis quae.,0
+aa36fffb-717a-4ab9-93e4-da83d858759c,2025-01-30 09:03:26,Lixo Acumulado,Bairro Residencial B,-23.416050287301115,-46.50469646567266,Noite,Média,Cancelada,Illum corrupti officia consectetur repellat.,1
+8f3a9cfd-42b7-4789-9966-ac0c210d85d5,2025-01-02 08:43:20,Vandalismo,Bairro Residencial B,-23.937410083911168,-46.071023404303574,Madrugada,Média,Em Análise,Alias tenetur quos hic velit quasi velit.,1
+d7d2e36f-6587-4fca-b149-8d156b5de243,2024-06-20 20:42:58,Outros,Bairro Residencial A,-23.067268634687153,-46.99489036306204,Tarde,Baixa,Resolvida,Molestias officiis alias ab aliquid.,1
+888acd43-d0a7-430e-9fc1-4c00e45600aa,2024-07-03 08:17:22,Outros,Área Comercial,-23.385288057163635,-46.599615056062255,Manhã,Alta,Resolvida,Accusantium ullam maxime fugiat.,0
+dca7c2f6-8b26-47b8-9c5e-ad3b1a9c4a60,2024-12-23 02:20:56,Vandalismo,Praça Central,-23.6078885525362,-46.27287662173855,Manhã,Alta,Cancelada,Deserunt sunt illo aspernatur a voluptatem voluptatibus.,1
+a9191651-d10c-40f9-938d-b7479cc8f892,2025-05-20 09:41:27,Lixo Acumulado,Parque Urbano,-23.33557455465101,-46.35698129018347,Manhã,Média,Resolvida,Omnis consectetur consequatur praesentium odio.,0
+5bc913d3-2fc7-4231-bdd7-fb280b39c87c,2025-05-09 04:20:55,Vandalismo,Praça Central,-23.452239480247144,-46.112350456013935,Tarde,Crítica,Resolvida,Vero laboriosam magnam eveniet blanditiis inventore voluptatem.,0
+5f7dfebc-a406-4af6-b49c-6239afca5be1,2024-08-20 07:21:45,Aglomeração Suspeita,Parque Urbano,-23.368820559393484,-46.85266022100091,Manhã,Média,Resolvida,Est quis odio libero nobis.,1
+485862bc-fd9f-40d1-8eb6-d2aa95fb93df,2024-10-31 08:52:17,Aglomeração Suspeita,Estação de Metrô,-23.310914096075358,-46.317020958044196,Noite,Média,Em Análise,Aspernatur fuga quibusdam quasi eveniet.,0
+52932297-27e4-42b9-a40f-cecfd5f26952,2024-10-17 06:41:30,Outros,Praça Central,-23.936942888951652,-46.81078257802989,Tarde,Alta,Em Análise,Voluptas pariatur debitis consectetur ipsam suscipit.,0
+1df9f08c-37db-477b-a852-b4f16dacebf8,2025-05-28 02:47:23,Outros,Praça Central,-23.874455778370056,-46.446698137022345,Tarde,Média,Reportada,Tenetur at minima exercitationem voluptates excepturi quaerat.,1
+dc9cc60e-1724-4cd2-a3e5-b1f2dc7d48df,2024-10-06 22:21:09,Aglomeração Suspeita,Estação de Metrô,-23.87400294208571,-46.444895024135114,Tarde,Média,Em Análise,Pariatur sed quidem vel exercitationem veniam.,1
+9b4d381f-32eb-4388-a6d8-1e8441e220a9,2024-07-30 23:39:08,Aglomeração Suspeita,Área Comercial,-23.99877298661106,-46.218344128328226,Madrugada,Média,Resolvida,Labore temporibus esse ullam.,0
+b49ec108-bca4-4efc-a672-59273226dbfa,2024-09-28 04:08:13,Vandalismo,Bairro Residencial A,-23.988946546810954,-46.480062114207946,Noite,Média,Cancelada,Ex dolor praesentium numquam nesciunt sed.,0
+683f51dd-49fb-4747-8da6-f4b36ff521e4,2025-04-02 10:19:44,Pichação,Bairro Residencial A,-23.503880769398652,-46.29377202697535,Noite,Alta,Em Análise,Aliquam dignissimos in deserunt neque.,0
+77fbec4c-b592-4b95-8072-7252fc604953,2024-10-10 19:22:11,Barulho Excessivo,Área Comercial,-23.475104723651203,-46.36260896261201,Tarde,Crítica,Cancelada,Distinctio delectus odio veritatis quasi.,1
+a366ca77-1fd5-41e4-a950-70df44ba3455,2025-04-14 18:22:27,Barulho Excessivo,Estação de Metrô,-23.751218019417124,-46.34723940453888,Noite,Alta,Resolvida,Architecto rerum magni itaque.,0
+72ad343a-08b3-4a62-b03b-a1f48179de7a,2024-09-10 12:37:16,Lixo Acumulado,Bairro Residencial A,-23.393789767993837,-46.90111854675913,Madrugada,Baixa,Em Análise,Incidunt accusantium minus harum veritatis atque aspernatur.,1
+409fb31e-3ac2-4297-9ca3-39244744c2e2,2025-04-13 12:54:12,Vandalismo,Praça Central,-23.410569863883183,-46.858146018488135,Madrugada,Média,Resolvida,A cumque fuga sit magni velit repudiandae.,0
+339403a2-6fcc-428c-9387-6f33eff142a3,2025-01-11 14:26:11,Outros,Área Comercial,-23.447016117518185,-46.06846731822957,Tarde,Crítica,Cancelada,Ullam eius voluptates placeat magnam.,0
+7b44cc5f-8a2d-48f9-aa69-e7de3f41ab52,2024-11-07 15:43:39,Outros,Área Comercial,-23.696789181767464,-46.62663406555067,Tarde,Baixa,Em Análise,Magni iste vitae ut officia veritatis alias.,1
+7d432bad-d58b-4e22-80e4-5a3b2a2854a0,2024-12-18 03:05:00,Lixo Acumulado,Bairro Residencial B,-23.845363003861802,-46.572936722867915,Noite,Média,Reportada,Fugiat harum ullam nostrum hic qui.,0
+9fd4435e-c909-422f-bf64-d3c74ef8507f,2025-03-15 09:10:09,Barulho Excessivo,Parque Urbano,-23.13011363563332,-46.70326933312472,Noite,Crítica,Reportada,Ullam quaerat officiis occaecati.,0
+ed66c0bd-635e-49e1-957c-59d00ca79907,2025-01-23 08:51:03,Lixo Acumulado,Bairro Residencial B,-23.52304573582461,-46.08257611597114,Tarde,Média,Resolvida,In pariatur placeat ad.,0
+03edaa59-e079-4cf3-9e5d-b0f84d678679,2024-10-07 11:02:14,Aglomeração Suspeita,Bairro Residencial A,-23.84736096966091,-46.72228893660499,Manhã,Média,Resolvida,Vel mollitia laboriosam labore expedita.,0
+60e31607-f505-40db-8c7d-b73ec5a10dcd,2025-03-20 00:43:53,Vandalismo,Parque Urbano,-23.52427253987047,-46.33587710903953,Tarde,Alta,Em Análise,Tempora aut deleniti delectus.,1
+5d05fd8e-55cc-43cc-96d7-e43c82e90577,2024-07-20 19:25:18,Barulho Excessivo,Estação de Metrô,-23.723873838974235,-46.32734781653318,Manhã,Média,Cancelada,Odio earum deserunt quis laborum et dolores.,0
+fc32ee10-349c-4c52-86da-e66b06fc6d9f,2024-12-21 06:18:47,Aglomeração Suspeita,Bairro Residencial B,-23.600650586746852,-46.84873100262024,Madrugada,Média,Reportada,Repudiandae laboriosam voluptate perferendis quidem consequuntur.,1
+483d868a-8cf4-4f5b-8379-8f69446f9f56,2024-07-14 00:23:02,Barulho Excessivo,Bairro Residencial B,-23.62057309347934,-46.85864136353149,Madrugada,Alta,Cancelada,Quidem autem sint aspernatur non excepturi tenetur laboriosam.,0
+e3b02492-75c4-43d4-8039-e7161836b3fb,2025-03-25 11:28:52,Aglomeração Suspeita,Bairro Residencial B,-23.779873070526975,-46.50234456400893,Manhã,Baixa,Cancelada,Itaque vitae maxime molestias soluta facilis aliquam.,0
+4c839926-24c9-4ab9-9356-7e58f085916c,2024-07-01 20:48:45,Pichação,Área Comercial,-23.35891951079268,-46.50158537053381,Noite,Baixa,Cancelada,Praesentium praesentium asperiores temporibus.,0
+b60ceb03-94ff-4a82-b142-e40b546fa06d,2025-02-23 06:17:14,Pichação,Estação de Metrô,-23.88209707564841,-46.85613988705594,Noite,Alta,Reportada,Saepe animi error ut perferendis vero.,0
+c088d582-84ce-4e94-bf82-8617a7a39224,2024-08-14 09:07:48,Vandalismo,Estação de Metrô,-23.982856095390826,-46.77158231098217,Madrugada,Média,Em Análise,In ut asperiores iure.,0
+8eba7a24-476e-4dd3-b6e3-4645859be806,2024-12-13 10:53:49,Outros,Praça Central,-23.86245478689082,-46.55636797765606,Noite,Alta,Em Análise,Maiores suscipit fugit iure quo.,0
+81886868-2e7d-4ffe-8cde-8eed7c7c7672,2024-09-30 20:25:20,Vandalismo,Bairro Residencial B,-23.610552128172703,-46.867223786154426,Tarde,Média,Em Análise,Neque odio ea vitae vero accusantium ipsa.,1
+375115a6-8b2f-419a-838d-1333a4208453,2025-05-26 00:11:23,Pichação,Praça Central,-23.758351151751494,-46.68979254295428,Madrugada,Alta,Reportada,Eos maiores accusamus.,0
+cdb76bc2-1855-4dc7-8470-1e3b823d2bf8,2024-07-06 14:34:01,Pichação,Área Comercial,-23.623733603136674,-46.550642870349016,Tarde,Crítica,Cancelada,Non beatae rerum provident libero consequatur ducimus.,0
+519b414b-616c-41a4-a3c8-0ae16e5a4d56,2024-10-04 10:28:39,Barulho Excessivo,Área Comercial,-23.645031198963608,-46.048022196675106,Noite,Crítica,Resolvida,Molestias harum consequatur voluptates.,1
+03ab5eab-343b-4f77-8654-dd032e4aafe6,2025-02-05 02:45:50,Vandalismo,Parque Urbano,-23.225419082243583,-46.44563142751006,Noite,Crítica,Cancelada,Omnis illum libero.,0
+5cae6abd-8bfb-40f7-a4d1-bcfb5506acf4,2024-09-29 19:14:07,Aglomeração Suspeita,Bairro Residencial B,-23.94580744302872,-46.6635758203398,Tarde,Crítica,Cancelada,Ad velit sequi.,0
+c804d73f-4d1d-419f-ad32-f6915aa7014a,2025-01-21 11:12:02,Pichação,Parque Urbano,-23.616036182254287,-46.15154791721101,Madrugada,Média,Reportada,Quidem ullam error praesentium itaque corporis eum similique.,0
+e643ef80-f03e-472e-ab34-c7c30ba16968,2025-06-14 12:54:16,Outros,Bairro Residencial A,-23.832370876172433,-46.47680736264281,Manhã,Alta,Reportada,Eligendi reprehenderit similique exercitationem nobis qui.,1
+9c6e9993-34ca-4fa2-8533-9819a3d633e3,2025-05-12 23:21:20,Outros,Estação de Metrô,-23.985657949870642,-46.99397839580487,Manhã,Média,Resolvida,Ea minus rerum saepe nisi perspiciatis.,0
+bba298ba-8800-4332-9e83-ae172aa8b54d,2024-09-23 09:20:08,Vandalismo,Praça Central,-23.25937755316315,-46.148721384118105,Noite,Média,Resolvida,At cumque rem quas laboriosam blanditiis quaerat aut.,1
+ae34a2c4-8a1f-474b-bd45-d6e5e7ee9a90,2025-06-08 13:11:00,Lixo Acumulado,Estação de Metrô,-23.85143723576066,-46.24379244957715,Manhã,Baixa,Resolvida,Voluptate quia quibusdam voluptatem velit.,0
+f4a346a6-df5d-4653-8806-3c05ab1ff4c6,2025-03-14 07:49:10,Aglomeração Suspeita,Bairro Residencial A,-23.388895308589248,-46.43957795218744,Manhã,Baixa,Cancelada,Accusantium voluptatem consequatur numquam.,0
+253aee4a-c1ba-423d-8322-087f95b6ec05,2024-07-05 19:40:33,Pichação,Praça Central,-23.5364548579039,-46.76330528850828,Manhã,Crítica,Reportada,Natus eos velit.,0
+0e9b700b-3e8f-4d08-b703-0943c0da966d,2024-10-12 17:43:50,Vandalismo,Parque Urbano,-23.1748010830356,-46.25389574643199,Madrugada,Alta,Reportada,Quis natus accusamus itaque odio quidem.,0
+3227f0fa-8c2c-4d30-a7e1-8e579ff5537f,2024-07-11 14:22:03,Vandalismo,Bairro Residencial B,-23.024370511267595,-46.272691284489675,Tarde,Baixa,Cancelada,Excepturi modi natus id commodi ut veritatis minima.,0
+e8ac7071-63ad-4740-b05f-e800219186b8,2024-08-25 18:19:15,Vandalismo,Praça Central,-23.521519127570656,-46.70925497064008,Noite,Baixa,Reportada,Voluptate nulla maxime quibusdam recusandae ab.,0
+7ba8ceea-721b-407f-9cf4-46ca52958a57,2025-05-01 06:17:24,Lixo Acumulado,Bairro Residencial A,-23.340503680926723,-46.696489182875894,Manhã,Média,Cancelada,Quam recusandae assumenda dolor.,0
+0304bd79-2119-4624-98ee-3ca9927cc3a8,2024-11-22 14:29:35,Pichação,Bairro Residencial A,-23.712387075505518,-46.68902516940666,Tarde,Média,Resolvida,Ut quos sint nihil itaque.,1
+67ea3805-de0f-4d0e-b9ba-aef61b1e03a4,2024-07-05 04:54:44,Vandalismo,Estação de Metrô,-23.292549233671647,-46.994442249009325,Manhã,Baixa,Reportada,Quo enim magnam expedita labore.,0
+b96e5958-45f7-411c-917d-d09b81e3cc33,2025-03-30 23:09:45,Pichação,Bairro Residencial B,-23.52565286713433,-46.495962521681584,Tarde,Alta,Cancelada,Ipsa deserunt accusamus aliquam beatae accusamus recusandae doloremque.,0
+fcc39e09-628b-449c-ad44-07493344470c,2024-11-20 20:32:00,Outros,Estação de Metrô,-23.66768579992804,-46.431257500220426,Tarde,Média,Reportada,Velit accusantium dolores dignissimos voluptates excepturi.,1
+187fe9ed-0fc4-4a63-9e9c-0efd30e70f66,2024-12-26 09:43:52,Outros,Estação de Metrô,-23.895137806534734,-46.95201460896902,Tarde,Baixa,Em Análise,Fugiat voluptatem animi occaecati repellendus inventore.,0
+1e719d44-ebb4-4d64-80cf-aba5cb82a2d7,2024-06-21 15:19:42,Vandalismo,Bairro Residencial A,-23.398578336470013,-46.83911469571335,Tarde,Crítica,Cancelada,Nemo earum animi.,0
+af1c4ec9-f2ce-4afb-aa1e-76196e0ac507,2024-10-29 18:04:30,Vandalismo,Bairro Residencial B,-23.187835731644306,-46.1201428013778,Noite,Crítica,Resolvida,Cum beatae blanditiis quo.,0
+05ebe867-7902-4f55-a023-a67ee780c337,2025-05-15 21:21:48,Aglomeração Suspeita,Estação de Metrô,-23.181432899434544,-46.8349060474744,Manhã,Baixa,Cancelada,Fugiat fugiat beatae nobis dolorum deleniti maxime quae.,0
+05df10f9-afa9-4f3c-a992-c98ae6e64c36,2024-08-28 19:19:11,Outros,Praça Central,-23.210341971071752,-46.908554799702785,Manhã,Alta,Em Análise,Veritatis perferendis repudiandae ea laudantium ea.,0
+c13fa4fc-8b54-4b66-a970-11a9c98dfab5,2025-05-14 21:28:32,Aglomeração Suspeita,Praça Central,-23.97669317380373,-46.60506690197034,Tarde,Crítica,Cancelada,Aspernatur ea recusandae culpa reiciendis at.,0
+a675b22a-2e8a-4f63-bc8c-a557d89c2e4e,2024-07-31 07:13:06,Pichação,Parque Urbano,-23.89752585845279,-46.44134456101081,Tarde,Alta,Cancelada,Asperiores possimus laborum.,1
+658d131d-d8dd-4f6c-badf-59647820b5dd,2024-12-04 22:01:53,Lixo Acumulado,Bairro Residencial A,-23.258335906843406,-46.83905266716902,Manhã,Média,Resolvida,Natus consequatur ullam eum sed.,1
+bf55dcfd-7c75-4393-840b-d55dfe4566e3,2025-03-14 14:53:07,Aglomeração Suspeita,Praça Central,-23.24852198089345,-46.16646009023145,Madrugada,Crítica,Em Análise,Similique ullam perspiciatis doloremque voluptas quibusdam.,0
+1ebfa451-120e-4c1f-8c18-092cdd9d72e3,2024-12-07 01:38:26,Pichação,Área Comercial,-23.18542506777099,-46.03157946618637,Tarde,Alta,Resolvida,Architecto laborum vel expedita hic omnis.,0
+f8e35c92-800f-4d66-92e4-045d7e0f7366,2024-06-26 00:40:17,Pichação,Parque Urbano,-23.50544879382366,-46.11808191648826,Madrugada,Média,Reportada,Error ab tempore.,0
+f24fd698-3887-4844-96d7-098213f0146f,2024-07-20 04:18:38,Vandalismo,Praça Central,-23.531195422880945,-46.5181850290774,Manhã,Crítica,Reportada,A reprehenderit reiciendis veritatis occaecati expedita necessitatibus.,0
+db3a46cb-19aa-4fbe-b56e-34027a60d4a3,2024-09-27 23:44:50,Pichação,Estação de Metrô,-23.64421729542905,-46.997149253686835,Tarde,Crítica,Cancelada,Id enim repellat dolores neque atque dignissimos distinctio.,0
+a6992c44-ab5c-4e53-be54-2d2a0d048d3d,2024-11-07 22:46:07,Pichação,Praça Central,-23.010409796840452,-46.84118747194432,Tarde,Crítica,Cancelada,Quas tenetur distinctio eum accusamus.,0
+a4422887-f636-4f1c-809e-00614b2a8fe9,2024-10-01 08:53:46,Aglomeração Suspeita,Área Comercial,-23.240094642654867,-46.760002356187435,Manhã,Alta,Em Análise,Similique laborum ad commodi qui voluptatum.,1
+d321910d-310b-4aab-98ab-7c44185abe2d,2025-03-25 10:46:01,Pichação,Área Comercial,-23.92372640729973,-46.37888657729552,Madrugada,Média,Em Análise,Assumenda quos accusamus recusandae libero.,1
+45dc73cb-73f4-4564-86b8-b8f2db1f400d,2025-04-23 03:17:16,Vandalismo,Bairro Residencial A,-23.194540384645176,-46.7554345073238,Madrugada,Baixa,Reportada,Vel totam esse deleniti est.,1
+6074816e-3c26-4f6e-a6ff-b83fff61447c,2024-09-20 11:57:59,Pichação,Bairro Residencial A,-23.75018978520335,-46.812629720992064,Madrugada,Média,Em Análise,Cumque adipisci assumenda quasi quisquam voluptas.,1
+9035ee70-b26d-4928-a0d6-cf65da13faee,2025-05-29 02:19:09,Pichação,Bairro Residencial A,-23.801951599036332,-46.31324154165708,Noite,Baixa,Cancelada,Debitis eius harum et voluptas.,0
+80ace0d0-4855-4b8c-a303-b684c744709b,2025-01-19 11:52:57,Outros,Área Comercial,-23.366116987254326,-46.65867795282499,Manhã,Alta,Resolvida,Quam placeat dolorum magni blanditiis quia.,1
+b793bf61-62e1-4e00-8463-12bf4f359a5d,2024-12-04 09:49:09,Outros,Área Comercial,-23.74445786125347,-46.795631947328374,Manhã,Alta,Cancelada,Voluptatum magni nesciunt.,0
+cdacb4e0-f933-48fa-997b-b38ebd006bc1,2024-12-22 23:14:04,Aglomeração Suspeita,Bairro Residencial B,-23.574472097780998,-46.641863641845354,Madrugada,Média,Em Análise,Accusamus doloribus quibusdam ut omnis.,0
+3f47665f-f8f2-467a-bc81-8193ac3db8ac,2024-10-06 03:00:03,Pichação,Bairro Residencial B,-23.866070610411803,-46.02300141787692,Madrugada,Alta,Reportada,Repellendus exercitationem maxime dolorem.,0
+d19fef92-c27d-40f2-b39b-31422a21c86c,2025-05-09 10:20:58,Pichação,Parque Urbano,-23.472350735620527,-46.950332708721575,Noite,Baixa,Reportada,Illum fugit cupiditate maxime ratione similique.,0
+9785c246-c595-4381-9394-c74d9e3275b8,2024-12-18 03:34:38,Outros,Parque Urbano,-23.99396797060398,-46.89365315449665,Manhã,Crítica,Resolvida,Alias omnis nisi tempore maxime.,0
+50c931ae-c7bb-4385-9c35-6e7d0ed9a01f,2025-06-14 19:26:45,Lixo Acumulado,Área Comercial,-23.532355673978042,-46.01843911276614,Manhã,Baixa,Em Análise,Aut facere possimus sequi optio nostrum amet.,1
+3cfb3c1b-7bcb-485a-aae6-e44149b32dd2,2024-09-29 14:09:28,Pichação,Área Comercial,-23.77034319302805,-46.61426112982971,Madrugada,Crítica,Cancelada,Unde ducimus ea expedita eius ut nisi neque.,0
+da01dffe-79ed-4adc-926e-59891f663c93,2025-04-01 01:27:05,Outros,Estação de Metrô,-23.923567549043167,-46.696799123730926,Madrugada,Baixa,Em Análise,Aut praesentium ea iusto beatae dolor.,0
+e9a02d4a-d09a-4502-a8bb-d94bbbf1e3d8,2025-05-06 18:00:06,Barulho Excessivo,Bairro Residencial B,-23.672536542810146,-46.54039389181787,Noite,Crítica,Cancelada,Expedita veniam numquam doloremque.,1
+543d65d2-0f03-45e2-b6ea-b5abab457b90,2024-07-31 08:58:08,Lixo Acumulado,Parque Urbano,-23.191689825661722,-46.52270980058015,Manhã,Baixa,Resolvida,Quis est eum quaerat dolores voluptates quas debitis.,0
+32d80b5c-9f20-40bc-9ecf-baefee72e9b9,2024-09-18 08:12:37,Pichação,Parque Urbano,-23.14877894324545,-46.428395442083634,Manhã,Alta,Reportada,Laborum nemo vel quisquam quia.,0
+e4938844-93fc-49bc-98cd-effe6c6ff6c8,2025-04-07 21:28:35,Outros,Bairro Residencial A,-23.773315904769163,-46.77893855788265,Madrugada,Baixa,Cancelada,Quod recusandae ut porro voluptates.,0
+cc1ec296-6a44-47e6-aeae-dee98e65a27a,2025-01-04 12:05:57,Aglomeração Suspeita,Área Comercial,-23.476056003047084,-46.64446614756887,Manhã,Baixa,Cancelada,Sunt impedit voluptates quaerat suscipit iusto.,0
+d503f672-0da9-4c0b-b608-c1565ddb936b,2025-04-11 10:54:25,Lixo Acumulado,Praça Central,-23.326537752748116,-46.221417169382036,Tarde,Média,Resolvida,Qui facilis deleniti quas molestias porro dolorem.,0
+a7435c4b-e316-4b52-9953-b8e7d7dea516,2024-07-21 20:56:24,Pichação,Praça Central,-23.553124068309934,-46.23719741421204,Manhã,Alta,Em Análise,Hic fugiat error et soluta laborum sint dolores.,1
+455062f8-ad26-4b12-b012-31aa85006fd1,2025-02-18 06:29:07,Aglomeração Suspeita,Parque Urbano,-23.72578649811748,-46.09918955299135,Noite,Baixa,Reportada,Non cupiditate dolores ut.,0
+ca2665bc-def3-4597-8ae3-c06bf9fb284a,2024-12-08 15:38:56,Barulho Excessivo,Estação de Metrô,-23.117356359360972,-46.534387620801915,Noite,Crítica,Reportada,Alias consequatur laboriosam culpa unde id repudiandae officia.,0
+53d7124b-191a-4650-a5bb-a0d50bc20450,2024-12-18 14:52:54,Vandalismo,Bairro Residencial B,-23.401869911166408,-46.98793299881015,Tarde,Baixa,Resolvida,Natus vero nobis velit adipisci assumenda minus.,0
+11bfa0d0-48cb-493e-8dd7-c3dee7efa36a,2025-04-01 19:29:46,Aglomeração Suspeita,Parque Urbano,-23.262556368233913,-46.491698989662524,Tarde,Média,Resolvida,Dolore dolore provident non.,1
+db769b1c-e25d-4435-9ae5-bdc4c5862e72,2024-09-26 02:26:43,Vandalismo,Bairro Residencial B,-23.236163016698203,-46.62310838963139,Tarde,Crítica,Cancelada,Sint ullam quisquam nihil nisi odit.,1
+a35ca760-15b5-46f4-8c53-8ccfdec7fa42,2025-02-21 18:13:01,Aglomeração Suspeita,Praça Central,-23.961710441605106,-46.913118851763734,Manhã,Alta,Em Análise,Maiores pariatur rerum molestiae occaecati.,0
+28efc45c-23d9-448a-800a-34b8643c27c5,2024-07-09 02:06:36,Aglomeração Suspeita,Bairro Residencial A,-23.50049455474468,-46.894840815553025,Manhã,Média,Reportada,Praesentium vero iusto corrupti expedita quisquam cum earum.,0
+a48f31fa-9225-4720-9f11-e816c10df8c0,2025-03-03 06:52:59,Lixo Acumulado,Bairro Residencial B,-23.413436672866354,-46.117725854306165,Noite,Crítica,Resolvida,Provident excepturi perspiciatis natus accusantium non.,1
+56bde9f1-a075-48a2-8a96-456be386f0b7,2024-06-21 03:57:55,Lixo Acumulado,Bairro Residencial A,-23.307091239788008,-46.49623130579906,Manhã,Alta,Cancelada,Amet consequuntur porro officia delectus dolore illum suscipit.,1
+d5c08b26-1abe-45eb-a3e5-eacc06bd98d5,2025-01-06 10:34:41,Outros,Estação de Metrô,-23.547371808509087,-46.04038954984707,Madrugada,Crítica,Resolvida,Esse quis consectetur facere.,0
+757d74f2-79c0-4255-b2e7-9afbfeba35f5,2025-01-19 11:44:36,Pichação,Área Comercial,-23.056100537105394,-46.809726423569956,Noite,Média,Resolvida,Eum quam magnam distinctio eveniet repellat optio.,1
+4ee22d28-e96d-4533-9a98-a1189aebe0ec,2024-09-15 01:34:03,Pichação,Bairro Residencial B,-23.158534082552375,-46.44509177079261,Manhã,Baixa,Cancelada,A accusantium eaque impedit quia sapiente magnam.,1
+05e43c22-e203-491b-93e6-d7c01b705654,2025-02-12 11:59:33,Aglomeração Suspeita,Praça Central,-23.16343143462587,-46.376841429344914,Madrugada,Crítica,Cancelada,Amet debitis ut officia nihil delectus pariatur.,0
+03fa1d7f-3be5-4074-a022-737b4fc5fea8,2024-12-18 20:35:05,Aglomeração Suspeita,Bairro Residencial A,-23.208200264734145,-46.90138185320961,Manhã,Baixa,Cancelada,Corrupti voluptate quod reiciendis asperiores repellat.,1
+bfac407e-102c-4de1-84eb-8911a15746d6,2024-08-12 16:18:55,Lixo Acumulado,Bairro Residencial B,-23.751836975196635,-46.28125111058327,Tarde,Crítica,Resolvida,Provident eius quas quod optio quia quibusdam.,1
+8ac46e4e-e3bf-4d13-926b-13e33b88a413,2024-10-09 23:48:08,Pichação,Praça Central,-23.186071648619134,-46.32558690124838,Tarde,Alta,Cancelada,Voluptas dignissimos deserunt architecto optio dolorem.,0
+173cc4f7-42a5-49ce-9af4-25c1a7d87541,2025-03-06 23:17:38,Lixo Acumulado,Parque Urbano,-23.038610811139552,-46.06840982588294,Noite,Crítica,Resolvida,Aliquid voluptatum atque repellat sint.,0
+0842eafc-d047-4abc-8503-452989fbdee7,2025-03-03 01:06:33,Aglomeração Suspeita,Parque Urbano,-23.088633478194605,-46.480055573402126,Noite,Baixa,Reportada,Ea quis est.,1
+5f69e862-f308-47a0-b6b3-b206d7410291,2024-12-08 23:29:19,Barulho Excessivo,Bairro Residencial B,-23.746191367829216,-46.13845334051637,Madrugada,Crítica,Resolvida,Ipsam id facilis.,0
+25803be1-604f-4cd4-a96f-ce0fbe69ca13,2024-12-28 22:39:43,Outros,Bairro Residencial A,-23.455648321671866,-46.45362447779927,Tarde,Média,Resolvida,Reiciendis voluptatum voluptates consectetur illum amet.,0
+79679b9e-a377-4ff7-901e-69a0ba763313,2025-02-04 14:17:17,Vandalismo,Praça Central,-23.818354509837924,-46.82544539051341,Manhã,Alta,Em Análise,Similique voluptatibus minima repellat iusto optio.,0
+8cccbec2-b016-4b15-bd03-273a4a3ade00,2024-07-06 21:46:57,Pichação,Área Comercial,-23.546959201312593,-46.58357104561166,Madrugada,Alta,Reportada,Ratione assumenda illo et voluptate cum sunt.,0
+fcfe2929-edfa-499c-8aed-ab1b245e663a,2024-08-02 15:06:44,Barulho Excessivo,Área Comercial,-23.449381771361008,-46.914229432231345,Tarde,Alta,Em Análise,Enim aliquid dolores saepe qui rem.,1
+69561131-9b3b-4665-a68d-a387f6dbccef,2024-12-31 12:22:51,Aglomeração Suspeita,Praça Central,-23.216047568718036,-46.66708730671907,Madrugada,Alta,Reportada,Tempora magni laboriosam pariatur fugit harum.,0
+b7489e53-7a9b-4fbe-97a0-44113a0dbfaf,2025-05-01 11:54:09,Vandalismo,Bairro Residencial B,-23.51308605973396,-46.46374823473842,Tarde,Alta,Cancelada,Eius harum quibusdam veritatis reiciendis debitis.,0
+b02db86a-125b-4a5c-85be-1512bf54bd01,2024-07-05 17:08:46,Outros,Estação de Metrô,-23.178961331060925,-46.005434430441895,Madrugada,Média,Em Análise,Vel quae dignissimos sed laudantium vel.,0
+3e46ef66-f809-4c35-af7a-1a1ea9b16944,2025-03-28 00:04:00,Pichação,Bairro Residencial B,-23.608695816476242,-46.79452207410245,Madrugada,Baixa,Reportada,Natus eveniet ipsum eos.,0
+abf95557-1516-41e3-afa8-909a8d355535,2025-01-09 10:06:59,Aglomeração Suspeita,Bairro Residencial A,-23.10836307319066,-46.592047324792354,Tarde,Crítica,Reportada,Nihil accusantium consequuntur.,0
+90d6f160-8cac-4e5a-a35a-b10fcdd44deb,2024-11-04 01:31:12,Pichação,Bairro Residencial B,-23.102984901831448,-46.504519364661924,Madrugada,Crítica,Em Análise,Tempore dolorem eligendi temporibus similique ullam.,0
+2a5a940b-1f29-46e1-b85a-9b0c22fca293,2025-01-02 10:06:51,Aglomeração Suspeita,Estação de Metrô,-23.666977832347705,-46.938613790643714,Tarde,Baixa,Reportada,Facilis aliquid cupiditate expedita.,1
+cab3ec20-94ae-4f9f-ae28-c6557ead51fe,2025-03-30 20:16:53,Outros,Bairro Residencial A,-23.15673270425318,-46.55775655812051,Noite,Crítica,Resolvida,Veritatis reprehenderit aut occaecati.,1
+d4b11af0-cf8b-4795-86a4-52bb92aca389,2024-12-01 07:20:27,Outros,Estação de Metrô,-23.13464485709495,-46.67378118237673,Tarde,Alta,Reportada,Dignissimos id voluptate iste occaecati aperiam assumenda.,0
+918b4d89-db1f-454e-a49a-7109743dd478,2025-02-21 01:58:30,Outros,Estação de Metrô,-23.22377037416706,-46.937319563692064,Tarde,Crítica,Reportada,Consequatur omnis optio temporibus delectus modi.,1
+cf8f80ec-729f-4db1-9170-156d269d8ce8,2024-12-09 08:57:53,Lixo Acumulado,Bairro Residencial A,-23.209786629567553,-46.32241399795487,Madrugada,Baixa,Cancelada,Praesentium non deleniti ad ad quam aliquid sint.,0
+8fdcf0db-46ff-449e-a563-4528481b3f91,2025-05-30 17:53:31,Lixo Acumulado,Área Comercial,-23.582577968571467,-46.685993370917714,Madrugada,Média,Resolvida,Eaque quae et officia.,1
+29c4c50c-f89e-424e-aa11-7fc1b00f21ca,2025-03-20 21:03:17,Aglomeração Suspeita,Praça Central,-23.847867060848664,-46.56596886336525,Tarde,Crítica,Reportada,Tenetur quaerat culpa aliquam corrupti.,0
+2e222fde-fef6-4826-9ea4-79cc7369be04,2025-05-29 17:52:23,Outros,Bairro Residencial B,-23.199354747629933,-46.14510666156636,Tarde,Média,Resolvida,Accusantium laborum animi quam provident voluptatem adipisci.,0
+22c05093-aae2-44c0-b3f8-354c17a27b47,2025-01-26 15:04:48,Aglomeração Suspeita,Parque Urbano,-23.87365682282909,-46.76304136061904,Manhã,Média,Cancelada,Assumenda velit ex.,0
+2cc3d670-90a3-4323-88e4-b1378c5d2a59,2025-06-06 14:18:32,Pichação,Parque Urbano,-23.67205379826595,-46.408778134218736,Tarde,Baixa,Resolvida,Vitae molestias odit nemo.,0
+e3c2346e-2982-4088-8219-4c200a14c22f,2024-08-31 15:21:23,Vandalismo,Bairro Residencial B,-23.967791262412955,-46.49196428778735,Tarde,Baixa,Reportada,Numquam praesentium in.,0
+47716390-b00f-4f34-893f-8c3663d87685,2024-11-26 07:07:04,Pichação,Bairro Residencial B,-23.626144438115425,-46.09277399186528,Manhã,Crítica,Em Análise,Quos aut impedit deleniti deleniti modi.,0
+8e2aece3-3ae1-4ac0-8cc5-d29a2001532e,2024-11-14 09:51:36,Barulho Excessivo,Área Comercial,-23.013834864702726,-46.0365552975989,Madrugada,Baixa,Cancelada,Veniam magni illo minus eaque nobis in.,0
+685ff659-1578-41d0-ac3a-2a4b19b2f7d9,2025-03-10 15:36:07,Aglomeração Suspeita,Praça Central,-23.82682724412015,-46.57004716626571,Noite,Alta,Em Análise,Culpa autem similique quisquam eius minus.,1
+d7791f34-9f10-4daa-9c05-def3cf3896d9,2025-04-03 13:05:57,Outros,Bairro Residencial A,-23.002701592349826,-46.403610953311116,Manhã,Baixa,Reportada,Ducimus nemo delectus.,0
+98e660c8-c414-4a60-adf2-66eab536d274,2025-04-18 18:37:32,Vandalismo,Estação de Metrô,-23.821322201875404,-46.14116706690267,Tarde,Crítica,Reportada,Magnam nisi debitis maxime quae maxime.,1
+2cbc55e9-28c4-419a-bc71-79523a9a6a15,2024-12-15 01:30:16,Vandalismo,Bairro Residencial A,-23.550289189235805,-46.69251914211435,Manhã,Crítica,Resolvida,Dolore ab doloremque iste accusamus totam ipsum.,0
+2409b180-beb3-4c73-aac8-b034672fb65f,2025-01-01 05:37:53,Vandalismo,Bairro Residencial A,-23.328023504034224,-46.284159783703316,Madrugada,Baixa,Reportada,Illum enim ab atque eius rerum ut.,0
+c4eab057-28f9-44d9-b6cb-9165bf6e9eb1,2025-02-20 11:26:13,Lixo Acumulado,Praça Central,-23.33418180184428,-46.80626750211957,Tarde,Crítica,Em Análise,Distinctio et ex quae delectus perferendis.,1
+882f9249-537b-4c9a-a4c9-5e154aacfda1,2025-02-11 04:47:47,Barulho Excessivo,Área Comercial,-23.003924621284018,-46.73630008616379,Madrugada,Crítica,Em Análise,Quos cum repellendus amet rerum expedita ut accusantium.,0
+30618ec2-504f-42bb-88f9-36f1c02661b2,2024-09-27 22:54:07,Pichação,Praça Central,-23.83830590694996,-46.61836273168754,Manhã,Média,Resolvida,Placeat voluptatem voluptates mollitia.,0
+5853f222-516f-4acd-8c0f-81c4c7afd609,2024-12-07 11:33:44,Pichação,Parque Urbano,-23.14976299478463,-46.30825361346578,Madrugada,Média,Reportada,Repellat nulla sunt ullam voluptatem assumenda.,1
+862e5d0a-f0e1-4dd2-986b-e9aae8b1423b,2024-10-16 02:30:18,Barulho Excessivo,Bairro Residencial A,-23.67188271116137,-46.48742575397374,Madrugada,Alta,Cancelada,Et consequatur voluptate laboriosam in aut inventore.,1
+01859c06-b2a4-425d-9027-a48047b41909,2025-03-21 13:59:46,Barulho Excessivo,Parque Urbano,-23.66055710867391,-46.60791274081323,Madrugada,Alta,Cancelada,Voluptates neque id eveniet.,0
+f7e0c386-3cc8-40a1-9171-fb657e741572,2024-08-25 04:12:00,Outros,Bairro Residencial B,-23.1344525667461,-46.49550646986588,Noite,Baixa,Cancelada,Molestiae dolor vitae non facilis ipsum.,1
+32094e22-9a2d-4c10-aef5-f1fc41b3f0cd,2025-03-19 19:21:42,Pichação,Área Comercial,-23.895538087250312,-46.99343149178363,Tarde,Baixa,Em Análise,Tenetur facilis facilis maiores quos consequatur reprehenderit.,0
+deead9cc-5339-480e-aa02-259d07fda3b7,2025-02-11 14:18:43,Lixo Acumulado,Bairro Residencial A,-23.172238116254366,-46.282698279018156,Manhã,Baixa,Reportada,Cumque facere eos sed maxime nulla doloremque.,0
+5554d341-81d2-464d-8792-4ecade89ef13,2025-04-22 20:30:14,Aglomeração Suspeita,Praça Central,-23.38214585949007,-46.97401084896632,Tarde,Crítica,Resolvida,Quam excepturi maxime eius mollitia quibusdam eum libero.,0
+cedd40ac-2972-474c-80af-73877f919ae0,2025-01-16 00:37:48,Outros,Estação de Metrô,-23.736338789650173,-46.40354548477648,Noite,Baixa,Resolvida,Doloremque magnam quas.,0
+2e4c480e-f3fb-4c45-8cd1-61166fba66d4,2024-12-22 23:15:25,Outros,Área Comercial,-23.2164800302486,-46.758584610684125,Noite,Baixa,Reportada,Minus eius tenetur delectus molestias rem soluta.,1
+3b27f1ce-779b-4dd6-8715-93a4d762d93e,2024-07-11 01:12:02,Barulho Excessivo,Bairro Residencial A,-23.638970157008906,-46.64721657632578,Tarde,Baixa,Reportada,Necessitatibus voluptatum delectus assumenda odit illo.,0
+f134228f-05b4-4bb6-a755-6363e1ad43ac,2025-03-05 13:35:11,Lixo Acumulado,Estação de Metrô,-23.908358413771868,-46.07642556156837,Noite,Média,Cancelada,Velit magnam quos illum eligendi.,0
+10e36549-2791-4489-81eb-ce0229c4e195,2025-05-09 11:55:30,Aglomeração Suspeita,Bairro Residencial B,-23.907814172405775,-46.197619410372965,Madrugada,Alta,Resolvida,Libero officia veritatis minima magni numquam.,0
+90c00f56-b28d-4cc6-af3e-e94643710594,2025-01-05 10:05:42,Lixo Acumulado,Parque Urbano,-23.995179701894966,-46.56513277289867,Tarde,Média,Cancelada,Quibusdam quos corporis exercitationem.,0
+8583d730-d43e-4c3c-a412-9652fe18e1d1,2024-07-11 22:44:16,Vandalismo,Estação de Metrô,-23.839611810425666,-46.48795404636722,Manhã,Média,Cancelada,Expedita dolorum delectus suscipit expedita.,0
+88166a22-7738-47e3-89f7-b382b4f04d87,2024-08-03 11:07:15,Aglomeração Suspeita,Bairro Residencial A,-23.308806292884604,-46.43817399903811,Noite,Crítica,Em Análise,Deleniti velit delectus sed similique magnam.,1
+62574ab4-f274-4a33-91f3-4293e0e5a2b7,2024-07-25 23:32:19,Barulho Excessivo,Bairro Residencial B,-23.303520505440602,-46.741978095305825,Noite,Baixa,Cancelada,Maiores ullam atque placeat eum omnis.,0
+1e128ec7-0fac-4339-99d4-e6e00348ce07,2025-01-28 05:13:38,Pichação,Estação de Metrô,-23.44193538364077,-46.38662550993742,Manhã,Alta,Reportada,Recusandae doloribus consectetur accusantium illum aut.,0
+cb840782-8507-405c-9b78-d5acbfd69fd9,2025-05-17 20:02:12,Vandalismo,Praça Central,-23.229926311023448,-46.204024593148574,Noite,Baixa,Em Análise,Illo velit vero mollitia tempora.,0
+536dd5e7-c2b9-40ef-b59e-392302682be7,2024-10-05 21:11:58,Outros,Área Comercial,-23.93064697496979,-46.63361799945493,Tarde,Baixa,Reportada,Consequuntur debitis molestias voluptatem.,0
+6e9e65b8-14af-4e3d-849c-b412060e9898,2024-12-31 11:27:21,Vandalismo,Área Comercial,-23.40663535043369,-46.65944408902759,Manhã,Baixa,Em Análise,Neque ea consectetur veritatis quidem illo iure.,0
+e54a348a-0c0f-40ac-97c3-8447d22b6653,2025-06-05 14:35:40,Vandalismo,Estação de Metrô,-23.46864725022829,-46.89932398491019,Tarde,Alta,Em Análise,Asperiores illo praesentium quam asperiores accusamus quas.,0
+0e260152-81ff-451a-b500-174516a28972,2024-07-04 15:29:06,Aglomeração Suspeita,Parque Urbano,-23.31400316880334,-46.137506553843174,Manhã,Média,Cancelada,Harum hic sit quia.,0
+c3dd0e8b-cf81-4e6f-a60d-ae52f2cad4c4,2024-07-01 11:44:07,Aglomeração Suspeita,Área Comercial,-23.55988375053476,-46.659299242981554,Tarde,Média,Reportada,Nostrum error quam neque magnam sequi officia adipisci.,0
+253f5313-1f0b-40b8-8a9d-42d83948c80f,2025-04-14 04:52:00,Vandalismo,Parque Urbano,-23.530998579581958,-46.07742637180868,Tarde,Alta,Em Análise,Dicta eligendi minima ducimus ipsa nobis suscipit exercitationem.,0
+d3adc5bf-b1f7-4fc5-b7df-8520e7ad5c37,2025-06-13 01:56:39,Barulho Excessivo,Área Comercial,-23.622243341751165,-46.71417171964288,Noite,Alta,Resolvida,Eaque similique natus enim.,1
+371b875b-fafd-4f57-a4ee-41e705afc0c8,2025-06-06 11:00:11,Vandalismo,Praça Central,-23.6470400191058,-46.55405228319625,Noite,Crítica,Reportada,Voluptatum ea totam sequi tenetur ipsam.,0
+b4e70503-2881-46b3-a98f-aa4d835f3129,2025-01-29 10:51:53,Lixo Acumulado,Praça Central,-23.383132963671002,-46.81559930470656,Noite,Média,Em Análise,Similique ipsum molestiae fugit.,0
+fb9590eb-8713-421b-9e30-815ba48dbdce,2024-07-28 07:55:32,Vandalismo,Área Comercial,-23.976224625257736,-46.65963270608696,Madrugada,Alta,Resolvida,Suscipit rerum inventore officiis.,0
+55ee2a4e-44df-47d6-b546-cc8230f6280f,2024-09-05 08:45:44,Pichação,Bairro Residencial A,-23.90474687357049,-46.203734981556,Madrugada,Alta,Em Análise,Minima cupiditate dolore.,0
+2186aaa3-4609-4e49-8a61-545faeed88fc,2024-07-10 11:41:35,Barulho Excessivo,Praça Central,-23.773541451402714,-46.10112285429903,Noite,Média,Reportada,Voluptate magnam esse praesentium veritatis ducimus fugiat.,0
+b2c725fa-a6cb-4ac9-8d71-b53e92c7fee5,2024-09-11 15:11:25,Pichação,Bairro Residencial A,-23.40959831870129,-46.9603134880615,Madrugada,Alta,Cancelada,Molestiae ratione ipsam.,0
+dcb96693-a081-47a1-9f45-28ea395a34c2,2024-10-06 08:35:22,Vandalismo,Bairro Residencial B,-23.643002505578558,-46.535165670106174,Manhã,Alta,Resolvida,Autem nam voluptatibus eveniet aperiam impedit sapiente.,0
+9ecc083c-14bd-4657-b53d-f4f8b2eca53a,2025-01-19 05:12:09,Pichação,Praça Central,-23.57448527342255,-46.38256240171507,Manhã,Alta,Em Análise,Ab ab similique praesentium expedita tempore nobis.,0
+851df065-ac1d-4747-8b59-ce0856a48cce,2024-11-09 00:53:13,Pichação,Estação de Metrô,-23.84078643404195,-46.887299915803,Noite,Baixa,Reportada,Nam eius corporis corporis non iste.,0
+ef4381e4-4dee-482c-8147-98ad99693337,2025-04-09 21:44:28,Aglomeração Suspeita,Estação de Metrô,-23.696528506032642,-46.631086155873156,Manhã,Baixa,Cancelada,Voluptate veniam quia.,1
+f95a29ff-1911-41b3-98d2-bd664bcc02fa,2025-06-06 10:19:43,Outros,Bairro Residencial A,-23.706445351021692,-46.59531461715745,Tarde,Crítica,Em Análise,Nesciunt corporis praesentium esse qui.,1
+56a27c28-b02b-4ce1-b11a-3022e712e195,2024-09-23 06:27:50,Barulho Excessivo,Estação de Metrô,-23.993378831905982,-46.61762432342622,Madrugada,Crítica,Resolvida,Inventore illum non eveniet.,0
+4ddb3cb6-403b-4e8a-902f-02f2968d779c,2024-11-26 20:58:27,Aglomeração Suspeita,Parque Urbano,-23.115063889752964,-46.93280901064791,Tarde,Crítica,Cancelada,Doloribus quas saepe ad explicabo officiis omnis.,1
+a265dfe4-2555-4dc6-847b-3120766c825d,2024-11-21 08:31:49,Lixo Acumulado,Parque Urbano,-23.831187522769795,-46.36676358359295,Madrugada,Alta,Reportada,Nesciunt ratione eveniet incidunt dolorum quam.,0
+09d47312-c82d-4994-a5dc-d454d4ab4c43,2025-06-14 21:28:02,Pichação,Área Comercial,-23.124023057147028,-46.92063155745205,Tarde,Baixa,Resolvida,Non veniam tempore quam.,1
+59935939-bf36-4f62-b1fd-978c7ce6b847,2024-11-08 02:46:52,Vandalismo,Bairro Residencial A,-23.92832320954178,-46.78344261091793,Madrugada,Alta,Em Análise,Illum veniam ratione vitae ab.,0
+1d036fdd-3a47-4438-acd2-e4d3d2d4396b,2024-11-03 18:21:23,Barulho Excessivo,Bairro Residencial A,-23.34452942692566,-46.08922651341248,Manhã,Média,Em Análise,Sed nihil libero consequuntur.,0
+ae482bff-e168-4ce4-acd3-ced847a7be4d,2024-10-30 16:42:07,Barulho Excessivo,Praça Central,-23.685946991092614,-46.967615766918996,Manhã,Média,Em Análise,Labore libero veritatis.,1
+0119a130-2f90-4c3c-9c51-d6971ee04892,2024-11-04 15:37:39,Outros,Praça Central,-23.542980152941748,-46.48728046109173,Noite,Crítica,Cancelada,Molestiae deleniti amet omnis mollitia ex.,0
+b4480af2-b784-465a-ab52-7c9247ef133a,2025-01-22 06:20:16,Outros,Praça Central,-23.185291191161312,-46.385107984387645,Madrugada,Alta,Reportada,Earum facere quaerat.,0
+9460b256-30c0-4159-9d6d-0f8b6d684b93,2025-06-07 10:32:05,Lixo Acumulado,Parque Urbano,-23.40644980779365,-46.829075301140364,Madrugada,Média,Reportada,Sed quibusdam vel voluptatum cumque nulla inventore.,0
+b9b7ace5-ef55-49e8-a871-c9a2cd5d2a2c,2024-07-08 05:55:16,Pichação,Bairro Residencial B,-23.554188590134697,-46.05269954505024,Manhã,Média,Resolvida,Dignissimos eum saepe hic quidem dolores.,0
+0a595fde-7b55-4d1e-b0ce-32e788560d69,2024-07-24 08:47:24,Pichação,Praça Central,-23.36509775885141,-46.66723096049567,Noite,Média,Cancelada,Impedit architecto dolores libero labore provident.,0
+3ecdcdfd-d1d6-4b2e-bb34-946189f5b805,2024-08-23 23:53:15,Outros,Praça Central,-23.10197059776518,-46.01949386470136,Tarde,Média,Resolvida,Deleniti excepturi laborum dolorem.,0
+c8f43dfc-d1d6-452d-ae07-0fd0adaebb00,2025-05-23 05:19:30,Vandalismo,Estação de Metrô,-23.45920004380639,-46.29477401233716,Manhã,Alta,Cancelada,Ut nisi quos libero.,0
+16f7aee9-2484-4a6d-afe6-f00706a2aa3a,2025-03-27 21:36:16,Pichação,Área Comercial,-23.164583781826998,-46.9010804932366,Noite,Crítica,Reportada,Laborum optio enim voluptatum illo similique illum.,0
+ff488fc7-ed46-4003-b69f-51251b964e41,2024-08-17 14:14:24,Barulho Excessivo,Bairro Residencial A,-23.881548130841594,-46.35550201056109,Noite,Crítica,Em Análise,Placeat soluta quis dicta.,0
+7eb7907a-d636-4ebc-808b-5e0066203bc1,2025-02-28 15:35:41,Pichação,Estação de Metrô,-23.348715136523438,-46.30099921063672,Noite,Crítica,Reportada,In quas impedit minus.,0
+a70676cb-2618-4258-a146-d2b494e2162f,2025-03-09 18:26:01,Lixo Acumulado,Bairro Residencial B,-23.768614490800005,-46.52626261504291,Madrugada,Alta,Cancelada,Unde repudiandae id eligendi debitis molestias iusto.,0
+54edae71-cf06-4bdc-bb08-bd3f1389ca2c,2024-08-01 08:04:31,Pichação,Área Comercial,-23.51472279418072,-46.68826085756709,Noite,Crítica,Cancelada,Omnis dolorem occaecati qui ducimus repellendus reprehenderit fuga.,0
+c8b2dbd9-380d-4e91-8421-16487d17b1cd,2024-10-25 18:13:39,Aglomeração Suspeita,Estação de Metrô,-23.895667014792362,-46.44722452649665,Madrugada,Média,Em Análise,Dolor a in facilis assumenda sapiente.,1
+628beb77-7752-4ebe-9485-0330035ce840,2025-03-24 21:48:43,Barulho Excessivo,Estação de Metrô,-23.00858803087261,-46.04422616003418,Noite,Crítica,Reportada,Distinctio ipsam quia eius reprehenderit.,0
+c4a8fc6b-3f81-46af-babe-764c4b9869dd,2025-03-10 07:14:55,Outros,Praça Central,-23.742865747858616,-46.9676899110789,Manhã,Baixa,Cancelada,Molestias in soluta assumenda labore praesentium.,0
+5d59bbf1-edf3-43d7-9692-8ee7b69ff8ef,2024-09-21 16:02:29,Lixo Acumulado,Estação de Metrô,-23.073041215256602,-46.32306295847841,Madrugada,Média,Reportada,Quod amet ex exercitationem illo quod nulla quos.,0
+f8ef881a-1a0f-4549-837a-c6f336c8d6b5,2025-02-12 20:34:37,Outros,Praça Central,-23.59482867562432,-46.027975827606554,Noite,Alta,Reportada,Libero omnis laboriosam autem reprehenderit eum reiciendis asperiores.,0
+59577708-9689-45a6-8e50-ac2a80a32e39,2024-12-20 20:09:07,Aglomeração Suspeita,Praça Central,-23.895460692297867,-46.54915441813736,Tarde,Crítica,Cancelada,Nulla voluptatibus numquam soluta provident nostrum.,0
+e0e4e41a-a721-4395-aa4a-c336dcaf21d9,2024-12-21 16:22:12,Outros,Bairro Residencial B,-23.75156800537807,-46.090456773051855,Madrugada,Baixa,Em Análise,Maiores soluta molestiae aspernatur repudiandae occaecati minus.,0
+1e137f0e-46a8-4984-b26b-c5c4cebf5c05,2025-04-26 01:10:38,Pichação,Bairro Residencial B,-23.28831063743421,-46.73359416137939,Noite,Média,Reportada,Harum veritatis quia harum odio officiis.,0
+298461ef-1fc0-43b7-9203-198ae50c241b,2025-05-14 23:42:18,Outros,Estação de Metrô,-23.940471008034965,-46.84721476529437,Tarde,Média,Resolvida,Veniam molestiae asperiores excepturi tempora.,0
+982a2293-32ca-4125-916b-5291b121d3d6,2025-03-18 18:37:24,Pichação,Área Comercial,-23.507423992480124,-46.04900489675873,Manhã,Alta,Reportada,Cum eligendi nam perspiciatis illum.,0
+8d1927bb-5907-4410-bccc-41226c76ea9b,2025-02-01 11:44:31,Vandalismo,Bairro Residencial B,-23.61282722914716,-46.29512708916831,Tarde,Média,Reportada,Culpa provident magnam temporibus ut iure.,1
+7d71fb28-9a5f-415c-a018-5311dc86043a,2024-10-14 08:35:36,Aglomeração Suspeita,Estação de Metrô,-23.122788346772065,-46.57063658857598,Tarde,Baixa,Cancelada,Consectetur itaque vero ducimus esse.,0
+d231299c-dd12-4fcb-b4e5-f99e3b37f55e,2025-05-27 18:26:45,Pichação,Bairro Residencial B,-23.742214676269416,-46.42751305428551,Tarde,Crítica,Em Análise,Et inventore dolor tempora sed molestiae.,0
+a2263df1-6020-4639-b499-d5cdb6d091ef,2024-09-24 11:56:09,Vandalismo,Estação de Metrô,-23.93663377125682,-46.83847842902537,Tarde,Baixa,Cancelada,Corrupti assumenda ducimus.,1
+79358078-99ba-46c0-981f-54a140b1db77,2025-02-22 21:49:08,Barulho Excessivo,Bairro Residencial A,-23.41189422659998,-46.958555227982224,Madrugada,Média,Reportada,Voluptate error perferendis quasi quod incidunt quos.,1
+186ac646-46a5-45af-98d8-7671b74e6d98,2024-10-27 04:35:54,Vandalismo,Praça Central,-23.868414672469324,-46.74907358659301,Manhã,Média,Cancelada,Possimus eligendi quam blanditiis.,0
+64aca091-87d6-4eb1-83c7-b8eb9409b28f,2025-06-01 04:44:27,Barulho Excessivo,Bairro Residencial A,-23.981416761836037,-46.40451765452655,Tarde,Crítica,Reportada,Et voluptas harum temporibus reiciendis at ipsa.,1
+74bfeeda-1b64-4eed-8c47-300f706eae17,2024-07-11 04:18:20,Outros,Estação de Metrô,-23.82835685737743,-46.311703170007725,Tarde,Alta,Em Análise,Cum libero quasi sunt vel.,0
+f9c2dfd2-ae48-4c31-a1e8-fbbe853fd627,2025-03-03 03:42:17,Aglomeração Suspeita,Área Comercial,-23.790220600486997,-46.92978805499338,Noite,Crítica,Resolvida,Odit officia iusto repudiandae mollitia at.,0
+f90ac399-401b-4ac5-9796-7326d13a852b,2025-01-04 07:46:38,Lixo Acumulado,Parque Urbano,-23.00716925051621,-46.457077353187024,Noite,Crítica,Cancelada,Alias voluptates ipsam libero.,1
+2d19c5e3-c6da-45b5-820d-834d1ea66fef,2025-02-16 16:17:06,Pichação,Parque Urbano,-23.24418537864376,-46.53231308577751,Manhã,Baixa,Resolvida,Illum totam asperiores harum eos numquam inventore.,0
+b3439e23-19d1-4634-b643-0e281d9db05d,2024-08-22 23:50:56,Lixo Acumulado,Bairro Residencial B,-23.74650188892921,-46.73849294218598,Manhã,Crítica,Cancelada,Eos rerum error molestias quo tempora necessitatibus.,0
+87c3ce8e-2ee0-4dca-9bae-a4c1c86adc1f,2024-11-18 07:31:12,Vandalismo,Bairro Residencial B,-23.019594545388625,-46.529326577995846,Manhã,Alta,Cancelada,Alias excepturi illum.,0
+fa99c745-445b-4179-aa0e-2489bba377a8,2024-10-24 01:57:12,Lixo Acumulado,Bairro Residencial A,-23.77278256155537,-46.467799046244856,Madrugada,Crítica,Em Análise,Saepe laboriosam voluptates hic eum quisquam quae alias.,1
+7196a08b-d6d0-4f96-b9e5-45ecb6bf06b5,2025-02-02 18:16:46,Aglomeração Suspeita,Área Comercial,-23.933465350086518,-46.029725844193386,Tarde,Alta,Em Análise,Harum nemo non minus.,0
+735624f1-044e-4f35-8065-e395e6c8f0e9,2025-03-05 21:28:20,Lixo Acumulado,Praça Central,-23.752149398977807,-46.71171214304546,Manhã,Alta,Em Análise,Minima deleniti sint aliquam mollitia animi quidem.,1
+ffca8fb7-5560-49b8-a6e3-95e013825b26,2025-04-01 13:42:34,Aglomeração Suspeita,Praça Central,-23.9327445911283,-46.23768421587533,Madrugada,Alta,Reportada,Quibusdam nobis id repudiandae expedita molestiae.,0
+d8f4adba-1fcf-411d-bfa2-859d698cf9ff,2024-11-11 21:23:58,Aglomeração Suspeita,Área Comercial,-23.683914632106422,-46.32442786571202,Tarde,Alta,Cancelada,Sint reprehenderit corporis tempora praesentium veniam et.,0
+18b18ce7-304d-4f12-801c-0180714b05f0,2024-08-23 15:14:02,Aglomeração Suspeita,Bairro Residencial A,-23.097583140083923,-46.700100184602746,Madrugada,Crítica,Cancelada,Aperiam rem mollitia velit repellat neque rerum.,0
+af69ee0e-60f9-4923-af80-a1b44cbbd7b0,2024-10-05 02:40:46,Barulho Excessivo,Praça Central,-23.154721850184803,-46.70686052185224,Manhã,Baixa,Em Análise,Voluptatem nobis magnam deleniti.,1
+da0dc1cf-c085-417f-b8e2-2d6a06e128c1,2024-10-13 15:11:09,Barulho Excessivo,Estação de Metrô,-23.892939393756095,-46.70356845432366,Madrugada,Baixa,Cancelada,Odio cupiditate ipsum velit fuga inventore minus.,0
+23de83ac-a76d-4f40-b9e4-09f3b3b73994,2024-11-19 10:23:05,Vandalismo,Parque Urbano,-23.972278125298008,-46.42933518979089,Tarde,Média,Resolvida,Soluta voluptates doloremque.,0
+2f749046-48fb-41ea-8250-ab9a9f7ba32b,2025-06-13 18:05:39,Outros,Parque Urbano,-23.770579521725818,-46.284410325696236,Noite,Média,Resolvida,Dolor reiciendis iusto debitis officia at unde doloribus.,0
+0d0e0765-f0de-4c4d-ac55-3c63e6702706,2024-09-14 21:02:27,Aglomeração Suspeita,Estação de Metrô,-23.021259546783053,-46.49460271590591,Tarde,Média,Cancelada,Suscipit adipisci cum earum accusamus amet.,0
+a25aa9d1-527f-4c31-b3a3-b759aa0bbec1,2024-07-09 02:48:03,Pichação,Bairro Residencial B,-23.330081076335837,-46.65936222963667,Tarde,Média,Em Análise,Hic quaerat esse excepturi quod eligendi.,0
+a2621bd9-4a6a-4979-9575-e9b8ddca18be,2025-06-11 18:51:31,Aglomeração Suspeita,Bairro Residencial B,-23.982293989837952,-46.11056037512315,Manhã,Crítica,Reportada,Repudiandae accusantium vitae.,0
+77601d3f-e903-446b-bf83-2a65ccf6bb02,2024-08-08 05:19:12,Aglomeração Suspeita,Bairro Residencial A,-23.798683003312156,-46.70773830092451,Noite,Crítica,Resolvida,Pariatur aut magnam delectus placeat necessitatibus.,0
+10c53f3b-84a2-4603-b3f2-eb596527dd65,2024-12-15 02:01:16,Lixo Acumulado,Praça Central,-23.078415887952364,-46.440480961958684,Manhã,Alta,Resolvida,Incidunt beatae magnam distinctio.,1
+49734250-c0d4-4b6e-b3fb-54719def4f9c,2024-11-27 14:03:43,Aglomeração Suspeita,Parque Urbano,-23.265426618356624,-46.94197932699674,Manhã,Baixa,Em Análise,Error soluta voluptates nostrum assumenda quam.,1
+dadcf4a1-7537-4a30-a33d-b0e9ae7f39bd,2024-09-26 01:35:21,Aglomeração Suspeita,Área Comercial,-23.73796985268929,-46.23129631288947,Manhã,Baixa,Resolvida,Quos occaecati natus at dolorum atque.,0
+8a6bb609-292f-49e0-9f3b-0f01e4e6262a,2025-01-04 12:17:13,Outros,Bairro Residencial A,-23.715768966022317,-46.709927507220456,Madrugada,Baixa,Resolvida,Necessitatibus fuga laborum placeat.,1
+e3590f1d-c74e-46fd-8991-6ad8e220ce28,2025-02-09 00:03:59,Vandalismo,Bairro Residencial A,-23.206197741680427,-46.42070753439254,Noite,Baixa,Resolvida,Mollitia eius tempora eaque eveniet totam.,0
+ce7e9d42-3352-4c49-88a5-830feb9fafc2,2024-10-14 07:26:49,Lixo Acumulado,Bairro Residencial B,-23.423116674425682,-46.314370966440784,Tarde,Alta,Em Análise,Nisi nisi voluptatibus mollitia iste.,0
+c25c1f02-e0f0-41c3-a703-19cc89c72d17,2024-12-06 09:23:39,Lixo Acumulado,Praça Central,-23.952644792969064,-46.30448695405471,Noite,Média,Resolvida,Architecto laudantium nesciunt nemo incidunt.,1
+bdfb8c5a-5a12-41d6-ba5f-2a70ec0cd642,2024-12-01 18:24:07,Barulho Excessivo,Praça Central,-23.527045791436997,-46.42854137933674,Manhã,Alta,Cancelada,Error harum architecto doloribus temporibus repudiandae blanditiis.,0
+39bbee16-3d82-4312-9fc0-4d021ca97799,2024-10-22 22:39:12,Outros,Praça Central,-23.23886311372043,-46.4307606555515,Tarde,Crítica,Cancelada,Aliquid qui hic ut molestiae.,0
+ee86a6cd-5b20-4902-959e-07fce2221248,2024-11-13 13:44:59,Outros,Bairro Residencial A,-23.62902803129261,-46.15883810988525,Tarde,Baixa,Reportada,Expedita mollitia laboriosam cupiditate dolores enim nobis.,0
+3871f9ed-5727-4f98-b4c2-8f92da4432d3,2024-08-23 17:51:29,Barulho Excessivo,Bairro Residencial A,-23.282791238815577,-46.949709984700036,Noite,Crítica,Em Análise,Fugit temporibus sit perferendis quis iure aliquid.,0
+59fd7382-e35c-486c-b3fc-e1e6684b8a7a,2024-11-09 17:46:10,Aglomeração Suspeita,Estação de Metrô,-23.52620070022608,-46.843766141216385,Madrugada,Baixa,Em Análise,Rerum error consequatur deserunt optio.,1
+f34421ed-77e9-48b0-9764-1420aa0a4b6a,2024-07-10 04:25:34,Pichação,Bairro Residencial B,-23.690152185100246,-46.271568989846614,Tarde,Alta,Resolvida,Ullam quaerat praesentium veniam.,0
+d24633ee-7be5-4f6e-9ce0-05d191cd93bd,2025-05-04 04:01:27,Barulho Excessivo,Bairro Residencial A,-23.99728935991498,-46.112980598053014,Tarde,Baixa,Reportada,Dolor quo maiores aperiam nisi dolor ad.,0
+b5a39804-1bd7-4b35-9af2-912cd401921a,2025-05-07 07:00:03,Barulho Excessivo,Bairro Residencial B,-23.985130516184007,-46.407467847324085,Noite,Alta,Cancelada,Deserunt minima blanditiis cum.,0
+5c31b1bf-ba1a-4e1f-9a8b-d89d1255df32,2025-01-22 21:25:59,Vandalismo,Praça Central,-23.288142506117335,-46.159081673029696,Manhã,Baixa,Resolvida,Omnis rerum culpa corporis nostrum hic id aspernatur.,0
+3bb2c009-a698-4e2b-8a23-933160855fb1,2024-09-13 08:41:03,Pichação,Praça Central,-23.502186973099352,-46.676371864592326,Madrugada,Média,Resolvida,Numquam amet blanditiis nam a eius tempora.,0
+81de68e5-b758-462c-a8c8-c16bfac9d33b,2024-12-28 19:38:01,Lixo Acumulado,Parque Urbano,-23.33572319326251,-46.21427868061854,Manhã,Crítica,Reportada,Eligendi ratione cupiditate molestiae sint dicta.,0
+469e200b-e0a4-4890-af1d-fa7cb38c6067,2024-11-13 09:23:16,Aglomeração Suspeita,Estação de Metrô,-23.885717901614935,-46.255354937558316,Tarde,Crítica,Em Análise,Mollitia natus repellat iste id sapiente.,1
+1d114428-0af4-4517-b9fd-2582a903f08d,2025-01-06 21:27:08,Pichação,Parque Urbano,-23.904133190533614,-46.517409630706545,Tarde,Crítica,Cancelada,A reprehenderit adipisci atque quae.,0
+8343d351-7233-4208-9711-95e0d8def985,2024-09-01 06:51:24,Aglomeração Suspeita,Parque Urbano,-23.24729202532765,-46.8294904050068,Tarde,Alta,Reportada,Alias commodi incidunt dolore necessitatibus rerum.,0
+0c98f942-ca68-43b3-84c6-d3805b081a82,2024-10-16 19:56:24,Pichação,Estação de Metrô,-23.351369826459518,-46.96441827769295,Tarde,Baixa,Resolvida,Deserunt molestias iure cumque recusandae unde.,0
+e710c8ca-e421-4c1f-be5b-11ddd2851846,2025-01-30 18:33:21,Barulho Excessivo,Bairro Residencial A,-23.305034206276673,-46.184949654442654,Madrugada,Alta,Em Análise,Rerum necessitatibus ducimus eveniet.,0
+f0d5212c-b911-46c8-b009-6ee6aa328fa4,2025-01-06 01:21:51,Outros,Parque Urbano,-23.6957385446552,-46.79798929670377,Noite,Alta,Resolvida,Ducimus omnis tenetur iusto assumenda voluptate.,0
+651f43ec-fd0a-4c9d-9098-d6a690b74e97,2025-02-23 22:17:33,Pichação,Área Comercial,-23.5599284603325,-46.49464635541431,Noite,Crítica,Em Análise,Dolore impedit ut esse soluta.,1
+a8dd15f5-79dc-4971-a5a6-cb611308d643,2024-12-08 20:28:35,Pichação,Área Comercial,-23.780047865231165,-46.82099816400153,Tarde,Baixa,Em Análise,Odit eum error.,0
+385bfca6-c042-4345-b73e-aca6227cfb66,2024-07-01 07:46:46,Outros,Estação de Metrô,-23.691600985781932,-46.991797390750115,Madrugada,Média,Cancelada,Porro sunt dolor porro ex.,0
+84a65dab-160e-4987-9b38-27d77481a7a1,2025-05-30 22:23:30,Pichação,Estação de Metrô,-23.919261189350394,-46.688901282057216,Noite,Média,Resolvida,Delectus cumque id sint et ratione totam.,0
+2a9a96c8-5c7d-44f1-89f6-a98283753ea8,2025-03-19 00:42:10,Outros,Estação de Metrô,-23.48946476313034,-46.947486391711365,Tarde,Crítica,Cancelada,Placeat praesentium veniam distinctio nihil aperiam dolorem.,0
+050c83ca-943b-4c2c-bb28-4bb48c4eb065,2024-08-20 22:41:15,Aglomeração Suspeita,Praça Central,-23.216295212245438,-46.07431725467544,Noite,Média,Em Análise,Magnam minus aspernatur culpa magnam cupiditate id.,0
+a9f91497-4374-4ce3-a2f7-b147a76444d5,2024-07-04 20:40:48,Lixo Acumulado,Bairro Residencial B,-23.295114198824262,-46.781956987547794,Madrugada,Crítica,Cancelada,Totam voluptatibus repudiandae quod a ut.,0
+93912199-19a9-4bda-a393-68825e4bf5e6,2024-12-10 17:20:04,Aglomeração Suspeita,Estação de Metrô,-23.410597029498998,-46.37740872430959,Tarde,Crítica,Resolvida,Necessitatibus deleniti ut deserunt.,1
+b779fbff-5acf-4ca5-9c06-2f6f3a7b625a,2025-05-21 10:10:26,Barulho Excessivo,Bairro Residencial A,-23.02644307377184,-46.84018999568454,Tarde,Crítica,Cancelada,Eos quia praesentium neque delectus iure odio.,1
+1a2a9583-4a12-4b27-b8db-bf1a0fe1d3e6,2024-08-12 00:40:14,Barulho Excessivo,Parque Urbano,-23.077676982987608,-46.00087377383615,Madrugada,Baixa,Em Análise,Tempore maiores saepe perspiciatis beatae maiores voluptates.,0
+45f584be-e70b-4398-8f4f-b4db1046f40d,2025-05-05 15:37:14,Lixo Acumulado,Estação de Metrô,-23.506428027656142,-46.281636731666616,Manhã,Baixa,Resolvida,Occaecati ullam repellendus maxime.,0
+bad118ad-f950-42ac-943e-811d1d94b27e,2025-05-18 12:50:42,Pichação,Estação de Metrô,-23.64830297631158,-46.914752290865636,Madrugada,Média,Resolvida,Maiores optio ea doloremque.,0
+6ea4bde7-7bc5-47cf-bfc8-a0e8bf12b72d,2024-08-18 00:03:44,Outros,Área Comercial,-23.774064863979568,-46.17490701922047,Madrugada,Crítica,Cancelada,Ut quam optio delectus.,1
+d16a5931-1b7b-43fa-977f-7bd0f793d68d,2025-02-01 03:46:29,Pichação,Praça Central,-23.66887946501951,-46.303640724091146,Manhã,Crítica,Cancelada,Est dolore sequi aperiam voluptatum dolore dolor.,0
+3eb43d5c-42c5-48d2-b935-e4ba74036fd1,2024-09-09 07:14:32,Barulho Excessivo,Bairro Residencial A,-23.441031560044223,-46.56628622505482,Tarde,Alta,Cancelada,Ea laboriosam sunt perspiciatis animi.,1
+66300410-170b-45ea-8abf-32152fe996d8,2024-08-04 14:42:48,Pichação,Parque Urbano,-23.549184243600525,-46.90733387507197,Madrugada,Baixa,Reportada,Voluptas laborum dolore.,0
+ff008bb9-dab5-4369-a000-478b1bafe4f0,2025-05-14 11:14:03,Lixo Acumulado,Área Comercial,-23.24286914757799,-46.463043846465716,Manhã,Média,Em Análise,Amet modi nihil omnis quod eveniet repellendus.,0
+8d500517-6f18-446b-9605-c8f9bc1eff0b,2024-10-30 14:30:21,Vandalismo,Parque Urbano,-23.694392183997717,-46.2446748447492,Noite,Crítica,Em Análise,Officia beatae debitis deserunt eius nostrum quibusdam officiis.,0
+628080e0-3074-4b1f-84f6-30ba7cd082af,2024-07-26 21:05:37,Vandalismo,Parque Urbano,-23.08557648109562,-46.20579118867182,Madrugada,Média,Em Análise,Ex itaque mollitia repellat.,1
+6ba7fd3b-779b-47b6-a2bb-e7dae0bf5919,2024-08-24 15:35:58,Outros,Área Comercial,-23.96721583019781,-46.213150838407465,Noite,Baixa,Reportada,Perferendis ipsam praesentium magni.,0
+c006d463-7a09-4668-b4e0-998ff7e927ac,2024-06-28 11:08:23,Lixo Acumulado,Estação de Metrô,-23.353498334666103,-46.19441742375161,Tarde,Baixa,Em Análise,Fugiat sit perspiciatis laudantium veniam id.,1
+5c1c3662-88b5-48b2-9356-99790523d435,2024-11-09 23:24:44,Vandalismo,Área Comercial,-23.082960733456826,-46.62278759205327,Noite,Baixa,Reportada,Animi aspernatur magni minima necessitatibus dolores labore.,0
+ea4e19c7-65be-4197-a7ae-2670726e28b8,2024-11-03 08:53:53,Lixo Acumulado,Bairro Residencial A,-23.61324521239251,-46.65721840087086,Madrugada,Crítica,Em Análise,Molestias ab aliquam ab quod.,0
+8ffc75aa-3fcc-4d52-862a-8863d3278e29,2025-02-25 15:46:48,Barulho Excessivo,Praça Central,-23.440136790735544,-46.83767852749322,Tarde,Crítica,Reportada,Minus sint culpa.,0
+5fa0c684-66a8-447f-ba47-3f173fdd2f3c,2024-09-21 03:39:49,Vandalismo,Bairro Residencial A,-23.084774104414223,-46.58635960987395,Noite,Crítica,Reportada,Fuga incidunt modi aut vel.,0
+dba54f94-d90c-4f99-b6bd-d5b22302eeb5,2025-01-22 20:29:27,Lixo Acumulado,Estação de Metrô,-23.96236789222281,-46.14232543730118,Manhã,Crítica,Reportada,Non doloremque quia.,0
+bc5b380e-73f8-4b9f-be4a-793e5061b07d,2024-12-27 06:46:32,Aglomeração Suspeita,Estação de Metrô,-23.664982921824258,-46.84668906864424,Manhã,Crítica,Cancelada,Maxime fuga consequatur fugit maiores.,0
+09a8a013-0fad-47f3-9757-9336179a1a3d,2025-02-05 16:33:22,Vandalismo,Bairro Residencial A,-23.16315372459093,-46.37453726716439,Manhã,Média,Reportada,Non aut ea deserunt rem consequuntur eum fugiat.,0
+2de5b772-a9f6-43d6-96e1-69969c70688a,2024-07-05 07:42:36,Vandalismo,Bairro Residencial B,-23.098663008654746,-46.0838751745524,Madrugada,Baixa,Resolvida,Officiis ullam architecto excepturi voluptate nobis at.,1
+92fcc0ed-0ecb-4a9e-83a6-0fdf4d99e0a5,2025-06-01 16:33:56,Pichação,Bairro Residencial B,-23.96326800691848,-46.15464265026939,Manhã,Crítica,Reportada,Harum vero non culpa.,1
+8c96f7ac-42fb-43c6-aa91-ef1efe886f7f,2024-09-07 19:18:18,Outros,Bairro Residencial A,-23.408474940168922,-46.11460268278042,Madrugada,Baixa,Resolvida,Velit tempora accusamus fugiat totam debitis itaque.,0
+0214f85b-7416-45c6-8480-d015f360f497,2025-01-02 21:01:31,Pichação,Área Comercial,-23.68187363118198,-46.33175444673509,Manhã,Baixa,Em Análise,Nihil illo id quasi.,0
+21d2c037-b01a-4107-b495-a23d595d89d2,2024-12-20 03:00:32,Vandalismo,Praça Central,-23.894176013557722,-46.6311541663401,Madrugada,Alta,Reportada,Molestias id consequuntur possimus ipsam.,0
+9753ce3b-9926-4282-ab21-e1e77d938a94,2025-06-12 02:31:42,Pichação,Área Comercial,-23.74553491994347,-46.34769510107132,Madrugada,Alta,Reportada,Fuga harum molestias sequi sapiente consequuntur adipisci.,0
+4f10dc76-d30d-4547-8608-8e67de4a9c01,2025-03-29 05:13:18,Aglomeração Suspeita,Estação de Metrô,-23.13509433003532,-46.930722977998656,Madrugada,Média,Resolvida,Rerum ratione soluta doloribus.,1
+cc8e1ce6-05db-4a48-ae03-13faf969f2e1,2025-03-21 14:32:02,Barulho Excessivo,Bairro Residencial A,-23.260898622994663,-46.2878214779897,Manhã,Média,Cancelada,Assumenda provident alias consequatur quod amet architecto.,0
+fc6f2c2a-7fef-4bb3-acf3-c85a5bbecfb4,2024-09-09 07:24:14,Outros,Área Comercial,-23.356453483784477,-46.958863810949076,Manhã,Média,Cancelada,Quas officiis illum aperiam maiores temporibus.,1
+e125af83-535c-44d0-a727-d88723259b20,2024-11-12 19:43:31,Lixo Acumulado,Estação de Metrô,-23.668519501467973,-46.347723369193304,Manhã,Baixa,Reportada,Molestiae sunt repellendus unde nostrum aut ipsam.,1
+a97652bd-4c37-4b87-8b75-69a5ae00cdea,2024-08-31 21:31:39,Barulho Excessivo,Área Comercial,-23.705608953666584,-46.12414514080604,Manhã,Crítica,Em Análise,Incidunt quae nesciunt ab.,0
+c9210b96-4147-4cdb-acd9-d726218c8637,2024-09-03 03:18:46,Vandalismo,Estação de Metrô,-23.1828394999876,-46.65313573701056,Manhã,Baixa,Cancelada,Molestias quia id dolore dicta eaque eos.,1
+907d6efb-8b26-4617-888c-9b567d8c3cbc,2025-06-05 11:56:48,Lixo Acumulado,Bairro Residencial A,-23.00585301945776,-46.20489832228898,Manhã,Alta,Resolvida,Delectus impedit dicta voluptatibus.,0
+5669485e-c263-4ed6-9dff-3b9bfda34b6b,2025-02-07 16:19:32,Vandalismo,Área Comercial,-23.611456149584615,-46.7010805889392,Madrugada,Média,Resolvida,Exercitationem quis nobis architecto veniam.,0
+2ba75481-01b9-4e01-aba2-f9dc402a736c,2025-03-16 10:53:11,Pichação,Área Comercial,-23.14801890598961,-46.48608449138864,Tarde,Crítica,Cancelada,Assumenda ratione optio nobis saepe dicta aliquid eligendi.,0
+93727c0c-ea43-4a11-ac15-eaaf33a35901,2024-08-09 12:43:25,Aglomeração Suspeita,Praça Central,-23.617364745157865,-46.50032452114402,Tarde,Crítica,Reportada,Veritatis ipsa eius quo ipsum voluptatibus ipsum.,0
+f96ee306-5ea2-4b3a-a9f6-d42df61ce22e,2024-09-10 15:25:10,Aglomeração Suspeita,Estação de Metrô,-23.53536806704735,-46.99051984402782,Tarde,Crítica,Resolvida,Aliquam vero maiores sit necessitatibus nulla odit suscipit.,0
+3e4a9498-435f-489f-9030-ce085322f4d0,2025-02-03 07:59:57,Lixo Acumulado,Bairro Residencial A,-23.581382420778844,-46.050198552387165,Madrugada,Crítica,Cancelada,Numquam quasi explicabo.,0
+16018997-4fb4-4f84-b914-9ffd09b4ea7e,2024-09-23 02:25:38,Outros,Parque Urbano,-23.15559379480456,-46.77739067019815,Noite,Crítica,Em Análise,Voluptas rerum quia laborum.,0
+8eabfe7d-569e-42da-b3e7-ac0e8a754a24,2025-06-02 23:56:38,Vandalismo,Bairro Residencial B,-23.45975665201547,-46.55901202371724,Tarde,Baixa,Reportada,Dolorum minus necessitatibus quo debitis repellendus veniam adipisci.,0
+b100618d-77df-4f38-8294-cb7dc82a52c3,2025-04-06 22:27:06,Vandalismo,Praça Central,-23.40076463125705,-46.4854650795723,Manhã,Baixa,Cancelada,Sequi suscipit officiis ea in maiores hic.,0
+20c51196-e84b-4436-bd55-1ea97df2dc1b,2024-11-27 15:01:34,Outros,Praça Central,-23.990841009634632,-46.40496632851557,Manhã,Média,Em Análise,Ipsa magnam eos culpa soluta.,0
+9cd9cdca-9140-4b5c-9ee1-ce7b6bb8a414,2025-02-11 19:54:33,Outros,Parque Urbano,-23.01029145623494,-46.30104688707212,Manhã,Baixa,Resolvida,Praesentium rem eaque veritatis.,0
+13fdcb09-1e79-4d98-a202-14ac2e7298ec,2025-02-09 11:02:50,Aglomeração Suspeita,Estação de Metrô,-23.59638266553534,-46.240226076223,Noite,Alta,Em Análise,Delectus necessitatibus iste soluta porro ratione veritatis.,0
+ffdedcfd-935f-4705-84a1-266bf0422ac5,2024-07-28 15:34:10,Outros,Área Comercial,-23.080757874608423,-46.372482345085174,Manhã,Média,Cancelada,Quidem aperiam quam fugiat consequuntur recusandae aut.,0
+820536f3-4ce5-4ad6-89bd-fe47336d44ed,2025-04-03 02:04:49,Barulho Excessivo,Estação de Metrô,-23.84861106447714,-46.75493811200272,Noite,Alta,Cancelada,Voluptatem esse illo nobis.,0
+044b2556-8457-46d3-a7b9-130b5c70aaf8,2025-01-27 05:29:56,Lixo Acumulado,Bairro Residencial B,-23.81362319056371,-46.60419911363245,Noite,Baixa,Cancelada,Cumque impedit in iusto dolorum vero quaerat.,0
+28bb3d4f-fcfd-4eff-8b76-c325788bdf68,2024-10-23 22:33:32,Pichação,Estação de Metrô,-23.848613895752887,-46.00114002817465,Manhã,Alta,Resolvida,Officiis itaque aliquid modi modi harum.,0
+6ba830fc-6957-420f-a3c4-2a5a60cd1732,2025-03-25 14:47:24,Aglomeração Suspeita,Estação de Metrô,-23.929325773733265,-46.854845450989664,Madrugada,Crítica,Resolvida,Eaque exercitationem modi similique blanditiis.,1
+42334a11-1d6c-4a1d-acb7-220ab23a5d2d,2025-03-01 22:48:17,Barulho Excessivo,Parque Urbano,-23.121451395903925,-46.24156164315603,Noite,Crítica,Em Análise,Cum accusantium quia.,0
+611b7ad1-eea8-4afd-b57d-477e445127ec,2025-01-02 06:05:37,Pichação,Parque Urbano,-23.17028274195833,-46.33536420963238,Noite,Crítica,Reportada,Sequi possimus culpa enim iusto necessitatibus accusantium nemo.,0
+2223fa3f-0fd4-497a-a346-53c9fe62d899,2025-02-22 22:49:35,Pichação,Bairro Residencial A,-23.339177244930664,-46.2524781004572,Madrugada,Alta,Reportada,Dolore vel iure.,0
+74455ad7-e890-470d-b4ca-c345706bedf0,2025-01-31 21:47:18,Pichação,Estação de Metrô,-23.2705135835068,-46.968764737018006,Noite,Baixa,Cancelada,Neque quos eligendi quisquam voluptate.,0
+61dad660-a8f0-4670-818f-a846f45305a9,2024-09-24 14:09:27,Aglomeração Suspeita,Área Comercial,-23.21164294969865,-46.64822055260533,Noite,Baixa,Resolvida,Iste alias minus suscipit ullam.,0
+dd1f8b09-05d8-463b-b2bc-32c681bda42b,2025-02-18 23:50:24,Barulho Excessivo,Estação de Metrô,-23.04709871447637,-46.44851477066524,Noite,Média,Reportada,Aperiam pariatur esse nesciunt beatae doloribus asperiores.,0
+cb03a532-021d-424f-a71a-ac52e1da02b8,2025-01-17 19:38:14,Pichação,Estação de Metrô,-23.83383715841389,-46.372234160537346,Noite,Crítica,Resolvida,Culpa sapiente molestias fugit ullam.,0
+cb6ac5d5-4f5a-4e18-8b89-db1709c08b42,2025-06-09 13:47:22,Pichação,Praça Central,-23.65155673111835,-46.23043250343164,Madrugada,Crítica,Cancelada,Tempore numquam explicabo.,0
+6009a158-a591-4854-a853-c83ceee48af6,2024-10-24 18:13:39,Barulho Excessivo,Bairro Residencial A,-23.222147949350912,-46.64673000018268,Noite,Baixa,Reportada,Quaerat delectus maiores harum soluta.,0
+86613624-1ded-460d-ab07-e6f1f09d1c74,2025-04-20 00:42:32,Aglomeração Suspeita,Bairro Residencial A,-23.30293374205612,-46.099289838145545,Manhã,Alta,Em Análise,Expedita similique provident architecto odit provident fugit sequi.,1
+1be5a9cb-c83b-4c31-b03a-7f5fb0ff7036,2024-09-19 04:08:40,Outros,Bairro Residencial B,-23.129898919856966,-46.76987141663969,Tarde,Média,Resolvida,Incidunt quia inventore corporis excepturi itaque.,0
+5542f9ca-d3c7-4c19-ada3-d40fa6297c9e,2025-05-07 08:03:08,Vandalismo,Praça Central,-23.55448087996497,-46.72499604367716,Madrugada,Crítica,Resolvida,At quas eius odio nihil.,0
+80d809c8-5803-448a-ad14-ba7e169bce21,2024-07-07 19:00:36,Pichação,Bairro Residencial A,-23.26607312062716,-46.07569350691829,Noite,Média,Cancelada,Asperiores eaque laboriosam.,1
+7be3c273-8a37-404f-a06c-7c5f15025e84,2025-03-23 19:49:32,Pichação,Bairro Residencial A,-23.048992203915606,-46.32735591986375,Manhã,Média,Em Análise,Nostrum repellendus est dolore corporis officiis nemo natus.,0
+d3b82a8d-ae18-459c-8d1c-4a14243b0449,2024-09-06 05:31:22,Barulho Excessivo,Parque Urbano,-23.031647597106776,-46.750268145393456,Manhã,Alta,Resolvida,Similique saepe nisi tenetur error.,0
+7075a934-a577-41cd-b2fa-d65c2e78e6e7,2024-08-19 11:08:00,Barulho Excessivo,Bairro Residencial B,-23.583856297353172,-46.06656323752909,Noite,Baixa,Reportada,Esse rerum omnis optio.,0
+efe77a1c-3856-47e1-9e00-19779c94ebee,2024-09-08 14:36:46,Aglomeração Suspeita,Bairro Residencial A,-23.51338402299139,-46.86627930333477,Madrugada,Alta,Cancelada,Minima dolorum quam consequatur maiores.,0
+27d7d518-6995-4c98-a5e7-095f73c31497,2025-01-16 21:23:59,Pichação,Parque Urbano,-23.065342113938108,-46.72281509803179,Madrugada,Alta,Reportada,Nesciunt quo sed fugit.,1
+09277705-02ce-40d7-a8f0-9fb9a5e855d8,2024-12-27 15:31:25,Outros,Bairro Residencial A,-23.115786136821274,-46.9489125938166,Manhã,Crítica,Em Análise,Ipsa repudiandae optio adipisci vero.,0
+2d98728a-dd84-4e7d-a5ed-f712bd153d4a,2025-05-25 15:36:30,Pichação,Bairro Residencial A,-23.467371129870706,-46.81426513068946,Tarde,Crítica,Reportada,Veniam numquam quam qui.,0
+0d76d993-de57-4017-b054-9c89b95f0804,2024-12-07 07:01:05,Pichação,Bairro Residencial A,-23.33927399432086,-46.5396190188853,Tarde,Crítica,Reportada,Eum facilis porro.,0
+521a5ffc-db43-4239-870d-e09b01cacfb6,2025-01-26 04:15:58,Barulho Excessivo,Estação de Metrô,-23.243486625340097,-46.96601519203057,Manhã,Alta,Em Análise,Aut saepe veniam maiores ad aperiam.,0
+aa6d722f-3779-4f63-a58b-e499ef4220d6,2024-11-23 13:22:05,Pichação,Área Comercial,-23.09561392376591,-46.332470331596504,Tarde,Baixa,Reportada,Aperiam officiis vitae aliquam nemo provident ex nam.,0
+2fc5a576-b64c-4431-945e-307662aeb96a,2024-09-23 14:20:25,Outros,Bairro Residencial A,-23.074323365472807,-46.78938979500864,Tarde,Alta,Cancelada,Quae facilis provident saepe nesciunt.,0
+274e7a9e-45b4-4eb2-992f-0e879197e23b,2025-05-20 03:33:26,Vandalismo,Estação de Metrô,-23.57998527114051,-46.804033736921994,Noite,Baixa,Cancelada,Est dolore consequuntur facilis veniam est maiores.,1
+a6e31e36-42e8-4f97-84a0-f9228d632833,2024-10-24 11:00:44,Lixo Acumulado,Estação de Metrô,-23.674378267306135,-46.233879541724065,Noite,Baixa,Cancelada,Beatae necessitatibus sunt voluptate.,0
+6888b59d-ce07-4bf3-8368-6df065dac598,2024-11-11 07:34:31,Pichação,Área Comercial,-23.615841744499516,-46.578985720535236,Tarde,Alta,Reportada,Ad dolorum similique nisi.,1
+0ac4c7a5-abd4-4edd-b3f9-e7f5bd51146a,2024-10-31 13:45:55,Lixo Acumulado,Parque Urbano,-23.40952989269825,-46.56504736273672,Madrugada,Baixa,Cancelada,Ut a tempore minus.,0
+83e935fe-91f0-4b62-960b-e960f2eba2c7,2025-05-08 08:33:23,Pichação,Bairro Residencial B,-23.89061919659634,-46.43159657533305,Madrugada,Baixa,Resolvida,Natus debitis culpa suscipit earum voluptas.,0
+773f49ef-f12f-4b72-873e-b9291ea167fb,2025-02-21 03:38:12,Barulho Excessivo,Bairro Residencial A,-23.324657900257037,-46.6978520060991,Noite,Baixa,Em Análise,Minima qui alias.,1
+2870b4ab-9c2c-4077-b17c-3a62c802c81b,2024-09-04 18:08:03,Barulho Excessivo,Bairro Residencial B,-23.001489774784183,-46.82999542844113,Tarde,Alta,Cancelada,Et ea impedit eaque cumque deserunt vitae.,0
+fe05d66b-bf7f-46b3-9ef2-e1c0ced51051,2024-07-19 16:58:53,Vandalismo,Praça Central,-23.37985156804912,-46.48750537047704,Manhã,Crítica,Cancelada,Nobis aperiam beatae optio eveniet ratione.,0
+e7159264-6c02-4398-b5f3-b7709be27d35,2025-03-23 02:19:06,Vandalismo,Bairro Residencial A,-23.110349556640866,-46.81639510779315,Madrugada,Alta,Reportada,Velit voluptatibus necessitatibus.,0
+7626a189-d904-42a4-9901-5ce03284b31b,2025-03-27 01:03:51,Lixo Acumulado,Estação de Metrô,-23.876534250380757,-46.91591630273751,Tarde,Média,Cancelada,Accusamus dolorem vel officiis explicabo.,1
+e936ad7e-e630-442b-85c2-bdd71d3e0edf,2024-12-16 13:15:35,Vandalismo,Área Comercial,-23.317304426587324,-46.359994292173695,Tarde,Média,Cancelada,Corrupti repellat dolorem voluptatibus in totam.,0
+7c8dd35f-c4f5-45a2-bfe7-17edaf36b677,2024-08-18 11:14:59,Outros,Bairro Residencial A,-23.679324218038133,-46.37507047955479,Noite,Média,Resolvida,Provident cum eum.,0
+f54cca2c-0e6e-4d01-b63b-7b62a5fb0b51,2025-06-09 23:48:05,Barulho Excessivo,Parque Urbano,-23.356985396151746,-46.62496890688256,Tarde,Crítica,Em Análise,Earum impedit illo qui similique praesentium.,1
+4afa6b5a-c118-4c2b-9c99-cd8fab9d0cee,2025-01-20 23:31:21,Outros,Bairro Residencial B,-23.734223739938844,-46.290548045242424,Madrugada,Alta,Cancelada,Sunt odio corporis error modi.,1
+80505dfb-4d50-47df-8a1d-3cb290d10681,2024-12-10 09:14:10,Pichação,Bairro Residencial A,-23.286512884584624,-46.06314675289128,Madrugada,Baixa,Em Análise,Consectetur ut excepturi sapiente labore.,1
+ba2e1649-b863-461e-befe-a0d890fe5ba6,2024-11-26 09:17:28,Lixo Acumulado,Estação de Metrô,-23.423512104902795,-46.953301205935325,Noite,Crítica,Resolvida,Nulla amet perferendis fugiat sunt itaque eius.,0
+d8d6f887-9534-42c9-8193-2a8802ecf12a,2025-04-16 14:19:36,Outros,Bairro Residencial B,-23.038956022097338,-46.23961251433532,Tarde,Alta,Cancelada,Vitae id unde ipsa.,0
+3115809c-7593-4ff7-a721-a0fee6b77b69,2025-03-31 22:01:41,Vandalismo,Parque Urbano,-23.201269669078485,-46.30571959798156,Madrugada,Alta,Resolvida,Facere in ipsum esse sint.,0
+3c8a2c2c-9847-4bda-b173-77e9638b043c,2024-10-26 22:43:44,Pichação,Bairro Residencial A,-23.263064588853254,-46.85211137997275,Tarde,Alta,Resolvida,Dolores nulla temporibus quos sapiente quas a.,0
+44c57321-7385-4c79-bd99-9e1720008523,2024-10-08 17:35:14,Pichação,Bairro Residencial A,-23.149722160449986,-46.744665506701445,Tarde,Alta,Resolvida,Est distinctio officiis distinctio.,0
+c00cb998-40d3-4fdc-94aa-d67aa0968cfc,2024-12-03 09:50:09,Barulho Excessivo,Praça Central,-23.564965673387462,-46.311870573528466,Manhã,Baixa,Cancelada,Ipsa ipsam laboriosam nobis.,0
+f080b6df-ab35-4931-88ac-75dd87f87a31,2025-04-03 17:47:26,Aglomeração Suspeita,Praça Central,-23.979806875822945,-46.717921507962906,Madrugada,Média,Cancelada,Consequuntur nisi quo explicabo ipsam ipsam veniam.,0
+6fc5d717-e234-4503-bd62-278010c54ecb,2024-10-20 10:06:40,Outros,Bairro Residencial B,-23.03970617448099,-46.853885315912194,Manhã,Crítica,Em Análise,Aut cupiditate ipsum amet incidunt dignissimos.,1
+4747a941-d2e7-4e80-8a83-c57feee3db28,2025-01-17 10:30:47,Barulho Excessivo,Bairro Residencial B,-23.143366535654756,-46.373698708082465,Noite,Média,Resolvida,Ad facere reprehenderit ipsum cupiditate incidunt unde.,0
+6941dc89-3cf9-4b43-a94b-a820ffaab8cb,2024-12-01 06:59:58,Aglomeração Suspeita,Estação de Metrô,-23.690894781951496,-46.09379961159741,Tarde,Baixa,Cancelada,Magnam magnam iusto nemo deleniti reprehenderit tempora.,0
+de8b65e2-a713-4fa6-beec-066471e7f182,2025-06-09 09:19:09,Lixo Acumulado,Estação de Metrô,-23.621138178006383,-46.626300848195115,Manhã,Alta,Resolvida,Animi laboriosam quia fuga.,0
+7920beb2-c5ff-46dc-b297-49a23a5259f5,2025-01-02 12:17:21,Lixo Acumulado,Estação de Metrô,-23.237086496741952,-46.4200876797776,Madrugada,Alta,Em Análise,Itaque reprehenderit minima veritatis.,0
+dc9812a0-f49e-4ecf-8b6a-bc1447bd9d67,2024-10-30 13:27:59,Pichação,Praça Central,-23.067720437618444,-46.69261487976261,Noite,Alta,Resolvida,Ab corrupti tempore at magnam assumenda repudiandae esse.,1
+a73cae48-0dc9-485b-9ec5-7065748798ec,2024-11-09 18:16:58,Lixo Acumulado,Bairro Residencial A,-23.551903337682674,-46.463241231345734,Noite,Baixa,Reportada,Fugiat nesciunt modi fugiat veritatis.,0
+55115cc0-0e2d-410b-9693-937ae3aeed8f,2025-03-31 02:58:47,Outros,Bairro Residencial B,-23.897182670367492,-46.963972785503415,Tarde,Crítica,Cancelada,Est suscipit tempore ea.,0
+0a294e67-e96f-4c21-8bef-10293ba5e826,2025-03-02 08:03:06,Barulho Excessivo,Bairro Residencial A,-23.966382184714643,-46.562263020513676,Madrugada,Crítica,Em Análise,Debitis doloremque dolor ab.,0
+7f303c4d-7c17-42e1-9333-d65c2b17eaa6,2024-09-01 08:36:03,Aglomeração Suspeita,Área Comercial,-23.891875751588795,-46.33606526476765,Noite,Crítica,Resolvida,Nostrum porro ipsa nihil magni cupiditate voluptatem.,0
+d63bc5ee-4258-4cee-a9ce-6413a68d9b1b,2025-05-03 02:35:15,Aglomeração Suspeita,Área Comercial,-23.843337403247787,-46.78465986108491,Manhã,Média,Em Análise,Earum quod nesciunt.,0
+154aea37-d612-46bc-aa77-8cea4248c463,2025-03-18 18:01:31,Pichação,Bairro Residencial A,-23.289323693278313,-46.78610074400478,Manhã,Crítica,Resolvida,Possimus quibusdam voluptates veniam tempora quo nemo.,0
+9f9c2ecd-0e9a-4aed-9f9f-6f81bff48df3,2025-04-10 14:51:42,Aglomeração Suspeita,Bairro Residencial A,-23.509730364301237,-46.533242677576474,Manhã,Baixa,Reportada,Maiores impedit accusantium molestiae voluptas perferendis.,1
+04a10591-f139-4984-8f7f-e531dd581896,2025-04-07 05:57:33,Outros,Bairro Residencial A,-23.752533775886118,-46.505510413135475,Manhã,Baixa,Resolvida,Labore velit debitis nesciunt illo excepturi.,1
+297630d4-b014-436b-9796-0439e7a6fce6,2024-12-03 00:42:53,Outros,Bairro Residencial B,-23.79665243941916,-46.30642022855555,Manhã,Alta,Reportada,Magnam corporis corporis iure.,1
+f016649a-b9c4-4c47-9a1c-ff4d78c9fa80,2025-06-04 13:39:46,Barulho Excessivo,Estação de Metrô,-23.36182552172177,-46.85114334079781,Madrugada,Média,Cancelada,Et est rem reprehenderit dolorum.,0
+b8dd6710-0867-435b-8d6b-1dc6fa2bb731,2024-11-11 09:16:03,Barulho Excessivo,Bairro Residencial A,-23.867353553301115,-46.72956927018327,Madrugada,Alta,Cancelada,Officia exercitationem omnis.,0
+8fcf7002-90bf-4b0c-aa4c-f533a28c2b7a,2024-10-18 12:26:59,Pichação,Área Comercial,-23.786565077695982,-46.875691235730535,Tarde,Baixa,Reportada,Quisquam repellendus possimus dolores dignissimos perferendis.,0
+2b72d933-c72b-4691-8b28-3c668e5241b3,2025-04-27 21:44:21,Outros,Área Comercial,-23.345234204600263,-46.364451614331905,Tarde,Crítica,Em Análise,Et quibusdam excepturi.,0
+73ce14ce-5fe8-44cd-8b83-7105ad621dfe,2024-07-09 17:03:09,Lixo Acumulado,Bairro Residencial B,-23.193629394775943,-46.74815797406031,Manhã,Média,Resolvida,Quidem dolore corporis modi incidunt minus dicta.,0
+be33edd8-d7be-4fa3-bf9e-fa262f1e26da,2025-01-12 01:27:18,Aglomeração Suspeita,Área Comercial,-23.583401898836563,-46.30854348777038,Madrugada,Alta,Em Análise,Atque dolorem consectetur vel culpa atque atque quibusdam.,0
+6580b4d5-9c1a-45fd-bad0-daa12da4901a,2024-12-10 02:19:02,Aglomeração Suspeita,Parque Urbano,-23.289675570688104,-46.671504080044556,Noite,Média,Reportada,Doloremque praesentium incidunt sequi atque.,1
+46f61497-c2ef-4a36-81fe-b6cbf97bfa27,2024-08-23 00:27:36,Aglomeração Suspeita,Estação de Metrô,-23.894272942855014,-46.90842640625172,Noite,Alta,Resolvida,Delectus nulla atque quibusdam itaque laudantium facilis quaerat.,0
+2728de05-57ae-477b-82ad-530f4d76c46c,2024-07-07 22:50:31,Barulho Excessivo,Área Comercial,-23.92491983394882,-46.34023660758975,Manhã,Alta,Cancelada,Tenetur in excepturi maiores quia atque eum.,0
+a60fae4f-ae6a-421e-b351-b3b1b7a68e05,2024-07-19 05:05:30,Aglomeração Suspeita,Parque Urbano,-23.11913273904613,-46.251486811773304,Manhã,Média,Em Análise,Ipsum laboriosam culpa eligendi atque expedita.,0
+b0ac8f8a-d812-472e-afe1-61e920ec4319,2024-12-09 17:11:16,Aglomeração Suspeita,Bairro Residencial A,-23.371602565653404,-46.73759076076945,Manhã,Alta,Resolvida,Illo inventore necessitatibus eos sit quibusdam.,0
+c2128fb7-267b-4f50-b863-4d2e4175897e,2024-07-19 21:20:51,Vandalismo,Bairro Residencial B,-23.603035752120988,-46.580410736964296,Noite,Alta,Em Análise,Suscipit earum nisi quod consequatur placeat soluta.,0
+aa47846c-6b9e-4199-89f4-1210da0fa492,2025-02-13 01:26:56,Outros,Área Comercial,-23.4930427119516,-46.43656547543032,Noite,Baixa,Cancelada,Soluta perferendis eligendi commodi.,0
+b37b9963-77a5-4f83-87c3-a579269bb158,2024-07-08 06:13:53,Barulho Excessivo,Estação de Metrô,-23.154727094569843,-46.5747744200566,Noite,Alta,Em Análise,Voluptas porro facere facere a exercitationem.,0
+949fa136-1685-4e1a-86a7-96dce6b01051,2025-04-26 12:58:28,Lixo Acumulado,Bairro Residencial B,-23.041461426146924,-46.46965459410467,Noite,Alta,Cancelada,Necessitatibus asperiores sapiente reiciendis dolor fugit.,0
+9f4f41b5-0743-4ad9-8b4d-7954f55c7345,2024-10-31 02:32:45,Pichação,Praça Central,-23.15105829495367,-46.40000074171122,Manhã,Média,Cancelada,Quidem vero ad quis quae distinctio velit.,0
+33d20c80-a87c-4650-a7f6-6e40150018d1,2025-03-08 02:45:30,Outros,Bairro Residencial B,-23.344282210783852,-46.77802788030508,Noite,Crítica,Cancelada,Numquam aliquid quas commodi incidunt incidunt.,0
+d496bece-ad7d-48c3-89b7-1eee988c6451,2024-11-23 17:01:51,Outros,Praça Central,-23.167766008747584,-46.02598329032668,Tarde,Alta,Reportada,Odit pariatur eveniet porro.,0
+82736eab-88dd-41a2-ab4b-1d12f93798c2,2024-09-22 16:47:19,Lixo Acumulado,Praça Central,-23.542087236386564,-46.06755769443885,Noite,Alta,Em Análise,Perferendis tenetur saepe deleniti nostrum reiciendis.,1
+b26b6ab9-82df-46b3-8364-d50c157f697a,2024-11-09 01:52:02,Vandalismo,Estação de Metrô,-23.087132448201903,-46.78517760806207,Tarde,Alta,Resolvida,Iure tempore unde occaecati cumque.,1
+2634a5c7-ff94-4d0c-aca4-834adf6d70c2,2024-10-10 22:43:14,Pichação,Bairro Residencial A,-23.24067460220536,-46.320700293634864,Tarde,Média,Em Análise,Animi adipisci asperiores hic amet rem possimus.,0
+ecfa957b-52e9-4f87-aeb2-cd0527b0627b,2025-01-15 04:37:58,Barulho Excessivo,Praça Central,-23.244446299872475,-46.280535847595665,Manhã,Baixa,Resolvida,Corporis ea iure ad dolore quae iste.,0
+c12a6f46-a150-471c-8e39-5b540dcbb137,2025-02-25 10:44:21,Pichação,Bairro Residencial A,-23.99940468673663,-46.04167638586112,Tarde,Média,Em Análise,Corporis ad modi suscipit pariatur dolorum esse.,0
+f85d4425-aaa1-4eae-a755-9ad0ecc537b7,2025-04-17 18:04:10,Aglomeração Suspeita,Parque Urbano,-23.42414710745339,-46.882705179692714,Tarde,Baixa,Em Análise,Eveniet necessitatibus quo laborum.,0
+069ad461-60d1-4fc0-b616-e383703f2a71,2025-05-05 04:01:30,Vandalismo,Parque Urbano,-23.58167841318085,-46.84976013900327,Tarde,Alta,Reportada,Nemo dolor beatae quaerat voluptatibus accusantium.,1
+227f56da-7d50-427f-9db1-d1d348f6806a,2024-07-17 23:28:50,Pichação,Bairro Residencial A,-23.966888923227973,-46.19704257043988,Tarde,Média,Reportada,Aut sint reiciendis in magnam ut.,0
+d59109a8-4f6a-4be8-ae89-e82eb8d6b39c,2025-04-05 10:19:04,Outros,Bairro Residencial B,-23.096245578060202,-46.57713759144343,Tarde,Crítica,Reportada,Velit maxime necessitatibus rem.,0
+2719c86e-7868-4638-97a0-4c9d94f50198,2025-01-24 06:28:08,Aglomeração Suspeita,Praça Central,-23.8347590763029,-46.46058807054473,Tarde,Média,Resolvida,Repellendus eaque provident libero veniam.,0
+b11fd0fb-955a-4fbd-8b8a-4c44a03d672c,2025-05-29 21:29:14,Vandalismo,Praça Central,-23.92738927167347,-46.486077663567485,Tarde,Média,Resolvida,Tempore delectus voluptas minima debitis.,1
+ae8c5224-f7f6-4334-b40d-50ea51a707bd,2024-10-04 11:05:52,Aglomeração Suspeita,Bairro Residencial B,-23.73238010059132,-46.73877675302006,Tarde,Alta,Resolvida,Alias porro velit ea et.,0
+9fd49f4e-e121-4a0a-8efe-aa098c73d3d2,2024-08-01 19:21:46,Vandalismo,Área Comercial,-23.430596880451155,-46.86248799385307,Madrugada,Alta,Em Análise,Dolorem nulla ab nihil veritatis.,0
+aa64cb14-e842-4d27-bc95-59111957d32c,2024-11-23 08:40:48,Aglomeração Suspeita,Estação de Metrô,-23.43124123211819,-46.39682836714382,Noite,Baixa,Em Análise,Iure saepe quo totam tempore ipsam.,1
+3f8fe6e6-f245-4c05-b6a7-02b7056cf422,2024-09-17 19:00:08,Pichação,Parque Urbano,-23.57780249074189,-46.352923257063765,Noite,Alta,Cancelada,Dolore doloremque quaerat minima voluptatum.,1
+0ba8232c-68e0-46cd-95f7-ea32c01bade8,2024-09-21 06:21:08,Lixo Acumulado,Estação de Metrô,-23.41964503679315,-46.613124080593856,Noite,Média,Cancelada,Modi illo alias rerum quas libero saepe.,0
+ed4b356c-f1a3-47c5-a866-d2f0ef84b468,2025-01-27 04:26:34,Outros,Bairro Residencial A,-23.97128592891452,-46.191846373077446,Madrugada,Alta,Em Análise,Provident dolore labore.,0
+0a2deb25-f7a1-47fb-a012-adc504932382,2024-10-16 06:43:59,Barulho Excessivo,Área Comercial,-23.48082718563594,-46.45449433322074,Manhã,Crítica,Reportada,Voluptatem expedita dignissimos ut.,0
+f9c085f2-c6c2-4742-87ca-8b963c8dfbe1,2024-08-06 10:52:40,Pichação,Bairro Residencial B,-23.483316420321586,-46.51651383967263,Tarde,Alta,Em Análise,Voluptatum sunt fugit iusto nobis animi ratione.,0
+123a2bb9-a698-496a-a98e-95dd44dcbf36,2025-01-06 19:46:43,Lixo Acumulado,Bairro Residencial B,-23.231311303185866,-46.46213781793813,Manhã,Baixa,Em Análise,Sint ea est dignissimos veritatis sit fugit tempore.,0
+fb69ebff-acf4-4090-b7ea-b5ff63da15ef,2025-05-24 18:26:21,Aglomeração Suspeita,Praça Central,-23.261058185279175,-46.827111835793424,Madrugada,Baixa,Cancelada,Ipsum saepe dolores minus magnam.,0
+dac63054-c227-4a0a-aa0d-fb5119dd0553,2025-03-10 13:24:26,Lixo Acumulado,Parque Urbano,-23.57982263284351,-46.91059170625545,Madrugada,Alta,Em Análise,Voluptates omnis aspernatur quod beatae.,0
+9b8cb2be-a56f-4388-8047-721f8e299cae,2025-05-14 07:47:44,Vandalismo,Praça Central,-23.821198952835747,-46.349996246072266,Noite,Alta,Em Análise,Tenetur cumque asperiores aut.,0
+a9254dd8-99aa-4b10-81b3-c8675ed38b1e,2025-01-01 23:54:26,Barulho Excessivo,Praça Central,-23.27798008070589,-46.47726542172552,Tarde,Média,Cancelada,Provident aliquid cum maiores.,0
+8b57a0f8-986f-4097-9a7d-fc39f02d5a16,2024-11-18 05:24:12,Barulho Excessivo,Bairro Residencial A,-23.110569489159275,-46.689902631849264,Manhã,Baixa,Reportada,Debitis asperiores itaque.,0
+fdb94c25-d853-411f-a613-18c5da9d8019,2024-07-20 14:38:42,Vandalismo,Área Comercial,-23.77269872773328,-46.19400661830275,Tarde,Média,Resolvida,Consequuntur quaerat vel tempora eius est ex omnis.,0
+0e41691e-026a-4459-9a67-02bdc42c58ac,2024-08-11 01:49:17,Vandalismo,Bairro Residencial B,-23.881568953955945,-46.51137788005149,Madrugada,Baixa,Resolvida,Perspiciatis iusto incidunt sed consequatur.,0
+b4abafef-49c5-42fa-8e22-e7bfcb317bc8,2025-01-02 12:18:00,Barulho Excessivo,Estação de Metrô,-23.00613281330734,-46.358486719253484,Noite,Crítica,Em Análise,Omnis sequi fuga quos alias voluptates sunt.,0
+9951c514-2f96-4744-83d3-72e187058f2a,2025-05-11 06:23:19,Aglomeração Suspeita,Bairro Residencial A,-23.052430266544047,-46.557083019717794,Tarde,Média,Em Análise,Quo officia eligendi ex.,1
+305a3305-1571-4e6c-a65f-2680db888750,2024-06-21 18:40:18,Pichação,Bairro Residencial A,-23.01701434711725,-46.55502583444509,Tarde,Crítica,Reportada,Quasi aut exercitationem officiis veniam id iste.,1
+a30508ec-8c85-4b96-9c78-34cede53862e,2024-08-15 04:24:22,Outros,Praça Central,-23.05179178638315,-46.56294014345531,Tarde,Baixa,Cancelada,Magnam quaerat nisi voluptates.,1
+84d22c0a-9019-46f3-8f0c-3283447c8a62,2025-06-01 02:00:45,Outros,Parque Urbano,-23.086828327806476,-46.364796121663844,Noite,Alta,Resolvida,Esse commodi doloremque quibusdam iusto repellendus.,0
+ccb53282-612c-4c4f-bae5-aef02ed4918e,2024-10-26 03:43:35,Vandalismo,Estação de Metrô,-23.04545266421151,-46.435144673924434,Noite,Alta,Cancelada,Impedit vitae at ab fugit voluptates cupiditate.,0
+37b84766-aee4-4dca-aeec-7470ef676a96,2024-11-23 09:13:11,Barulho Excessivo,Bairro Residencial B,-23.47931956271343,-46.90681193714283,Noite,Alta,Reportada,Illo esse nobis pariatur.,0
+6d3c103f-15fe-4cde-b617-b40f37e2da4d,2024-10-31 14:16:32,Barulho Excessivo,Bairro Residencial B,-23.05291898000206,-46.54277490049077,Noite,Média,Reportada,Voluptates quaerat facilis libero unde laudantium sunt.,0
+5ddf41cf-d4f4-4b23-b7fa-02057b1f4654,2024-06-28 00:27:39,Lixo Acumulado,Praça Central,-23.834139502937607,-46.75266063378677,Madrugada,Baixa,Cancelada,Harum voluptatum reiciendis doloremque eos iure nostrum.,0
+301a5dae-6fc3-46fd-a1cf-5bd0ceb31c8c,2024-11-23 00:40:46,Barulho Excessivo,Área Comercial,-23.371132015552384,-46.88096525845373,Manhã,Média,Cancelada,Fugiat in sit quidem provident beatae unde.,0
+9a377234-9a10-407e-9ab1-26a006f68658,2024-09-04 09:54:35,Lixo Acumulado,Parque Urbano,-23.16553143525504,-46.92313943977467,Madrugada,Alta,Em Análise,Placeat expedita neque soluta.,1
+be9320e0-a41c-469d-a132-13bf09e50b7b,2025-04-09 16:26:54,Aglomeração Suspeita,Área Comercial,-23.166846565851266,-46.08914276659664,Madrugada,Crítica,Reportada,Ratione quaerat veritatis.,0
+f9c26b41-2d9e-4083-959f-4c136fb6cd42,2024-11-30 06:12:52,Pichação,Praça Central,-23.157594092304638,-46.97857539622645,Tarde,Média,Reportada,Officiis sit dolor accusantium impedit cumque libero.,0
+e691a3f8-ffda-41e4-93a4-947bb1ffa43d,2024-11-14 20:32:33,Pichação,Área Comercial,-23.78341044574428,-46.739638377907674,Manhã,Crítica,Reportada,Quis nulla sapiente explicabo similique atque similique doloribus.,0
+9ccbd37c-ae7c-42f8-a6ea-f1d49be85d68,2024-09-10 18:36:13,Pichação,Área Comercial,-23.097972054383945,-46.37558303333453,Madrugada,Média,Em Análise,Dolore ipsum necessitatibus natus est.,0
+031d0176-7854-4f6c-93f9-3ebfc9ce72f0,2024-10-03 08:43:21,Barulho Excessivo,Área Comercial,-23.44571023124107,-46.997121570453935,Tarde,Média,Cancelada,Eum reprehenderit repellat odio recusandae.,0
+90fa9788-ecde-4a53-9790-f23fb0a768d2,2025-05-12 21:06:56,Barulho Excessivo,Bairro Residencial A,-23.066037353619027,-46.37283975921314,Madrugada,Alta,Cancelada,Odit corporis libero.,1
+b81c10d9-07d6-4ae1-84a2-1d1a2994a1a9,2024-12-24 14:10:50,Outros,Bairro Residencial A,-23.737666434766957,-46.63004954486796,Manhã,Média,Em Análise,Harum alias numquam beatae praesentium commodi dolorem.,0
+99a66e24-368c-4e30-83fe-ab770963d2d2,2024-12-11 10:06:25,Barulho Excessivo,Bairro Residencial A,-23.214024739069814,-46.45990122260756,Madrugada,Média,Em Análise,Vel dolores consequatur nam quisquam inventore quibusdam magni.,0
+2c5b048c-265e-46cc-bf3e-892ac1e9ac19,2024-07-28 07:43:54,Aglomeração Suspeita,Bairro Residencial B,-23.87281638543038,-46.82058182370131,Manhã,Alta,Em Análise,Dolorum voluptatibus perferendis omnis consequuntur perspiciatis.,0
+b53d8675-4ad4-4dd5-b5ce-50df6cccb063,2025-05-19 14:50:23,Barulho Excessivo,Bairro Residencial B,-23.95678053691341,-46.105594215405496,Manhã,Média,Resolvida,Maxime assumenda aliquam dolorum.,0
+8bbaaa9c-17b3-4a47-a57b-9c9a6bdba1ef,2025-05-29 15:13:45,Aglomeração Suspeita,Praça Central,-23.277847802592536,-46.870978341666714,Tarde,Baixa,Resolvida,Est officia molestiae.,0
+a389d64f-26f1-46b0-a2e9-d32ae056dde9,2025-04-06 15:18:08,Barulho Excessivo,Parque Urbano,-23.36778838104301,-46.815393046939,Noite,Baixa,Cancelada,Quo debitis assumenda ex quaerat corrupti.,1
+8e1eede5-87b5-4268-84cf-6bd85b49f342,2025-05-31 19:07:51,Vandalismo,Bairro Residencial A,-23.55955384618755,-46.83458492317021,Noite,Alta,Cancelada,Rerum quos esse.,1
+0c57dc6a-4a98-47d2-9514-9b15379991c3,2024-12-07 08:36:16,Pichação,Estação de Metrô,-23.59097629835369,-46.393228860120765,Tarde,Crítica,Resolvida,Quasi nisi accusamus molestias distinctio cum.,0
+313f24d3-f52b-480a-beb8-f7edffce21b7,2025-06-04 10:22:58,Pichação,Parque Urbano,-23.44435777455079,-46.19516143281501,Noite,Alta,Em Análise,Aperiam ab praesentium corrupti optio dignissimos.,1
+34826391-18ab-49e5-9919-0559c178e649,2024-12-29 12:28:51,Lixo Acumulado,Parque Urbano,-23.429956346128705,-46.09098700705801,Tarde,Média,Resolvida,Fugit impedit perspiciatis aliquam alias cum.,1
+79d3c865-a8bf-4141-84fa-db21cd01bf14,2025-05-10 20:03:11,Vandalismo,Bairro Residencial A,-23.18004008199403,-46.88945511986902,Madrugada,Baixa,Reportada,Consectetur laudantium libero asperiores.,0
+bd097e6d-a799-4b68-b034-4b4174db66ac,2024-10-06 17:38:19,Lixo Acumulado,Praça Central,-23.971987869584133,-46.09824587887325,Madrugada,Baixa,Resolvida,Quae voluptas cupiditate eligendi beatae.,0
+e95093b7-35fe-49b2-8577-cf77b3d2d249,2025-02-16 10:19:00,Vandalismo,Praça Central,-23.21483007250942,-46.58375397901089,Manhã,Alta,Resolvida,Quod non aliquid.,0
+cd0a49e3-267e-4ae6-a7bd-467230887de1,2025-02-22 02:32:27,Barulho Excessivo,Bairro Residencial A,-23.585963210118802,-46.063582797527054,Tarde,Baixa,Em Análise,Quam aliquam adipisci quo explicabo.,1
+9a24dede-8f34-4a6b-936a-67aacd95784e,2024-10-20 14:26:10,Barulho Excessivo,Estação de Metrô,-23.440362356826817,-46.456512916547865,Madrugada,Crítica,Cancelada,Repudiandae laboriosam odio fugiat debitis labore.,0
+a70dce2c-802c-4a30-9a61-6a33bbe05113,2024-11-11 06:35:38,Barulho Excessivo,Bairro Residencial A,-23.033631484403575,-46.12355717473087,Madrugada,Crítica,Cancelada,Incidunt explicabo sed quos.,1
+d3302a9c-67fa-4d5d-baaa-b7ebe1fbbfe6,2025-03-15 07:33:55,Outros,Área Comercial,-23.08525603615124,-46.51910709749885,Tarde,Crítica,Resolvida,Optio repellendus cumque esse pariatur totam.,0
+4e4b0e28-44a6-44a4-bdaf-29f1710d0a01,2025-03-24 11:12:25,Outros,Bairro Residencial A,-23.208410760942165,-46.49420104860791,Tarde,Média,Reportada,Occaecati nihil architecto doloribus.,0
+d166158e-07e8-4e70-a1ce-f5c522570409,2024-09-15 03:55:05,Outros,Área Comercial,-23.553491410522184,-46.82657790206162,Manhã,Baixa,Resolvida,Tempora adipisci praesentium recusandae temporibus quaerat tempore eaque.,0
+bc7bed8f-1f0c-4354-8fe0-081d10423b3d,2024-11-25 23:30:53,Lixo Acumulado,Bairro Residencial A,-23.034313657843768,-46.42039188543542,Madrugada,Média,Cancelada,Corrupti alias vel quaerat assumenda iste dolorum.,1
+2337384a-3884-48e6-93e1-de2514d29fab,2025-03-20 22:49:56,Outros,Estação de Metrô,-23.184376591740744,-46.66497163854268,Manhã,Baixa,Em Análise,Quia consequuntur neque voluptatum natus sapiente.,0
+a3dc7445-7523-4179-a0b5-47d79f275e8e,2025-03-31 13:07:07,Pichação,Bairro Residencial B,-23.674200165920436,-46.7875192467708,Madrugada,Média,Resolvida,Voluptatem itaque corrupti ut illum.,1
+c8eb9b1a-60e0-4a97-a3b9-f9e6f9bc4a8e,2024-12-22 07:20:46,Aglomeração Suspeita,Bairro Residencial B,-23.883721226817368,-46.10778698795586,Noite,Alta,Cancelada,Accusantium blanditiis facere reiciendis sequi libero explicabo.,1
+64a35650-9b6a-46f3-ad0b-b92e96044ecf,2024-12-08 21:22:59,Outros,Bairro Residencial A,-23.47916317472076,-46.16874549318871,Noite,Média,Cancelada,Rem ut fuga et molestiae eum.,0
+5043eee1-5f36-4941-b731-2e34ab340435,2025-05-12 20:26:33,Outros,Bairro Residencial A,-23.562838482481848,-46.34618940314763,Madrugada,Baixa,Reportada,Inventore vel vero et cum nisi quisquam.,0
+40fa5007-a5fc-4b24-8e90-eacd3b5c59de,2024-08-18 01:32:25,Pichação,Estação de Metrô,-23.01076614701376,-46.95922306967457,Tarde,Média,Em Análise,Id facilis architecto.,1
+6b900ee2-3c6a-488c-8816-f02dd266ff25,2024-12-28 06:34:33,Barulho Excessivo,Estação de Metrô,-23.65462382789485,-46.79631143028734,Tarde,Crítica,Resolvida,Recusandae explicabo a.,1
+ad29ef66-b6a8-4c0e-a44b-a5c30e46adf8,2024-08-20 19:25:36,Barulho Excessivo,Parque Urbano,-23.84875153935946,-46.32161793189835,Madrugada,Alta,Reportada,Culpa magni ad officia optio odio reiciendis.,0
+c69db68a-3dc3-45c8-a23f-4afd21f120c8,2024-06-25 03:06:19,Lixo Acumulado,Bairro Residencial B,-23.687889474662654,-46.590946750847216,Noite,Baixa,Reportada,Sapiente nihil vel odit rerum.,0
+70a4c26e-2bc1-4565-b84e-d4fb99c7f5f0,2025-05-04 11:40:24,Barulho Excessivo,Parque Urbano,-23.155685907079988,-46.39357138794015,Manhã,Crítica,Reportada,Nihil sapiente minus voluptatum.,0
+6dee0719-7ef3-4607-b5f0-5199e6e7be9b,2024-10-28 18:48:56,Outros,Parque Urbano,-23.40341727705405,-46.96065135309904,Madrugada,Alta,Resolvida,Modi enim iusto.,0
+a327d3b0-92c4-4b90-a60f-8e660af33ac3,2025-02-17 07:52:10,Pichação,Parque Urbano,-23.470708389569428,-46.92899096145442,Noite,Média,Em Análise,Nostrum similique atque vero.,1
+9f57c244-d375-42f3-b48b-23e8f58e9882,2025-06-09 11:40:01,Vandalismo,Parque Urbano,-23.631445376545916,-46.58612483314731,Manhã,Alta,Cancelada,Placeat voluptatum architecto magni.,1
+77039b7b-10a0-4e1d-b7cc-932d6a21fa93,2025-04-30 10:39:04,Outros,Parque Urbano,-23.45439304090447,-46.73359889409108,Madrugada,Alta,Cancelada,Inventore aut est magni architecto maxime.,0
+4cc7a6ba-b431-43fa-a960-12783d9044a3,2024-07-22 05:11:30,Aglomeração Suspeita,Bairro Residencial B,-23.59168032400773,-46.693837565212746,Tarde,Crítica,Reportada,Consequuntur porro voluptas nesciunt tempora sit.,0
+f0c24dc0-3f27-4964-8ed5-1ad38c7fac66,2025-04-10 12:54:33,Aglomeração Suspeita,Estação de Metrô,-23.070423779935876,-46.05142068306239,Madrugada,Crítica,Reportada,Velit ex repellat magni laborum.,0
+7b309c3d-2b59-404d-ba3c-de6ed8b13b8c,2025-01-20 22:41:02,Barulho Excessivo,Bairro Residencial B,-23.71756694881622,-46.42051164016296,Noite,Crítica,Cancelada,Rerum praesentium ut ullam a.,0
+c4ab3a1e-609f-40a0-aad9-43c2f931304f,2024-06-21 07:48:35,Lixo Acumulado,Bairro Residencial A,-23.489570434709712,-46.069591985067326,Manhã,Média,Cancelada,Ex maiores harum error placeat accusantium et.,0
+824ec9c1-6900-4baf-b6ce-ed6a7c7f19c0,2024-12-05 18:19:03,Barulho Excessivo,Parque Urbano,-23.93456091284627,-46.97643749207643,Noite,Média,Em Análise,Sequi accusamus nihil quidem fugit esse repudiandae nisi.,1
+532305be-7eed-49b4-a9be-ccd9b6126343,2025-05-26 00:28:08,Barulho Excessivo,Área Comercial,-23.38839561163263,-46.624121159311365,Manhã,Alta,Em Análise,Tenetur rerum eos earum rem.,1
+6f547972-e992-43f9-8225-13f2fe0328d9,2025-05-17 08:14:17,Aglomeração Suspeita,Área Comercial,-23.581571194422363,-46.31147719762491,Tarde,Média,Reportada,Distinctio et illo ut error.,0
+0d0a798e-9246-4939-b53b-9f0cc1ce9167,2025-01-05 01:13:45,Vandalismo,Estação de Metrô,-23.21411011515818,-46.79187455510919,Manhã,Média,Resolvida,Similique distinctio est soluta cumque itaque.,0
+670d5d42-5875-43f6-a2b4-2f4b708b583e,2024-07-19 07:32:30,Outros,Bairro Residencial B,-23.374315774753764,-46.806199375910275,Noite,Alta,Resolvida,Eum quos tenetur.,0
+a4d8a2b6-6c45-490f-a45e-5c375f737c82,2025-02-04 15:44:17,Barulho Excessivo,Bairro Residencial A,-23.23555836652089,-46.3366361350785,Tarde,Crítica,Cancelada,Sunt sequi laboriosam consequatur sunt officia.,0
+348f2ba6-eab6-4056-9cb0-b08b71169340,2024-09-15 15:37:53,Vandalismo,Área Comercial,-23.65392445988476,-46.35706384009407,Tarde,Baixa,Resolvida,Illo provident illum ab.,0
+c36743f0-358a-4dae-8650-1c5e50254041,2025-03-01 07:42:47,Lixo Acumulado,Bairro Residencial B,-23.78618828092766,-46.090531306379916,Madrugada,Média,Resolvida,Nobis alias facere nesciunt perspiciatis quia.,0
+13215e0f-5edc-4e64-8919-e252e21b2d40,2024-08-11 12:52:39,Outros,Parque Urbano,-23.839660631460358,-46.2318406165834,Tarde,Baixa,Em Análise,Recusandae id beatae.,0
+1596c9f3-690b-4ed3-8eb0-cff826bac288,2024-07-24 15:40:51,Barulho Excessivo,Bairro Residencial B,-23.616632784644757,-46.54881129896168,Manhã,Média,Cancelada,Iure unde architecto nemo nihil.,0
+fd581f71-af47-469c-a809-8e86693d9bbd,2025-04-07 22:41:22,Vandalismo,Bairro Residencial A,-23.669374753500605,-46.2867621614085,Manhã,Alta,Reportada,Enim saepe veniam distinctio.,0
+69d9f302-d610-4652-987f-9c38829ddee5,2025-05-25 06:13:19,Aglomeração Suspeita,Parque Urbano,-23.53835181407893,-46.09093710334735,Noite,Média,Resolvida,Dolore quo asperiores sed minus labore.,0
+a68837bd-ddfc-4b60-9d46-f2557ea597fb,2024-12-19 00:04:25,Outros,Parque Urbano,-23.955832190499827,-46.053391820190264,Noite,Baixa,Reportada,Dolorum beatae amet atque.,1
+5198d069-4f38-42a4-bccb-ddfc15a3ff2b,2025-04-20 03:14:21,Lixo Acumulado,Bairro Residencial A,-23.049650419735524,-46.917616053389565,Manhã,Média,Cancelada,Temporibus eius id ipsam commodi nesciunt illum odio.,0
+dcb3f33a-231c-43f2-9cdb-55ad114f70ce,2024-08-21 01:53:36,Aglomeração Suspeita,Parque Urbano,-23.150998089181982,-46.69947511280949,Madrugada,Alta,Resolvida,Error similique est ut.,1
+bea6f33e-3ba1-4fa1-8c35-80fdb11b7301,2025-06-09 06:06:54,Aglomeração Suspeita,Praça Central,-23.344916070656367,-46.457613731027585,Tarde,Crítica,Em Análise,Eaque repudiandae consequuntur enim doloremque tempore.,0
+3185e37b-ce01-4a0d-9820-7ec339ae561d,2024-12-19 00:26:53,Outros,Bairro Residencial A,-23.039514664398922,-46.56806176923277,Manhã,Crítica,Resolvida,Perferendis cupiditate amet facere.,0
+c981ff1c-1fc3-4dd6-814b-6ec817396948,2024-12-08 01:10:08,Lixo Acumulado,Bairro Residencial A,-23.174685794022952,-46.08621961160749,Tarde,Baixa,Reportada,Placeat libero repellendus dolores eius ab ipsum rerum.,0
+fbaa24e8-3d71-44ba-876c-59ce9f7c6818,2024-10-30 12:12:12,Lixo Acumulado,Estação de Metrô,-23.279594321063556,-46.07167039577375,Manhã,Baixa,Em Análise,Repudiandae quisquam voluptates.,0
+bf17aea0-d631-41d0-a16b-2779e2d81a2b,2025-04-21 18:17:44,Aglomeração Suspeita,Parque Urbano,-23.78083707292055,-46.355379847017765,Manhã,Média,Cancelada,A tempora labore.,0
+f1f500aa-dc22-408b-8dd9-c9774fa0df35,2024-12-08 10:39:34,Vandalismo,Área Comercial,-23.94823093100681,-46.132921395548216,Manhã,Baixa,Reportada,Cupiditate ut aut beatae deleniti sint.,0
+d47e618c-93d2-4f12-8481-ed38bc8bc775,2024-11-14 18:22:14,Pichação,Bairro Residencial A,-23.111024685917364,-46.08492203392223,Noite,Crítica,Em Análise,Eum accusamus quidem fugiat.,0
+6df06a99-8dd7-420f-aafe-e70e51cd9640,2025-01-18 06:20:45,Outros,Bairro Residencial B,-23.107145034777908,-46.47109420065982,Noite,Crítica,Resolvida,Veritatis libero ea dolores error.,1
+0f20c04b-c5ff-4607-acbf-dcba524c774b,2024-08-12 04:10:44,Lixo Acumulado,Bairro Residencial B,-23.5389859680805,-46.893243324422755,Madrugada,Média,Reportada,Nam inventore perferendis nesciunt.,0
+073c8e42-aec0-4375-89aa-731107c2a2f3,2024-08-11 02:58:29,Lixo Acumulado,Bairro Residencial B,-23.746946079924875,-46.96905484439358,Tarde,Crítica,Resolvida,Eos dolor deserunt et quibusdam.,0
+8b4f75cc-deb1-4447-9931-cb4e1ee7d743,2025-02-18 03:44:51,Vandalismo,Área Comercial,-23.41635708568595,-46.66770331643629,Manhã,Alta,Reportada,Quidem dolorum laboriosam perspiciatis labore ratione.,0
+5eb85f7d-f0f5-4574-a0db-819c33f79957,2024-10-29 13:38:34,Lixo Acumulado,Bairro Residencial B,-23.78019808945503,-46.48393317586714,Tarde,Média,Resolvida,Deleniti odit in dicta eligendi.,0
+d67049c0-91c6-4232-b8d8-45e637ab8848,2025-06-16 07:24:49,Outros,Estação de Metrô,-23.12137016311712,-46.92555398907236,Noite,Alta,Em Análise,Quas et corrupti suscipit autem in explicabo.,1
+636175f2-6655-401f-82e0-37875118e37d,2024-08-21 16:17:57,Pichação,Estação de Metrô,-23.31204323388832,-46.53007917089774,Madrugada,Média,Resolvida,Placeat quidem ut nihil velit recusandae amet.,1
+90f03b3b-98be-4190-bc37-b4920cd9f0c5,2024-12-02 08:35:19,Vandalismo,Bairro Residencial A,-23.772219753475376,-46.21815837043632,Madrugada,Alta,Cancelada,Numquam fugiat eligendi sequi facere perspiciatis placeat hic.,1
+9ad0e00e-6526-4713-b4f5-1d97ff3c1296,2024-12-27 11:33:48,Pichação,Praça Central,-23.10149272858745,-46.681401847462226,Noite,Alta,Cancelada,Deserunt et tempore saepe soluta.,1
+b774f6e9-7bd2-44af-96ef-12decf734e37,2025-03-30 07:03:36,Pichação,Praça Central,-23.24077107764219,-46.06794570178993,Madrugada,Alta,Cancelada,Impedit rem culpa quibusdam.,1
+118f0fc2-a56d-4024-9877-f52052c83b59,2025-01-13 04:58:18,Lixo Acumulado,Estação de Metrô,-23.415997457373255,-46.153392995116405,Noite,Média,Resolvida,Unde cumque suscipit nihil.,0
+160100a8-16c1-4055-bd86-6cd994164306,2024-10-27 21:56:18,Barulho Excessivo,Área Comercial,-23.28419297875558,-46.74990268786648,Noite,Baixa,Reportada,Facilis et nihil nostrum velit.,0
+1150786d-f485-4ffd-9333-494137063689,2025-03-25 07:08:32,Lixo Acumulado,Estação de Metrô,-23.071740990578217,-46.379258215285155,Madrugada,Média,Em Análise,Rem doloremque omnis laudantium voluptatum modi minima.,1
+33190771-58b1-4fce-89c0-c60dbd34dc36,2024-12-03 09:33:54,Outros,Parque Urbano,-23.35331309822618,-46.29134064636297,Tarde,Crítica,Reportada,Et vitae inventore quod repudiandae.,0
+eee15a2f-f817-4773-9641-40e69010c399,2024-06-30 13:31:18,Barulho Excessivo,Praça Central,-23.61377366905557,-46.88544755929561,Madrugada,Crítica,Cancelada,Occaecati velit sequi inventore dignissimos sequi.,1
+70fdbd51-4350-4aa5-b0db-193364a67f1f,2024-08-16 01:17:04,Lixo Acumulado,Estação de Metrô,-23.533827352955292,-46.57539652477379,Tarde,Crítica,Resolvida,Voluptate itaque accusantium laborum eveniet.,0
+c8c2e6bd-76d4-4db4-8443-0e27f6a33747,2024-10-27 16:19:40,Pichação,Área Comercial,-23.224165064141328,-46.742400728807006,Noite,Baixa,Resolvida,Eum voluptas voluptas magni minima.,0
+1214510b-710a-45dc-9ffd-a8f04d1e4c70,2025-03-15 16:39:21,Pichação,Estação de Metrô,-23.14386734044399,-46.481297334199965,Noite,Alta,Em Análise,Sapiente sapiente nulla quo atque doloribus repellat.,0
+6fb17854-9dc8-473e-8a51-3901c856add4,2024-12-02 17:00:04,Vandalismo,Praça Central,-23.15996060951269,-46.609665882774614,Tarde,Média,Reportada,Laudantium aut vel expedita.,0
+b8057e42-4da4-4b68-8408-41244319b50b,2025-06-01 14:38:33,Vandalismo,Praça Central,-23.173207103491873,-46.14261432143521,Tarde,Baixa,Resolvida,Natus recusandae commodi voluptas consequatur labore.,1
+e28910ec-3e83-4f6d-92aa-429f4d99d464,2024-09-26 08:00:55,Vandalismo,Estação de Metrô,-23.595700916856593,-46.521571202926545,Noite,Crítica,Em Análise,Exercitationem doloribus rerum aperiam et facilis et.,1
+8c4182f2-55f0-454d-8b1a-d4a3145109e4,2024-06-22 22:59:54,Outros,Área Comercial,-23.32080999426773,-46.93392353053824,Madrugada,Baixa,Reportada,Repellat expedita earum.,0
+600ee32f-07d4-49b3-9828-21e1a761ba1b,2024-09-18 04:03:49,Vandalismo,Estação de Metrô,-23.057090820550815,-46.347638153341265,Manhã,Baixa,Em Análise,Velit quas nesciunt distinctio.,1
+1a9253c7-029d-4071-984e-7337cc74dbf9,2024-09-13 17:01:57,Vandalismo,Parque Urbano,-23.603760909307603,-46.577701210456205,Tarde,Média,Em Análise,Sint nihil ut animi voluptatibus ipsa sint.,0
+81e2b0d1-f705-4786-ae64-5bccf5aaa32e,2024-08-13 23:44:45,Aglomeração Suspeita,Área Comercial,-23.08820515394123,-46.48192791305637,Noite,Crítica,Em Análise,Illo minima corporis veritatis.,0
+4b6368d6-6f49-4954-b1dc-086d6c154b01,2024-11-06 21:10:41,Vandalismo,Bairro Residencial B,-23.084809650234735,-46.5642887352314,Noite,Baixa,Cancelada,Iusto atque corrupti eius.,1
+a3d74510-9e3b-41b7-9591-89f447adba60,2024-09-08 14:47:03,Aglomeração Suspeita,Estação de Metrô,-23.09780970475499,-46.04397930862189,Tarde,Crítica,Em Análise,Rerum laudantium praesentium provident qui.,1
+5f27df1c-bdc4-424c-9208-819aedcc02b7,2024-09-13 03:13:01,Lixo Acumulado,Praça Central,-23.77833520399556,-46.16276234525289,Madrugada,Alta,Em Análise,Tempora ipsum a quos.,1
+7585f5e1-122b-441d-b83a-3df547db9f12,2025-06-15 15:09:58,Pichação,Praça Central,-23.21174749761581,-46.9683036712061,Madrugada,Crítica,Cancelada,Commodi quidem voluptatem beatae alias cumque.,1
+d2bfa0d8-9bcb-4764-8716-b8f3ae68bb24,2024-10-12 10:02:07,Vandalismo,Praça Central,-23.865768148520942,-46.590743613126456,Tarde,Baixa,Resolvida,Illo quis ducimus in necessitatibus sunt quo.,0
+22144afe-81fd-432a-a463-2e05d2e8f34a,2024-12-27 20:36:46,Aglomeração Suspeita,Bairro Residencial B,-23.713553128231723,-46.94122105656292,Madrugada,Média,Em Análise,Natus eaque rerum ad sint.,0
+adee9ba8-0618-4d42-9a18-decf5f974978,2025-01-08 02:39:57,Lixo Acumulado,Área Comercial,-23.84064319586367,-46.525006064476045,Noite,Crítica,Em Análise,Perspiciatis expedita officiis at aspernatur quas.,0
+5cc84fea-5e96-4077-8785-24f41d86855a,2025-01-26 03:48:36,Vandalismo,Área Comercial,-23.66890238083673,-46.85235707987101,Tarde,Alta,Resolvida,Quidem nesciunt ratione sint laboriosam voluptates expedita.,0
+19be5938-fcaf-4ba4-bfe0-111e656818de,2024-09-28 03:38:24,Pichação,Estação de Metrô,-23.356800152244972,-46.681511581628094,Madrugada,Crítica,Reportada,Veniam sapiente quae totam.,0
+75ea0fac-50c2-407b-9291-2d68f03c411b,2025-02-09 00:31:35,Vandalismo,Parque Urbano,-23.959222871292457,-46.41101205822847,Noite,Alta,Cancelada,Atque in assumenda saepe repudiandae eius.,0
+36f0de15-c92b-498b-acf9-52a1f05fe708,2024-09-28 12:21:38,Pichação,Praça Central,-23.088889714848747,-46.44600657156156,Tarde,Baixa,Resolvida,Velit veritatis quia quam porro perspiciatis maxime quidem.,1
+c473f8b0-851b-4494-a20d-597c37f187fd,2024-06-25 02:11:46,Barulho Excessivo,Bairro Residencial A,-23.189221743928925,-46.61336841170438,Tarde,Média,Em Análise,Eum velit commodi perspiciatis magni.,1
+3516bf19-46c7-457c-b76e-28624681243c,2024-10-05 20:41:02,Barulho Excessivo,Área Comercial,-23.596239067305742,-46.7496254498424,Madrugada,Crítica,Cancelada,Esse nemo dolor velit.,0
+57c9474c-4f18-44ea-86cf-ea010ac527ea,2025-03-09 06:31:58,Lixo Acumulado,Estação de Metrô,-23.802091486698647,-46.30780358979108,Manhã,Alta,Em Análise,Numquam aperiam ducimus adipisci.,0
+510a206f-70bf-4fa6-aab5-a6eebc39292a,2025-02-09 07:55:15,Barulho Excessivo,Bairro Residencial A,-23.47619338928485,-46.34385057276659,Madrugada,Alta,Resolvida,Facilis numquam mollitia inventore.,0
+2edb0f0b-0e83-446c-bbc3-c9cac3515eed,2025-02-28 14:20:35,Barulho Excessivo,Parque Urbano,-23.25062939742495,-46.41226018459064,Manhã,Baixa,Resolvida,Officiis magni repellendus odit optio ea vero.,0
+a6c47e05-0ae2-4f58-bce3-803fac509238,2025-01-23 16:45:46,Lixo Acumulado,Praça Central,-23.460365390560607,-46.35988709210882,Noite,Crítica,Reportada,Impedit autem suscipit.,0
+343da092-3d2b-460f-b64d-3ac034a6e9d7,2025-05-10 08:46:40,Barulho Excessivo,Praça Central,-23.407892948747886,-46.0989757997548,Manhã,Baixa,Cancelada,Perferendis tenetur itaque.,0
+157d0ae4-531c-463f-a633-4261a6703a07,2024-11-01 22:19:32,Vandalismo,Parque Urbano,-23.12440334184886,-46.93029006800531,Manhã,Baixa,Em Análise,Quas ipsum unde quia.,0
+0364d3a0-594d-4b64-9cba-3ec136576c50,2024-10-28 00:43:47,Aglomeração Suspeita,Bairro Residencial A,-23.29083273944501,-46.33884105443645,Manhã,Média,Reportada,Omnis doloremque laboriosam molestiae dolorum fugit minima.,1
+c232dec8-2f48-4ae7-8f43-87f1a3a2d1a8,2025-06-10 09:56:20,Vandalismo,Praça Central,-23.655669722603434,-46.05674663189515,Tarde,Média,Em Análise,Incidunt placeat quos.,0
+7d3221e2-de89-458a-bc33-7294dcc152da,2024-07-01 02:43:44,Lixo Acumulado,Bairro Residencial A,-23.34597108219076,-46.64244132842242,Tarde,Baixa,Reportada,Incidunt nam ab exercitationem nihil sint officia.,0
+72ee4d68-c4f2-4228-b0d0-f9028fa81c2b,2025-03-16 21:41:43,Outros,Bairro Residencial B,-23.070055006878427,-46.077380437679906,Manhã,Alta,Resolvida,Consequuntur facilis odio voluptas soluta laboriosam.,1
+3fe2eaf9-3858-4cdd-b6d2-47f938243a24,2024-11-06 03:45:22,Vandalismo,Praça Central,-23.953025135582532,-46.94372495986109,Manhã,Crítica,Resolvida,Rerum natus nisi.,1
+0deaf2aa-8057-43bf-bc12-1e1738001337,2024-07-17 18:02:30,Outros,Estação de Metrô,-23.330316881670857,-46.704266089539665,Madrugada,Crítica,Em Análise,Ipsam sapiente accusantium soluta.,0
+571da75a-2264-4185-83b4-ec7de1a2553b,2024-08-16 06:41:57,Aglomeração Suspeita,Bairro Residencial A,-23.260798228983496,-46.63568071496631,Manhã,Média,Em Análise,Suscipit in saepe id ullam deleniti.,1
+f113299a-e9c2-461e-9304-cd11e10fc7d4,2024-07-29 12:32:40,Pichação,Bairro Residencial A,-23.631285434593586,-46.27447967643538,Manhã,Média,Cancelada,Distinctio laboriosam placeat veritatis molestias libero.,0
+17c0f37f-ebe4-4617-a941-ef793c28a344,2025-06-16 07:08:24,Pichação,Área Comercial,-23.483975535838113,-46.32782349917509,Manhã,Média,Reportada,Rerum ipsa corporis quidem.,1
+0a2f7f58-db6d-42bf-ade9-52461a6df51c,2025-01-23 09:09:34,Barulho Excessivo,Área Comercial,-23.966172478968403,-46.8874980861532,Madrugada,Crítica,Resolvida,Asperiores nihil pariatur sunt ex repellat placeat ipsam.,1
+b5707a63-918b-45c6-aeee-0c05c280c63a,2025-01-10 23:15:45,Pichação,Bairro Residencial B,-23.073651133446063,-46.9470488694601,Noite,Crítica,Resolvida,Natus minus aperiam.,0
+2d3cf5b2-9a52-42f8-8d3a-d3b530f1bb40,2025-06-13 07:10:09,Aglomeração Suspeita,Praça Central,-23.398184881486674,-46.598568998432334,Manhã,Média,Resolvida,Iusto ipsum rerum officia vel consequatur.,0
+3f5fa85c-8df4-401a-84da-fd06c626193b,2025-02-02 01:02:50,Barulho Excessivo,Área Comercial,-23.919144187471815,-46.34908041724097,Tarde,Média,Cancelada,Provident magni repellat et.,1
+b297c618-3d52-4000-bac2-fe3c88a3f9d9,2025-06-12 12:21:11,Lixo Acumulado,Área Comercial,-23.818863886150393,-46.66433839010236,Tarde,Alta,Em Análise,Neque fugit sit minus sunt temporibus deleniti.,0
+9e23b1f9-4816-473a-b635-dbba8a25eada,2024-10-04 20:34:58,Outros,Estação de Metrô,-23.746228536610648,-46.5390216471486,Manhã,Alta,Resolvida,Tempore sed maiores ipsum fuga.,1
+c059c9c8-1524-46e2-8811-fd75cd0824c9,2024-12-05 01:19:01,Lixo Acumulado,Parque Urbano,-23.24347114860609,-46.40538893065194,Noite,Crítica,Em Análise,Hic iusto veritatis.,0
+617ec825-ef82-41c7-a0dd-fb668c5523b6,2025-06-11 21:29:16,Barulho Excessivo,Bairro Residencial A,-23.544206921607625,-46.28593205282568,Madrugada,Média,Reportada,Repudiandae ullam magnam natus quo.,0
+94b484b8-a909-42fa-8637-a9add5ffc528,2025-01-17 13:41:02,Pichação,Praça Central,-23.871312326828384,-46.45973934712228,Manhã,Crítica,Em Análise,Maiores iste explicabo nulla deserunt saepe.,1
+95e2b789-0c43-4efb-9362-95683b0f4741,2024-12-26 07:25:17,Aglomeração Suspeita,Estação de Metrô,-23.298327612422682,-46.25124008811069,Manhã,Média,Resolvida,Impedit aspernatur expedita hic corporis modi.,0
+949178c0-0d9d-4270-9cdb-78c2be42d644,2024-09-04 04:30:07,Pichação,Estação de Metrô,-23.66416899118592,-46.28799923308352,Madrugada,Alta,Em Análise,Commodi accusamus delectus odio.,1
+de3dbcb9-9a92-46cf-9d09-0a595718f8ac,2024-09-03 14:36:58,Aglomeração Suspeita,Bairro Residencial A,-23.913934506685628,-46.13858028981776,Noite,Média,Reportada,Tempore ipsam voluptatum molestiae.,0
+47e31b70-4c22-4cb0-b940-b6356f3b792c,2024-10-09 07:28:12,Vandalismo,Praça Central,-23.90725729317143,-46.22401051756632,Manhã,Alta,Resolvida,Dicta natus provident itaque modi aliquid.,0
+8bf97a10-e868-4173-8ed6-ca0ed49e7283,2024-08-05 02:58:54,Lixo Acumulado,Estação de Metrô,-23.835459035389317,-46.375555811731154,Madrugada,Baixa,Em Análise,Adipisci impedit ipsa voluptas ducimus.,0
+42bb4be4-c984-4768-aa5e-b185182c04a5,2025-04-05 13:00:47,Pichação,Praça Central,-23.640203145838193,-46.659612134967496,Noite,Alta,Em Análise,Officia perspiciatis ipsum deserunt hic.,0
+46005f6d-588d-4c61-931a-198b6d5f98b4,2025-02-17 05:47:07,Barulho Excessivo,Praça Central,-23.892530080221896,-46.67780932003676,Madrugada,Alta,Cancelada,Commodi cum et vitae.,0
+277008be-f3ef-4df5-bd8d-68dba80dbb43,2024-07-15 00:48:42,Pichação,Parque Urbano,-23.203604785421284,-46.07510951949742,Tarde,Crítica,Cancelada,Numquam eos modi fugiat.,0
+ba0c3724-574d-481d-8ea7-aabcb2889aea,2025-04-13 05:41:47,Barulho Excessivo,Área Comercial,-23.337186087268343,-46.94297327720948,Manhã,Crítica,Resolvida,Eligendi quod facere totam a iusto.,0
+f3fadd1a-4f9d-4b33-8883-3bd1c1beebbb,2025-05-05 13:03:48,Vandalismo,Parque Urbano,-23.441025764451386,-46.38672286981644,Noite,Baixa,Em Análise,Deserunt asperiores molestiae magni.,0
+ac460059-bad3-47dd-8433-64ed2f1a5ac2,2024-12-07 19:49:32,Barulho Excessivo,Praça Central,-23.364035784750822,-46.22160140091359,Tarde,Baixa,Em Análise,Quod inventore voluptatum esse officiis.,0
+39b02897-0ce2-44c4-a2a3-019c31267cc9,2024-10-04 00:06:42,Lixo Acumulado,Estação de Metrô,-23.323218843964018,-46.73505405172722,Madrugada,Crítica,Reportada,Voluptate facilis id enim ipsum velit labore alias.,0
+323d3d45-cc31-4cc1-801b-0fa24b062b76,2025-02-19 20:50:54,Vandalismo,Área Comercial,-23.901501200334437,-46.086593799544914,Noite,Alta,Reportada,Voluptatibus quam repudiandae.,0
+d016f38b-765e-4287-82fd-62e093ce28ed,2025-05-16 00:49:00,Pichação,Área Comercial,-23.228941906347416,-46.89947262714535,Madrugada,Baixa,Reportada,Ipsum autem enim aspernatur nisi in.,0
+6ebc74b4-1749-41e4-a9db-2844ac8574c5,2024-11-15 01:45:55,Vandalismo,Estação de Metrô,-23.2135137315638,-46.26502810628426,Manhã,Crítica,Em Análise,Aspernatur vero quidem quis beatae.,0
+79744e90-8c39-4ce4-9fd0-45617c547e5a,2024-08-17 22:26:10,Outros,Área Comercial,-23.540655951247157,-46.69199508472366,Madrugada,Baixa,Resolvida,Nisi voluptates debitis.,0
+9c41cd4c-4822-48fb-a825-ec851227c982,2024-07-25 00:23:58,Vandalismo,Bairro Residencial A,-23.032860918705985,-46.79087278414382,Noite,Média,Cancelada,Corrupti reprehenderit quis magnam.,0
+904f58b1-2a66-4b5e-bad2-2c1ea3a464bb,2024-11-03 06:55:12,Pichação,Parque Urbano,-23.852834664949615,-46.64945694793708,Manhã,Média,Reportada,Rem praesentium assumenda aliquid accusamus hic error quod.,0
+087cc73d-998c-4c2f-942e-e2d065acd20c,2025-01-20 01:43:20,Lixo Acumulado,Bairro Residencial B,-23.011758861247394,-46.53349826332676,Noite,Crítica,Cancelada,Deserunt fuga iusto officiis architecto corrupti eius corrupti.,0
+5a4b3a64-a380-44a4-8693-c582a8691be8,2025-03-10 18:01:33,Barulho Excessivo,Bairro Residencial B,-23.729355700168885,-46.39794853737313,Tarde,Média,Em Análise,Vero occaecati voluptas omnis quisquam nobis quo aperiam.,1
+c7df90c5-ca0d-4865-8145-e2edd4cbd4af,2024-09-22 23:56:08,Barulho Excessivo,Área Comercial,-23.966929230768294,-46.35065631875036,Madrugada,Alta,Resolvida,Perferendis omnis dolorum labore tenetur occaecati corrupti.,0
+efa3ff89-902c-49ef-a528-01b272231da2,2024-09-29 15:03:44,Vandalismo,Praça Central,-23.260539200961933,-46.63409370211202,Noite,Alta,Reportada,Perspiciatis nostrum modi dolores consequatur.,0
+8d9fe2d5-8740-41c4-8a4b-f9cf763eb3c0,2024-08-20 07:45:05,Barulho Excessivo,Bairro Residencial A,-23.398758481052287,-46.812242526672776,Noite,Alta,Em Análise,Voluptate dolore explicabo deserunt.,0
+bcfbdea9-a905-43bb-bb57-a24429303e25,2025-06-13 18:16:40,Vandalismo,Área Comercial,-23.80850374989482,-46.755828567500075,Tarde,Alta,Reportada,Eos quis et libero consequuntur ipsam sapiente.,0
+e482658e-0ca0-4c10-ba36-7adb33e40c8b,2025-06-02 12:36:59,Pichação,Praça Central,-23.812040989928956,-46.90399734515201,Noite,Crítica,Resolvida,Ab vitae laboriosam vitae perferendis in deserunt.,0
+f208f49b-4edc-412e-8659-29319e92530f,2024-12-19 15:43:58,Barulho Excessivo,Área Comercial,-23.59338014694154,-46.353126866839645,Manhã,Média,Reportada,Reprehenderit unde omnis numquam autem est.,0
+ac625f1f-18e4-40c3-8fc1-7a6869b19d2a,2025-03-08 01:46:06,Barulho Excessivo,Estação de Metrô,-23.233162280766418,-46.38132770422918,Manhã,Alta,Resolvida,Laboriosam porro officiis quidem quod modi vero.,0
+e415dfb9-a100-499a-8cc7-1836d819c957,2024-09-22 00:00:05,Pichação,Bairro Residencial B,-23.532140765283145,-46.98451124250327,Tarde,Baixa,Em Análise,Officia eaque asperiores omnis.,1
+faf684aa-27ad-4abf-8507-7fad9664b0ac,2025-01-01 10:43:31,Aglomeração Suspeita,Bairro Residencial A,-23.755398649213138,-46.65572754292425,Madrugada,Alta,Em Análise,Voluptatem accusamus tempore harum aspernatur.,0
+762a7b24-0068-4048-8e49-df1f0eb2f889,2025-02-17 10:54:23,Outros,Bairro Residencial A,-23.4634291736697,-46.17886332851032,Manhã,Crítica,Cancelada,Est eius labore odio dignissimos tenetur commodi.,0
+41bab199-cbc0-44a7-85ce-47dc54dae987,2024-09-14 06:48:28,Pichação,Bairro Residencial B,-23.615641549259802,-46.75246355789319,Tarde,Baixa,Cancelada,Vel molestiae iste labore reiciendis fuga vel quod.,0
+7d8de4c1-b564-49a2-9cf4-86615f873fe6,2025-04-08 17:48:25,Lixo Acumulado,Área Comercial,-23.251245427011067,-46.296216438412905,Noite,Média,Resolvida,Animi est ducimus esse rem delectus dolorum nobis.,0
+bf20016f-5aee-4216-af54-4f19c3e2db30,2024-12-10 08:45:56,Outros,Praça Central,-23.757398448372808,-46.88932915104022,Tarde,Crítica,Em Análise,At magnam iusto quis occaecati tempore.,0
+4803877f-74f7-4de3-bf4f-393b5ce6d6d7,2025-05-21 02:16:45,Lixo Acumulado,Área Comercial,-23.2298487239191,-46.26001196075387,Manhã,Média,Em Análise,Odio beatae asperiores voluptatum.,0
+f1c2247d-fbf3-4aeb-acd8-016a96a572ff,2025-05-09 03:40:53,Lixo Acumulado,Bairro Residencial A,-23.821866614730435,-46.04562185457065,Manhã,Média,Em Análise,Voluptatum asperiores eligendi aliquid hic quos.,1
+f9d6f33a-d268-4921-aa57-ad3fd92b5e6b,2025-06-09 20:44:42,Outros,Bairro Residencial A,-23.972005976374835,-46.48047129019267,Madrugada,Baixa,Resolvida,Sunt cum consequatur voluptatibus quisquam ducimus eius aut.,0
+913719d0-9175-4f62-9fd6-d45330cc00c9,2025-04-12 10:48:18,Outros,Bairro Residencial B,-23.63881005573283,-46.47030760198201,Manhã,Média,Resolvida,Mollitia facere incidunt vel ipsam.,0
+ee977918-5f89-41b6-b5eb-bbebcfa2ebd1,2025-03-13 08:57:29,Vandalismo,Bairro Residencial B,-23.554710818697284,-46.9253683661596,Noite,Alta,Em Análise,Dolorem similique accusamus modi id quam dolorem.,1
+7f8d00ce-2805-4e2f-becb-e821a80557b1,2025-04-25 04:03:36,Aglomeração Suspeita,Estação de Metrô,-23.605347141107625,-46.0805646915351,Manhã,Baixa,Em Análise,Consectetur exercitationem est tenetur dolorem dolorem minus.,0
+e665cfe1-81ff-4995-a7af-90b6c6ed2a99,2025-06-15 08:34:52,Aglomeração Suspeita,Bairro Residencial B,-23.077750233249517,-46.59123995114268,Madrugada,Crítica,Reportada,Labore delectus accusantium soluta temporibus odit delectus.,0
+adbaa0e2-6cc0-4aa1-a57c-ca97b6202aee,2025-03-06 15:46:48,Vandalismo,Estação de Metrô,-23.24117955723617,-46.40644625562138,Noite,Crítica,Em Análise,Beatae delectus facilis ea.,0
+ef68cebd-e6e7-4530-8894-751d541731c0,2024-09-06 08:17:16,Vandalismo,Bairro Residencial B,-23.678146493784173,-46.250379072739435,Manhã,Crítica,Em Análise,Neque deleniti at blanditiis numquam explicabo dolores.,1
+c2f2e1c3-6d8e-4de3-a321-c411dfa9f54b,2024-07-31 20:31:13,Pichação,Bairro Residencial A,-23.25091600449101,-46.48385265780458,Madrugada,Baixa,Reportada,Eius neque voluptatem temporibus.,0
+3bea99b9-38f5-41b6-b773-fbd1080bccd3,2025-04-24 21:15:14,Barulho Excessivo,Bairro Residencial B,-23.039743486477747,-46.01208701084953,Manhã,Alta,Reportada,Repudiandae officiis veniam culpa suscipit possimus eos.,0
+7969d349-f548-4b05-a34e-11233fd57935,2024-09-14 20:49:05,Lixo Acumulado,Área Comercial,-23.070000093679525,-46.72585393973389,Tarde,Alta,Reportada,Tempora esse ullam nam quae corrupti similique.,0
+239bc3a4-f823-4bd0-919d-94f4f2b974e4,2025-01-27 09:24:18,Outros,Área Comercial,-23.013632110787444,-46.645306558241764,Tarde,Alta,Cancelada,Voluptatem adipisci possimus dicta ea quod.,0
+ad1d1df9-4bac-4827-9476-520782dd4c0e,2025-04-04 17:14:03,Aglomeração Suspeita,Estação de Metrô,-23.11223532401031,-46.90188355418527,Tarde,Crítica,Cancelada,Delectus perspiciatis at.,1
+47712120-0347-48e2-983a-8db86956dffa,2025-05-28 07:25:34,Barulho Excessivo,Estação de Metrô,-23.273704917382197,-46.06386385557289,Madrugada,Crítica,Resolvida,Molestias aliquid laborum exercitationem at.,0
+dc3cd374-21c1-4e81-baea-3ffceb470945,2024-08-01 14:09:32,Vandalismo,Bairro Residencial A,-23.64490478934076,-46.348418532223235,Manhã,Alta,Resolvida,Voluptas rem quam nobis ad libero.,0
+1d461fac-0bfd-4200-bd84-2cf8a34b7b45,2025-02-25 14:36:15,Aglomeração Suspeita,Bairro Residencial B,-23.208758846145958,-46.84604513945301,Manhã,Alta,Cancelada,Sit soluta animi laborum soluta doloribus.,0
+1a3743c9-d5a8-45ee-a3fd-b01d8e8b64dd,2025-01-20 17:03:21,Outros,Área Comercial,-23.233698344396743,-46.11517080924566,Noite,Crítica,Reportada,Similique nisi occaecati earum ab ad dolor.,0
+c943f958-a4e8-44ce-b93f-f5993ffd6a6e,2025-06-06 20:59:33,Vandalismo,Área Comercial,-23.68680817804053,-46.66863096417582,Manhã,Baixa,Em Análise,Harum at repellendus minus quam amet quos ea.,0
+0c10259d-7cdb-4491-9fe9-fb5d1467ebb5,2024-10-06 21:11:52,Lixo Acumulado,Bairro Residencial B,-23.489782726067688,-46.85139565665191,Tarde,Média,Em Análise,Nihil quidem eligendi.,0
+817c2c44-59ce-4ac2-89c3-8376b6788fd2,2025-05-24 06:05:05,Pichação,Bairro Residencial B,-23.956619154777126,-46.51970507377562,Tarde,Crítica,Cancelada,Iure officiis eveniet iure.,1
+c98a1a18-183b-4d68-bd70-6b5e71816925,2025-02-05 15:08:27,Vandalismo,Praça Central,-23.72864708857853,-46.73654303992251,Manhã,Crítica,Reportada,Voluptatem alias minus exercitationem veritatis.,0
+b7c73241-8f6c-46ae-814d-dc3b0379750e,2024-12-08 08:02:54,Lixo Acumulado,Parque Urbano,-23.679754968158026,-46.462525109658344,Madrugada,Baixa,Cancelada,Quo beatae perferendis.,0
+721e05f8-73b7-4c43-867b-d792f9965261,2024-12-02 11:22:03,Vandalismo,Parque Urbano,-23.28044094054057,-46.024207790579595,Manhã,Média,Cancelada,Saepe sequi illo natus impedit aspernatur.,0
+091bb7cc-baab-4855-96c8-ae7813bd98a8,2024-06-23 16:34:57,Lixo Acumulado,Bairro Residencial A,-23.549209328811266,-46.7408485601417,Noite,Alta,Cancelada,Reprehenderit temporibus ipsam explicabo et odit vel.,1
+04a7c5c0-364f-4e15-ba1c-e5c7f3371739,2024-07-02 19:52:22,Lixo Acumulado,Estação de Metrô,-23.867010555342976,-46.18468081094169,Manhã,Alta,Cancelada,Tempore sequi totam corporis eaque.,0
+b68aa068-ea8d-4d75-a9b0-a443b25b2dc4,2025-05-17 16:25:16,Vandalismo,Praça Central,-23.783585017505082,-46.32460706347522,Tarde,Crítica,Reportada,Voluptatum mollitia doloremque alias iste ullam.,0
+77c0f338-5724-49be-9e52-20b1fdd55f23,2025-06-01 22:00:25,Vandalismo,Bairro Residencial B,-23.332588208156643,-46.906897320575816,Tarde,Crítica,Cancelada,Possimus optio neque magnam veritatis eaque inventore.,0
+654b4ae2-1141-472c-b7ca-edc33f166ffb,2024-10-22 00:10:34,Vandalismo,Área Comercial,-23.020105439928944,-46.11187381980593,Madrugada,Alta,Cancelada,Ea exercitationem est fuga quaerat.,0
+b9a96534-db2b-457c-9639-bb2128348e7d,2025-05-20 04:36:13,Barulho Excessivo,Bairro Residencial B,-23.023862093385535,-46.269392237788566,Noite,Alta,Reportada,Tenetur deleniti quia reiciendis temporibus ab voluptates harum.,1
+632fd8bd-ce51-4d93-8cc9-2642c46884e1,2025-02-14 16:11:15,Barulho Excessivo,Parque Urbano,-23.5744883808329,-46.35271031336308,Noite,Baixa,Cancelada,In veniam amet suscipit velit.,0
+f0dd63ff-dcd7-4d5d-b9f2-ecf23fe82f04,2025-02-23 09:36:16,Aglomeração Suspeita,Bairro Residencial A,-23.36256976631742,-46.75061582646689,Noite,Alta,Em Análise,Totam rerum temporibus aut aperiam odio.,0
+35c4cb15-34a1-46ed-aebf-207b7a00deda,2025-02-01 02:31:09,Aglomeração Suspeita,Bairro Residencial B,-23.827926281905068,-46.39574693868557,Noite,Média,Reportada,Error quis officiis neque vero consectetur ipsam consequatur.,0
+c0fd8b8b-5701-4df2-aadc-e82cbcf49438,2025-06-05 02:43:24,Lixo Acumulado,Parque Urbano,-23.72212849788141,-46.45153168241571,Madrugada,Média,Cancelada,Facere nulla molestias iste eos.,0
+4747a770-087c-4cb9-9144-86743c7f71cb,2024-08-16 13:07:56,Outros,Bairro Residencial B,-23.408897766059717,-46.474576511893595,Tarde,Média,Reportada,Illo omnis voluptatibus quas occaecati nisi libero.,0
+88cf079e-5bb0-4f00-94bc-dae3e88c8b0c,2024-08-24 10:40:57,Aglomeração Suspeita,Bairro Residencial A,-23.704676486294783,-46.96979875170891,Noite,Alta,Cancelada,Architecto enim dolore dolorem non.,0
+61f7a94a-b030-4f6d-901d-240ad9f6b465,2024-10-01 01:02:21,Aglomeração Suspeita,Parque Urbano,-23.799285351934557,-46.61899337132618,Noite,Alta,Reportada,Maiores ab sapiente.,1
+00403f86-f133-45d5-a654-82d9384287ce,2025-03-27 17:49:59,Outros,Bairro Residencial B,-23.49231474961258,-46.538302585683795,Noite,Alta,Reportada,Debitis ipsum iste enim eaque expedita quos debitis.,0
+97800cb4-8295-473d-a816-670f7831f699,2025-05-22 08:12:19,Outros,Bairro Residencial A,-23.291630141078734,-46.55361901558063,Manhã,Média,Resolvida,Incidunt optio natus eligendi consequatur sapiente consequuntur voluptas.,0
+1948fa95-f89c-4c43-a7b8-ceabfdc3a5db,2024-12-06 10:26:48,Outros,Bairro Residencial B,-23.113032484448432,-46.45478378174641,Tarde,Baixa,Cancelada,Id maiores alias.,0
+dfcb2d16-6f37-4d56-a9a9-353993ed30cd,2024-07-31 18:17:44,Barulho Excessivo,Área Comercial,-23.385774298593546,-46.91371360852904,Manhã,Média,Em Análise,Neque consequuntur beatae quo.,0
+0bc7d849-1019-48c1-b7ed-1d12f31dcc47,2025-05-11 07:45:27,Vandalismo,Área Comercial,-23.86167308332249,-46.747439403885174,Tarde,Média,Em Análise,Eveniet libero facilis error.,0
+5c1cbb9c-bf1b-4d57-8c31-a1b83439b5b0,2025-06-01 15:59:28,Vandalismo,Bairro Residencial B,-23.659589011290745,-46.19967907241589,Tarde,Crítica,Reportada,Dolore quibusdam ea amet.,1
+4030c51d-4a5e-47b3-b2f8-f92b3bb06a43,2024-09-04 08:32:15,Lixo Acumulado,Parque Urbano,-23.250047255099634,-46.15211630121842,Noite,Baixa,Cancelada,Molestias veniam commodi consequuntur animi consequuntur.,0
+577d03bb-e507-4a4b-a166-bfc3591492cb,2025-04-03 01:44:13,Pichação,Estação de Metrô,-23.850123641801037,-46.608756740364306,Madrugada,Baixa,Em Análise,Ipsum eos praesentium iure a aperiam.,0
+0ad0d46f-017f-4e40-a1aa-177aac868d9a,2025-05-25 20:46:57,Pichação,Área Comercial,-23.259778353237245,-46.81975168233871,Madrugada,Alta,Cancelada,Dignissimos consequuntur explicabo earum distinctio.,0
+9adea09d-2704-485e-9a22-39cfcf9cccc0,2024-11-05 08:04:10,Outros,Bairro Residencial B,-23.054310380290566,-46.30577286707592,Tarde,Média,Reportada,Laboriosam nulla placeat enim magni optio tempore odio.,0
+7abbf6c7-84ed-4953-b4ad-2deb52f0b3e1,2024-09-10 16:41:18,Barulho Excessivo,Área Comercial,-23.212122756243403,-46.43360283866805,Madrugada,Média,Resolvida,Debitis doloribus beatae autem vero.,1
+c245bbc0-9d24-4dd2-a34f-9bf1fe2166c0,2024-08-21 10:46:53,Lixo Acumulado,Estação de Metrô,-23.694437069527808,-46.39262695427107,Manhã,Média,Cancelada,Nesciunt dolores necessitatibus distinctio.,0
+45720515-43ca-4e03-abd7-12a3a1135402,2024-10-09 18:47:46,Vandalismo,Área Comercial,-23.758136449817098,-46.62321774634447,Tarde,Alta,Resolvida,Beatae laborum temporibus molestias non facilis.,1
+26c42278-4e75-43cd-aaf4-bb390c06be37,2024-12-12 21:07:20,Aglomeração Suspeita,Área Comercial,-23.66795075815906,-46.19759303939136,Noite,Média,Cancelada,Blanditiis harum sequi repellendus veritatis suscipit.,1
+b43a7c51-bb85-424b-8c0c-1dba143d3579,2025-05-10 16:06:46,Lixo Acumulado,Praça Central,-23.028034230713402,-46.285192384665216,Madrugada,Alta,Cancelada,Suscipit voluptates in in tenetur corporis nesciunt.,0
+c697ca82-3701-475b-bbb4-506c54476f01,2024-07-16 06:13:52,Aglomeração Suspeita,Estação de Metrô,-23.1071891289265,-46.521841823763296,Noite,Média,Em Análise,Architecto quia dolores quas accusamus saepe incidunt.,0
+dbb660b9-3d46-4fe6-bc89-99501b89b3d3,2024-07-28 07:17:48,Outros,Bairro Residencial B,-23.183556690255337,-46.774086106418224,Tarde,Média,Resolvida,Est dicta ipsam ratione.,0
+0225d2f5-98a0-420e-963c-acba15bd5a4f,2024-10-19 05:54:56,Pichação,Área Comercial,-23.902072811315097,-46.594682100521084,Noite,Baixa,Cancelada,Veniam quisquam blanditiis enim natus suscipit vero.,0
+9a2a23a1-4402-4f7c-a8fb-ebc00523cab1,2025-06-08 09:42:21,Barulho Excessivo,Bairro Residencial B,-23.000512843663785,-46.66201593947442,Tarde,Alta,Em Análise,Reiciendis ex quae accusamus eaque earum.,0
+9dd63dcc-ab68-4671-aac3-61f8379edaad,2025-05-15 07:28:15,Barulho Excessivo,Parque Urbano,-23.90107877571993,-46.23940581864238,Tarde,Média,Resolvida,Possimus alias placeat deserunt nobis repellendus.,0
+c8cf4d1f-b144-4152-b85e-d9d3a72d662c,2024-11-29 09:05:35,Pichação,Área Comercial,-23.223438248772496,-46.971021441286595,Madrugada,Média,Em Análise,Nesciunt consequatur asperiores voluptatem alias quaerat.,0
+a0b43388-d9e0-4633-8d2c-52d36e060afb,2024-12-11 06:32:48,Aglomeração Suspeita,Bairro Residencial A,-23.143484439541062,-46.20023198743068,Manhã,Alta,Em Análise,Minima natus eveniet magnam atque laborum.,1
+1c17464f-187f-4d0f-a868-c37503dd58a9,2025-04-19 10:57:09,Lixo Acumulado,Parque Urbano,-23.563723344798248,-46.452270273693976,Manhã,Média,Reportada,Nam quidem consequatur praesentium cupiditate itaque.,0
+15137367-546d-430a-a206-04d464ab2c97,2025-05-22 01:10:49,Barulho Excessivo,Bairro Residencial B,-23.13538503541984,-46.63355804973545,Noite,Média,Em Análise,Autem est iusto.,0
+045473dd-7676-4789-8152-284793711b48,2024-08-21 12:34:59,Aglomeração Suspeita,Parque Urbano,-23.832887452967405,-46.70719825858143,Noite,Alta,Reportada,Atque numquam placeat modi dignissimos.,0
+2b7274ee-980f-486c-8f09-3fd9c19d38ce,2024-07-31 06:27:56,Vandalismo,Bairro Residencial A,-23.81469353259152,-46.932030560998136,Noite,Baixa,Em Análise,Architecto repellat delectus possimus ratione.,0
+831727f3-c83f-4939-b780-042a7c37394c,2024-11-21 00:49:23,Pichação,Estação de Metrô,-23.895489780267834,-46.95317758579299,Noite,Média,Resolvida,Cumque itaque delectus quod repellat.,0
+792ff116-cbf6-4f1b-84c0-34c9061b4296,2024-11-01 19:37:24,Pichação,Área Comercial,-23.754149659639864,-46.56110219840088,Tarde,Média,Resolvida,Libero veniam dolorum fugiat ipsa.,0
+5b487ed8-8dd9-4335-bfad-d4f99749753a,2025-05-17 21:49:14,Vandalismo,Parque Urbano,-23.075494379916726,-46.20528170831336,Manhã,Média,Cancelada,Laudantium voluptates porro porro.,0
+3e054cb7-e1c4-4c84-afba-5a2aa667ad88,2025-02-09 11:11:27,Pichação,Área Comercial,-23.148338419508015,-46.119882061613644,Noite,Crítica,Cancelada,Dolorem dicta pariatur placeat alias impedit placeat iure.,1
+618ff74e-bcf1-4c6a-b1d9-5891c824788c,2024-09-17 23:40:18,Pichação,Parque Urbano,-23.154709666408188,-46.855556439122616,Noite,Alta,Cancelada,Corporis id nobis occaecati.,0
+5c4eb885-5374-4571-aeb9-8e5dfdc44c02,2025-02-07 14:30:17,Vandalismo,Estação de Metrô,-23.903761423916688,-46.49834135238611,Manhã,Média,Reportada,Explicabo non nobis doloribus asperiores.,0
+fc557ccd-3938-41b9-8048-6f710073303f,2024-09-03 21:11:30,Lixo Acumulado,Praça Central,-23.50736883929546,-46.81145058218726,Noite,Média,Resolvida,Maxime quos unde mollitia culpa.,0
+489ab2d7-0d0d-4fd3-a911-c66d3597cc2e,2024-07-03 07:03:18,Outros,Praça Central,-23.687512662824517,-46.87372810495056,Noite,Crítica,Resolvida,Dolorum fuga nisi quo maiores nisi.,0
+8ee1f099-acd0-457a-81d0-0bf84accc834,2025-03-13 07:21:35,Lixo Acumulado,Área Comercial,-23.958776041895884,-46.9424073499976,Madrugada,Alta,Reportada,Unde soluta vel velit consequuntur ullam tempore.,0
+f753f947-328c-480e-ab87-64daa58cc108,2024-09-04 14:36:38,Aglomeração Suspeita,Bairro Residencial A,-23.94682302363874,-46.84344116288782,Tarde,Baixa,Resolvida,At nesciunt corrupti voluptas.,0
+0e85ff6e-5d29-4ee6-af01-cf020b1b0afb,2024-07-18 20:48:21,Pichação,Área Comercial,-23.340874362145957,-46.523954349863885,Tarde,Crítica,Resolvida,Vel odio est perspiciatis.,0
+375bd4d3-f627-4a2a-b526-90c22c15c8b4,2025-04-13 06:19:39,Pichação,Bairro Residencial A,-23.70212534925125,-46.9669781024701,Madrugada,Alta,Reportada,Porro deserunt rem nisi.,0
+a27def08-30c6-4e93-90a1-d1c48218d816,2025-02-02 11:09:42,Lixo Acumulado,Área Comercial,-23.57371797760771,-46.48704769185743,Madrugada,Média,Resolvida,Vitae distinctio aspernatur reiciendis reprehenderit id adipisci placeat.,0
+890e287c-b42e-4b3f-bbec-4d522cf20f22,2024-11-02 23:08:55,Vandalismo,Bairro Residencial A,-23.49531571206413,-46.94521659160052,Noite,Baixa,Reportada,Sapiente nostrum adipisci est beatae nam ab.,0
+38f24a11-c25b-404f-b027-280d352cdec3,2024-08-10 00:02:08,Pichação,Área Comercial,-23.934967075357484,-46.09456621152711,Tarde,Crítica,Resolvida,Officiis voluptates ducimus corporis sequi.,0
+e9d47037-cb9d-44cf-be21-2317266f848e,2025-04-17 05:57:16,Vandalismo,Bairro Residencial B,-23.03836601103398,-46.29838699747029,Tarde,Baixa,Reportada,Libero voluptatum nam consequuntur beatae excepturi non.,1
+02160034-caab-4a1c-85a1-be84c1d6229a,2024-09-08 20:34:18,Lixo Acumulado,Bairro Residencial B,-23.667041836252576,-46.50640993067806,Noite,Média,Resolvida,Officia ipsa dignissimos nesciunt voluptates tenetur qui iure.,1
+1b9d331d-9630-4851-b622-d6239353f87c,2024-07-24 11:29:30,Vandalismo,Parque Urbano,-23.301644020160325,-46.88277817611733,Madrugada,Crítica,Cancelada,Quo delectus autem voluptatum quod porro.,0
+f7f3ff29-b489-4a83-b1d9-cfbb9d3dd807,2025-01-10 22:13:31,Pichação,Estação de Metrô,-23.026924005638122,-46.908764250676974,Madrugada,Crítica,Cancelada,Harum atque vitae necessitatibus fugiat dolore quas.,1
+4391ab63-e3b3-4968-a4c3-a23ca485d554,2024-07-06 03:19:37,Pichação,Estação de Metrô,-23.82940366929794,-46.93521202408369,Noite,Baixa,Cancelada,Cupiditate cumque ducimus ipsam occaecati aut porro.,1
+1703fe15-e518-4a26-bacd-03adc1ef5213,2024-10-22 22:51:41,Aglomeração Suspeita,Parque Urbano,-23.508221289909514,-46.099908512828975,Madrugada,Média,Resolvida,Pariatur nihil atque eos quod molestias.,0
+e1e12c17-bbf5-4b19-8b3d-6389e17bb57d,2024-07-03 11:37:47,Pichação,Bairro Residencial A,-23.62092921030286,-46.15259541797332,Noite,Média,Cancelada,Perferendis rerum quae quas.,0
+4fb30d51-0999-4776-9a38-20dbd5f35269,2025-02-11 20:34:19,Barulho Excessivo,Parque Urbano,-23.637999986929348,-46.446252264575854,Manhã,Alta,Cancelada,Eum soluta libero dolore.,1
+dbefd52e-bfc6-4545-9000-ceafc92ab3ef,2024-08-13 01:59:55,Outros,Praça Central,-23.28898002968251,-46.97425610446371,Tarde,Média,Reportada,Dolor ex commodi at aspernatur ipsam.,1
+e8ca1a13-8bca-4eab-97f8-55daaf666d28,2025-03-22 03:49:55,Vandalismo,Bairro Residencial A,-23.09502503548433,-46.473563008178836,Manhã,Alta,Em Análise,Nemo nesciunt saepe dolores ab ad.,0
+4fa26e6b-df1b-430a-883f-25186a9bcb8a,2025-04-29 19:08:12,Outros,Área Comercial,-23.734273731055993,-46.075458648340195,Tarde,Média,Resolvida,Culpa beatae necessitatibus natus repudiandae facere rerum.,0
+0d6b9747-cd1a-463d-b6a4-d2edfe732d00,2024-06-27 15:46:25,Pichação,Parque Urbano,-23.724669492613554,-46.10941224049688,Manhã,Alta,Em Análise,Qui perferendis vitae occaecati.,0
+37b28468-be4a-4134-8458-ef16cbbf585d,2025-02-11 06:26:57,Barulho Excessivo,Área Comercial,-23.86709575970771,-46.54945412048053,Manhã,Alta,Em Análise,Quibusdam amet mollitia unde repellendus sunt non.,0
+23052071-60d7-477c-9478-f890399c2489,2024-09-12 21:05:02,Lixo Acumulado,Praça Central,-23.185925734415857,-46.45664299050719,Madrugada,Média,Resolvida,Cupiditate aliquid totam qui deserunt impedit officiis.,0
+739852f9-eb4d-422e-94a4-6fa259faa389,2024-11-23 15:07:36,Vandalismo,Bairro Residencial A,-23.417434192948026,-46.715012570307195,Manhã,Crítica,Em Análise,Nostrum laboriosam nisi.,1
+6d049ab2-96a6-4222-921a-77623b2e87d7,2025-04-08 09:45:53,Barulho Excessivo,Bairro Residencial B,-23.621061583383952,-46.226362061032,Noite,Média,Reportada,Sapiente labore eaque rerum possimus delectus.,1
+83842bad-8f3c-4bbb-8193-b0d4e55a7647,2025-04-10 06:22:38,Vandalismo,Bairro Residencial B,-23.869823662301087,-46.95897075833585,Madrugada,Baixa,Reportada,Quo nemo tempora aspernatur odit rem tempora.,0
+b8b332e3-bc2f-4de5-ab3b-565ca03a0506,2025-05-26 03:52:29,Aglomeração Suspeita,Bairro Residencial B,-23.304967594602413,-46.4336003832262,Madrugada,Baixa,Cancelada,Maxime pariatur sed magnam pariatur.,0
+f1863af8-6134-4699-9ff5-85dde3c61bee,2024-06-25 01:34:54,Lixo Acumulado,Estação de Metrô,-23.064812950027786,-46.0480894010072,Noite,Média,Em Análise,Reprehenderit consequatur maiores quisquam aperiam magnam autem.,1
+3ac83110-58ca-41ee-933d-9f76a026c2dd,2024-12-26 09:43:12,Vandalismo,Bairro Residencial A,-23.69323212208816,-46.26008465127747,Madrugada,Crítica,Cancelada,Deleniti dolor adipisci nisi reiciendis recusandae aliquid.,0
+050d4548-9d7f-4cf3-b99d-8c7242e2d737,2025-02-08 06:41:08,Lixo Acumulado,Estação de Metrô,-23.09310407533109,-46.72852029084033,Noite,Crítica,Reportada,Optio itaque quasi numquam magni vel.,1
+c1d71672-c8dd-4116-ba98-1d4cc76b3c61,2025-04-27 02:04:16,Outros,Praça Central,-23.860813212868212,-46.91918065847977,Madrugada,Baixa,Resolvida,Quis veniam ut.,0
+76adc573-7039-422d-a084-4bcbe6865dd8,2024-09-18 07:39:17,Lixo Acumulado,Estação de Metrô,-23.619791658464322,-46.820217030535105,Madrugada,Média,Cancelada,Eligendi illum quasi rerum.,0
+94b68d25-c15f-44bf-a19d-f19218854f71,2024-11-14 15:22:53,Lixo Acumulado,Praça Central,-23.67637791130074,-46.31537273512113,Madrugada,Baixa,Reportada,Distinctio in blanditiis facere ratione repellendus.,1
+ffa5dc2c-e3e8-4fba-96e9-0c887b671a66,2024-06-27 09:03:09,Aglomeração Suspeita,Praça Central,-23.964751535511077,-46.93613959051737,Tarde,Alta,Cancelada,Magnam animi totam officiis.,1
+a9098692-40c3-4a8a-9df0-df43ca27fa26,2024-07-05 00:14:57,Aglomeração Suspeita,Estação de Metrô,-23.714848433328978,-46.442316943844034,Manhã,Alta,Cancelada,Ipsa commodi beatae.,0
+e56ea9e8-ee50-493c-a104-72c1493da896,2024-11-02 14:14:41,Vandalismo,Estação de Metrô,-23.948459324833426,-46.17990024648713,Madrugada,Média,Cancelada,Illum beatae eaque veniam earum consequuntur veniam distinctio.,0
+5df5849e-17fc-4ec1-8906-29990e196675,2024-10-13 03:18:10,Outros,Parque Urbano,-23.394019286452274,-46.6322224728808,Madrugada,Média,Reportada,Nobis doloremque iusto eveniet quasi rem.,0
+16e0a3ba-889e-4e8b-a265-858b50304cad,2024-12-27 13:10:34,Aglomeração Suspeita,Parque Urbano,-23.829762246783563,-46.18969233263687,Tarde,Alta,Cancelada,Asperiores rerum error.,0
+fe7f6089-f8d0-459a-ab54-766cc6448c21,2024-09-16 02:12:05,Outros,Parque Urbano,-23.106772066036935,-46.32581098839425,Madrugada,Alta,Resolvida,Rerum hic a nam.,0
+677bb0aa-6eb3-49f2-8fb6-1c5e5f484031,2025-05-13 21:19:35,Vandalismo,Área Comercial,-23.195489946247154,-46.07985188990681,Manhã,Média,Reportada,Error ullam deleniti impedit tempora ipsa.,0
+74ef6ee8-8f46-4f8f-8bf7-a659db485e9b,2024-10-15 00:11:10,Vandalismo,Praça Central,-23.593529391700436,-46.94258402258463,Manhã,Crítica,Em Análise,Cumque porro reiciendis deserunt cupiditate enim aliquam.,1
+12b303a1-408b-444c-8509-f6d050717910,2024-10-16 16:53:29,Lixo Acumulado,Bairro Residencial B,-23.108190164792553,-46.36119414047418,Manhã,Alta,Resolvida,Adipisci illum animi eos.,1
+9eb0b6da-48b5-4dd6-a375-6a0da63adb93,2024-07-03 19:48:39,Aglomeração Suspeita,Parque Urbano,-23.74812166421794,-46.86944350777724,Tarde,Baixa,Resolvida,Mollitia aperiam minus.,1
+492346a9-f9f5-4e0f-86f9-203729585373,2024-11-26 08:17:10,Vandalismo,Praça Central,-23.844348356747204,-46.471998698666944,Manhã,Média,Em Análise,Perspiciatis consectetur architecto quam.,0
+2f4bb161-2893-4d4e-b476-461ed8a8b600,2025-01-06 16:58:53,Barulho Excessivo,Área Comercial,-23.353837433651805,-46.488446163020946,Tarde,Alta,Reportada,Blanditiis dignissimos sunt dolore voluptate beatae eum alias.,0
+958f5393-eb78-4636-b9c4-1b51f19d788c,2025-01-07 18:30:38,Pichação,Praça Central,-23.813823159317575,-46.33842148761375,Manhã,Crítica,Cancelada,Accusantium occaecati magni iusto amet.,0
+ea25db9f-724f-4d9b-80ac-fdb7d2de5cfe,2025-06-02 12:35:59,Pichação,Área Comercial,-23.204825463952954,-46.194268434872136,Noite,Alta,Reportada,Aperiam earum amet beatae magnam aliquid.,1
+0f8d8216-f002-4af8-b0b6-2ce26288cee6,2025-03-25 12:35:24,Pichação,Praça Central,-23.25206483100112,-46.05992429014526,Madrugada,Alta,Em Análise,Id eius recusandae nesciunt iure.,0
+221c09a6-0616-4508-bbfa-103c96bc74ad,2025-03-21 19:02:16,Aglomeração Suspeita,Estação de Metrô,-23.013287448970097,-46.97817216305982,Madrugada,Crítica,Resolvida,Voluptatum aspernatur iusto exercitationem ipsa quo.,0
+d2c745ac-ee05-4738-bfba-53cff8700412,2024-12-05 15:45:50,Vandalismo,Praça Central,-23.37757647122705,-46.63949243272622,Manhã,Crítica,Cancelada,Dicta illum sed nesciunt ullam.,1
+f819a5a8-24e2-4d66-ab51-6a4f5c4ef443,2025-03-29 22:00:01,Aglomeração Suspeita,Parque Urbano,-23.196804676588908,-46.086093811921565,Tarde,Alta,Reportada,Itaque fuga maxime assumenda omnis deserunt nobis.,0
+f40e8953-9886-41a8-a324-5d050919217d,2024-09-09 10:25:26,Pichação,Área Comercial,-23.63431950366902,-46.11123246590286,Manhã,Média,Reportada,Tempora facere distinctio beatae et eius debitis porro.,0
+b9ea9d0f-0534-4f8d-bf82-1a609febbacc,2025-04-17 07:01:24,Barulho Excessivo,Praça Central,-23.709287067345326,-46.315787638794355,Madrugada,Baixa,Em Análise,Esse ipsa velit suscipit rerum voluptatibus fugiat qui.,0
+d0f0a0f1-45a6-49cf-97ef-2d832bcfb614,2025-03-29 19:15:08,Vandalismo,Parque Urbano,-23.71113052501031,-46.506161002087865,Manhã,Média,Cancelada,Numquam placeat eveniet eum assumenda.,0
+a2c680ae-aeea-4399-bf7c-baa09d2e05ea,2024-07-22 05:20:06,Lixo Acumulado,Bairro Residencial B,-23.972489602586144,-46.07555835031309,Manhã,Baixa,Reportada,Natus ut dolor totam modi architecto neque.,0
+14fd6708-e834-4e20-b170-f7e183d3de6f,2024-11-06 19:11:58,Aglomeração Suspeita,Estação de Metrô,-23.03691173039713,-46.810914781436544,Noite,Baixa,Cancelada,Voluptatum debitis ipsum eveniet.,1
+55e3ff88-7d1f-496f-af34-5db74ac1407a,2025-04-12 21:25:46,Barulho Excessivo,Bairro Residencial B,-23.72324608699172,-46.97067597829349,Tarde,Crítica,Cancelada,Cumque et quidem incidunt atque.,1
+874b1e01-6d0b-4a49-b4e6-df268ddea75b,2025-02-16 19:28:53,Aglomeração Suspeita,Estação de Metrô,-23.893738736471843,-46.00072676724793,Madrugada,Alta,Resolvida,Reiciendis harum corrupti ipsum suscipit perspiciatis.,0
+332ae188-d811-4017-bcdc-1455cf0a7f2c,2025-01-02 05:21:51,Aglomeração Suspeita,Praça Central,-23.989070168192626,-46.22047696327028,Manhã,Baixa,Cancelada,Qui expedita magni natus cum quia repudiandae.,0
+30233ed1-3f24-4c42-b13d-887669a6417c,2024-07-07 23:53:26,Outros,Área Comercial,-23.76272925203424,-46.289405489958206,Madrugada,Crítica,Resolvida,Modi eligendi itaque accusantium.,0
+7be06754-ebc1-4289-9111-9a99809d3bba,2025-04-15 13:56:41,Lixo Acumulado,Área Comercial,-23.527360036154022,-46.40806647719979,Noite,Crítica,Resolvida,Veniam laudantium suscipit adipisci suscipit accusamus necessitatibus.,0
+a3a70759-60a4-400d-be4b-64d426b2da67,2024-12-27 11:16:29,Barulho Excessivo,Bairro Residencial B,-23.653748562338173,-46.0925199871969,Madrugada,Crítica,Cancelada,Adipisci eaque dolorum.,0
+b5846ef1-2630-4c5d-8936-6ed1053e76d8,2024-09-07 06:54:27,Outros,Bairro Residencial B,-23.34474184637568,-46.65718145676128,Madrugada,Média,Em Análise,Perspiciatis labore et illo architecto necessitatibus ipsam facilis.,1
+c7e9b520-4f5f-464d-ae12-7b15bebb29b5,2024-10-04 12:55:46,Lixo Acumulado,Estação de Metrô,-23.832827406821227,-46.708372556242345,Noite,Crítica,Resolvida,Quasi laboriosam explicabo voluptate.,0
+5c831014-e168-4d45-bc15-303f26f2596e,2025-01-18 03:54:31,Aglomeração Suspeita,Parque Urbano,-23.175130595759022,-46.58407321562365,Manhã,Média,Resolvida,Magnam alias alias laudantium.,0
+4784ef9e-7bfa-4c93-82f8-89de79532340,2024-09-21 07:11:33,Vandalismo,Parque Urbano,-23.62368195674632,-46.604350903853,Noite,Baixa,Resolvida,Mollitia illo molestiae sapiente.,0
+b8be55ae-73c5-4ccb-b055-442229de19f0,2024-09-10 22:37:46,Outros,Bairro Residencial B,-23.13934748871357,-46.83081212963129,Tarde,Média,Resolvida,Sunt eius maxime reprehenderit iusto numquam.,0
+c2de3a5d-f9ef-4482-9bd5-d0d9d10c5353,2025-05-24 18:13:19,Pichação,Bairro Residencial B,-23.750572052345923,-46.92975385895248,Manhã,Baixa,Cancelada,Quod assumenda dolores officiis amet sit.,1
+dabd78ae-60cc-486c-9060-1f87478eb037,2024-12-17 08:30:19,Aglomeração Suspeita,Parque Urbano,-23.98699310240715,-46.966620428644035,Noite,Crítica,Reportada,Nihil corrupti saepe consectetur autem vero saepe.,1
+1ac04017-a617-4540-b256-bd8ba704568c,2025-02-20 23:31:57,Outros,Área Comercial,-23.623629032193648,-46.91658796511366,Madrugada,Baixa,Resolvida,Itaque dolorum sed illum assumenda amet voluptatibus perspiciatis.,0
+f1e9bcad-50bb-4195-ad82-dfad3bb3c1df,2025-04-02 06:18:46,Vandalismo,Bairro Residencial B,-23.574175160530103,-46.082420742479584,Madrugada,Alta,Resolvida,Aut sapiente repellendus.,1
+d2ff9c11-a129-4039-a03c-9e4230f6a64d,2024-11-21 08:07:12,Pichação,Parque Urbano,-23.382002306794366,-46.19784648039981,Manhã,Baixa,Em Análise,Adipisci provident recusandae nisi autem id.,1
+2ba4a32a-7508-4c63-a941-b4e44422d454,2025-01-04 18:52:22,Lixo Acumulado,Bairro Residencial A,-23.433492897885593,-46.727150956213016,Manhã,Média,Cancelada,A ex consequatur odit adipisci quam.,1
+3f867441-deac-4309-86cc-98754f1a84d2,2025-03-28 21:27:41,Outros,Bairro Residencial B,-23.309442539987266,-46.37279543018422,Madrugada,Baixa,Cancelada,In sit voluptates at facere quos deserunt.,0
+d990a7e2-d7ea-42be-bb84-b1ca6f1bd540,2024-08-27 17:41:52,Pichação,Parque Urbano,-23.21964426402498,-46.928848130647886,Manhã,Alta,Em Análise,Quaerat corporis cum ea explicabo sit earum.,0
+73f7cfac-9012-492f-8819-665e407d5f1b,2024-09-10 05:55:01,Outros,Estação de Metrô,-23.773549440269143,-46.2546107007536,Noite,Média,Cancelada,Aperiam corporis ipsum repellendus quos.,0
+2f595725-63e1-41e5-8951-2133e6d4a854,2024-09-10 12:28:07,Aglomeração Suspeita,Área Comercial,-23.201997726908516,-46.94756918003768,Madrugada,Alta,Resolvida,Laboriosam adipisci molestias.,0
+a896ef99-645c-4f8f-8f6b-743fcba7d6ec,2024-07-11 17:41:17,Aglomeração Suspeita,Parque Urbano,-23.288802434257022,-46.770970461830956,Madrugada,Média,Em Análise,Expedita tenetur beatae officiis.,0
+c45fa0ea-c145-42e4-9e04-ac712063c33f,2024-07-15 22:32:21,Aglomeração Suspeita,Praça Central,-23.847975594099125,-46.013574713493036,Madrugada,Crítica,Reportada,Mollitia illum officiis distinctio aut a.,0
+ad819272-db06-4ba6-a31a-3029616912b1,2025-02-18 04:30:48,Aglomeração Suspeita,Área Comercial,-23.893307109266942,-46.06245730584136,Tarde,Baixa,Em Análise,Quos velit quam cum facere.,0
+4347f92d-94bb-4b2d-92a4-cf6ee745822d,2025-01-07 15:52:19,Outros,Parque Urbano,-23.235674219348272,-46.84502133105251,Noite,Média,Em Análise,Voluptates sequi omnis provident.,0
+fb284d7c-5c70-48be-b0b7-5c85a4cd2601,2024-09-19 01:27:41,Pichação,Estação de Metrô,-23.794848086620537,-46.63946913282088,Madrugada,Alta,Resolvida,Minima dolor est eveniet ipsam nostrum esse delectus.,0
+c858eb09-0e3d-45e7-a53a-c83c404ede94,2025-01-15 21:58:19,Barulho Excessivo,Bairro Residencial B,-23.22463158334916,-46.80303534925597,Tarde,Baixa,Em Análise,Saepe molestias reiciendis cum iure placeat.,1
+4b6c2926-4b95-416b-906a-5f514fe4ce49,2025-05-19 22:59:02,Lixo Acumulado,Parque Urbano,-23.448153221112335,-46.21526195447191,Madrugada,Alta,Resolvida,Voluptate consectetur necessitatibus officia.,1
+0a69662f-bb45-451a-b974-776c9885ce46,2025-04-10 23:37:27,Pichação,Bairro Residencial A,-23.78790517930561,-46.24572700338785,Madrugada,Média,Cancelada,Neque aut quibusdam.,1
+ef76da51-9b53-456e-bdb1-4265830c1e07,2024-12-07 21:52:34,Lixo Acumulado,Bairro Residencial B,-23.508583400349842,-46.152503019489686,Noite,Baixa,Em Análise,Similique sapiente quam molestias.,0
+5685611a-c47f-45c9-be8d-842b0f888afb,2024-11-30 05:33:53,Vandalismo,Praça Central,-23.50760523242611,-46.64502644709897,Tarde,Baixa,Resolvida,Sequi nemo quibusdam.,0
+afc56610-59b7-4804-b16a-26d9ef9f4f63,2025-04-10 14:07:02,Barulho Excessivo,Praça Central,-23.150343500920272,-46.69527346448405,Tarde,Alta,Resolvida,Dignissimos consequatur cupiditate vitae exercitationem beatae quod libero.,0
+374cb9c1-863c-41b0-b2f5-dbcb59c4b03b,2024-09-13 05:12:36,Barulho Excessivo,Parque Urbano,-23.455836692654625,-46.07231759235922,Manhã,Média,Resolvida,Debitis vero quae quasi culpa.,0
+180cc13b-2192-4f53-ba17-10adcd0055dd,2025-01-23 06:05:17,Outros,Praça Central,-23.072402006242466,-46.391983280272335,Noite,Crítica,Cancelada,Aliquam labore eaque sit.,0
+aaf5aac1-1221-4444-a8c3-2c243ec46d94,2024-07-17 15:59:24,Pichação,Bairro Residencial B,-23.458298454287863,-46.70534093287174,Tarde,Média,Resolvida,Fuga sed ullam quam voluptate esse.,1
+5bc10039-8ca6-42a2-9e3d-9255846bbea5,2024-09-26 08:04:31,Outros,Área Comercial,-23.263061278686493,-46.98381017082011,Manhã,Crítica,Em Análise,Consequuntur et impedit beatae amet distinctio quas debitis.,0
+c005c06d-3468-47dd-861b-b284a358d52c,2024-09-25 04:34:27,Aglomeração Suspeita,Parque Urbano,-23.772148429027993,-46.64031535787684,Tarde,Baixa,Em Análise,Quod dicta quos molestias totam sapiente reiciendis.,0

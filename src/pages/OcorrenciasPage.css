@@ -1,0 +1,368 @@
+/* src/pages/OcorrenciasPage.css */
+
+/* Definição de Variáveis CSS para Cores e Propriedades Reutilizáveis */
+:root {
+  --primary-purple: #6A0DAD; /* Roxo principal */
+  --secondary-purple: #8A2BE2; /* Um tom de roxo ligeiramente diferente, para gradiente/detalhes */
+  --dark-background: #1a1a2e; /* Fundo escuro do header/alguns elementos */
+  --light-background: #e6e9f0; /* Cor de texto para fundos escuros (branco) */
+  --card-background: #ffffff; /* Fundo dos cards brancos */
+  --text-dark: #333333;
+  --text-light: #f0f0f0; /* Cor de texto para fundos escuros (branco) */
+  --border-color-light: #e0e0e0;
+  --shadow-light: rgba(0, 0, 0, 0.1);
+  --shadow-strong: rgba(0, 0, 0, 0.25);
+
+  --ia-gradient-start: #311B92; /* Azul arroxeado escuro - Início do degradê da página IA */
+  --ia-gradient-end: #8E24AA;    /* Roxo mais avermelhado - Fim do degradê da página IA */
+  
+  /* NOVA VARIÁVEL: Rosa forte */
+  --strong-pink: #FF00FF; /* Um rosa vibrante e forte */
+
+  --border-radius-card: 18px; /* Mais arredondado para os cards */
+  --border-radius-input: 12px; /* Mais arredondado para inputs */
+  --border-radius-button: 15px; /* Mais arredondado para botões */
+}
+
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif; 
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-smoothing: grayscale;
+}
+
+.ocorrencias-container {
+  padding: 60px 30px;
+  background: linear-gradient(135deg, var(--ia-gradient-start) 0%, var(--ia-gradient-end) 100%); 
+  min-height: calc(100vh - 60px); 
+  color: var(--text-light); 
+  text-align: center;
+  box-sizing: border-box;
+  position: relative; 
+  overflow: hidden; 
+}
+
+.ocorrencias-container h1 {
+  /* Tornamos o texto do h1 transparente, pois o texto visível estará no span */
+  color: transparent; 
+  margin-bottom: 20px;
+  font-size: 3.8em; 
+  font-weight: 900;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); /* Sombra ainda pode ser aplicada no h1 */
+  letter-spacing: 2px; 
+  text-transform: uppercase; 
+  position: relative; /* ESSENCIAL: Permite que z-index funcione para o h1 e para o ::before */
+  z-index: 1; /* O h1 em si pode ter um z-index menor, pois o span estará acima */
+  /* Removemos display e padding do h1, pois serão aplicados no span */
+  /* display: inline-block; */ 
+  /* padding: 0 20px; */ 
+
+  /* Adicionando um transform nulo para potencialmente forçar um novo stacking context para o h1,
+     o que pode ajudar a resolver problemas de empilhamento complexos */
+  transform: translateZ(0); 
+}
+
+/* NOVO ESTILO PARA O TEXTO DENTRO DO H1 (agora no span) */
+.ocorrencias-container h1 .h1-text-content {
+  color: var(--text-light); /* Garante que o texto seja branco */
+  position: relative; /* Permite que z-index funcione para o span */
+  z-index: 3; /* SUPERIOR ao z-index da faixa (1) e do próprio h1 (1 ou 2) */
+  display: inline-block; /* Para que as propriedades de bloco (como padding) funcionem */
+  padding: 0 20px; /* Adiciona o padding horizontal ao redor do texto */
+  /* Também podemos adicionar um transform aqui para garantir o empilhamento do texto */
+  transform: translateZ(0); 
+}
+
+
+/* FAIXA ROSA POR TRÁS DO TÍTULO (::before) */
+.ocorrencias-container h1::before {
+  content: '';
+  position: absolute; /* ESSENCIAL: Permite posicionar a faixa em relação ao h1 */
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%); /* Centraliza a faixa exatamente no meio do h1 */
+  width: 57%; /* Largura da faixa em relação ao h1 (ajuste se precisar de mais ou menos) */
+  height: 80px; /* Altura da faixa (ajuste conforme necessário) */
+  background: var(--strong-pink); /* Usa a variável de rosa forte */
+  border-radius: 20px; /* Bordas arredondadas */
+  z-index: 2; /* COLOCA A FAIXA ROSA ENTRE O H1 (que é 1) e o SPAN (que é 3) */
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); /* Sombra discreta para profundidade */
+}
+/* >>>>> FALTAVA ESTA CHAVE DE FECHAMENTO AQUI <<<<< */
+
+.ocorrencias-container > p {
+  font-size: 1.3em;
+  margin-bottom: 60px;
+  color: var(--text-light); 
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 1.6;
+  opacity: 0.9;
+  position: relative; 
+  z-index: 2;
+}
+
+/* Estilo geral para as seções (formulário, lista, gráficos) */
+.section-card {
+  background-color: var(--card-background); 
+  padding: 40px;
+  border-radius: var(--border-radius-card);
+  box-shadow: 0 12px 25px var(--shadow-strong);
+  margin-bottom: 60px;
+  text-align: left;
+  max-width: 950px;
+  margin-left: auto;
+  margin-right: auto;
+  border: none;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.section-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 18px 35px var(--shadow-strong);
+}
+
+.section-card h2 {
+  color: var(--primary-purple); 
+  margin-bottom: 30px;
+  font-size: 2.5em;
+  font-weight: 600;
+  padding-bottom: 15px;
+  text-align: center;
+  position: relative;
+}
+
+/* Detalhe visual para o h2 - Linha inferior com gradiente */
+.section-card h2::after {
+  content: '';
+  display: block;
+  width: 80px;
+  height: 6px;
+  background: linear-gradient(90deg, var(--primary-purple), var(--secondary-purple)); 
+  position: absolute;
+  bottom: -3px;
+  left: 50%;
+  transform: translateX(-50%);
+  border-radius: 5px;
+}
+
+
+/* Estilos do Formulário - Mais moderno */
+.form-group {
+  margin-bottom: 30px;
+  position: relative; 
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 12px;
+  font-weight: 600;
+  color: var(--text-dark);
+  font-size: 1.15em;
+}
+
+.form-group input[type="text"],
+.form-group input[type="datetime-local"] {
+  width: calc(100% - 30px);
+  padding: 16px 15px;
+  border: 2px solid var(--border-color-light);
+  border-radius: var(--border-radius-input);
+  font-size: 1.1em;
+  box-sizing: border-box;
+  color: var(--text-dark);
+  background-color: #fcfcfc;
+  transition: border-color 0.3s ease, box-shadow 0.3s ease, background-color 0.3s ease; 
+}
+
+.form-group input[type="text"]:focus,
+.form-group input[type="datetime-local"]:focus {
+  border-color: var(--secondary-purple); 
+  box-shadow: 0 0 0 5px rgba(138, 43, 226, 0.2); 
+  background-color: #f9f9ff; 
+  outline: none;
+}
+
+
+.btn-primary {
+  background: linear-gradient(90deg, var(--primary-purple) 0%, var(--secondary-purple) 100%);
+  color: var(--text-light);
+  padding: 18px 35px;
+  border: none;
+  border-radius: var(--border-radius-button);
+  cursor: pointer;
+  font-size: 1.3em;
+  font-weight: 700;
+  transition: all 0.3s ease;
+  letter-spacing: 0.8px;
+  box-shadow: 0 8px 15px rgba(106, 13, 173, 0.3);
+  position: relative; 
+  overflow: hidden; 
+}
+
+/* Efeito de brilho no botão ao passar o mouse */
+.btn-primary::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: rgba(255, 255, 255, 0.2); 
+  transform: skewX(-20deg);
+  transition: all 0.5s ease;
+}
+
+.btn-primary:hover::before {
+  left: 100%;
+}
+
+
+/* Estilos da Lista de Ocorrências - Mais moderno */
+.ocorrencias-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 30px;
+  margin-top: 30px;
+}
+
+.ocorrencia-item {
+  background-color: var(--card-background);
+  padding: 30px;
+  border-radius: var(--border-radius-card);
+  box-shadow: 0 6px 15px var(--shadow-light);
+  border: 1px solid var(--border-color-light); 
+  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+  position: relative; 
+  text-align: left; 
+}
+
+.ocorrencia-item:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px var(--shadow-strong); 
+  border-color: var(--primary-purple); 
+}
+
+.ocorrencia-item h3 {
+  color: var(--primary-purple);
+  margin-top: 0;
+  margin-bottom: 15px;
+  font-size: 1.8em; 
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  padding-bottom: 10px; 
+  border-bottom: 2px solid var(--border-color-light); 
+}
+
+.ocorrencia-item p {
+  margin-bottom: 8px; 
+  font-size: 1.05em;
+  color: #555;
+  line-height: 1.6;
+}
+
+.ocorrencia-item strong {
+  color: var(--text-dark);
+}
+
+/* Estilos de Status com visual de "tag" - Melhorado */
+.status-atendida,
+.status-em-analise,
+.status-pendente {
+  display: inline-block;
+  padding: 8px 15px; 
+  border-radius: 25px; 
+  font-weight: bold;
+  font-size: 0.95em; 
+  margin-top: 15px;
+  box-shadow: 0 3px 8px rgba(0,0,0,0.15); 
+  transition: all 0.3s ease;
+}
+
+.status-atendida {
+  background-color: #d4edda; 
+  color: #155724; 
+  border: 1px solid #28a745;
+}
+
+.status-em-analise {
+  background-color: #fff3cd;
+  color: #856404;
+  border: 1px solid #ffc107;
+}
+
+.status-pendente {
+  background-color: #f8d7da;
+  color: #721c24;
+  border: 1px solid #dc3545;
+}
+
+.status-atendida:hover, .status-em-analise:hover, .status-pendente:hover {
+    transform: translateY(-2px) scale(1.03);
+    box-shadow: 0 5px 12px rgba(0,0,0,0.2);
+}
+
+
+/* Placeholder para Gráficos - Estilo mais integrado e moderno */
+.chart-placeholder {
+  background-color: #f8f8f8; 
+  border: 2px dashed #d0d0d0; 
+  padding: 70px;
+  margin-top: 30px;
+  border-radius: var(--border-radius-card);
+  color: #999;
+  font-style: italic;
+  min-height: 250px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  box-shadow: inset 0 2px 5px rgba(0,0,0,0.03); 
+}
+
+.chart-placeholder p {
+    font-size: 1.2em;
+    color: #777;
+    font-weight: 500;
+}
+
+/* Divisor visual entre seções (opcional, pode ser adicionado no HTML seções) */
+.section-divider {
+  width: 50%;
+  height: 5px;
+  background: linear-gradient(90deg, var(--ia-gradient-start), var(--ia-gradient-end));
+  border-radius: 5px;
+  margin: 80px auto; 
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+/* Responsividade Básica */
+@media (max-width: 768px) {
+  .ocorrencias-container {
+    padding: 30px 15px;
+  }
+  .ocorrencias-container h1 {
+    font-size: 2.5em;
+    letter-spacing: 1px;
+  }
+  /* Ajuste no ::before para responsividade */
+  .ocorrencias-container h1::before {
+    height: 60px; 
+    width: 120%; 
+  }
+  .section-card {
+    padding: 25px;
+    margin-bottom: 40px;
+  }
+  .section-card h2 {
+    font-size: 2em;
+  }
+  .ocorrencias-grid {
+    grid-template-columns: 1fr;
+  }
+  .section-divider {
+    width: 80%; 
+    margin: 60px auto;
+  }
+}

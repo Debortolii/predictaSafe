@@ -1,0 +1,151 @@
+/* src/components/Header.css */
+
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #1A0033; /* Exemplo de cor de fundo, você pode manter a sua */
+  padding: 10px 20px;
+  color: white;
+  height: 80px; /* Exemplo de altura, você pode manter a sua */
+
+  /* PROPRIEDADES PARA COLAR NAS BORDAS: */
+  width: 100%; /* Ocupa 100% da largura da tela */
+  box-sizing: border-box; /* Inclui padding e border na largura total */
+  position: sticky; /* Cola no topo quando o usuário rola. Use 'fixed' se quiser sempre visível. */
+  top: 0; /* Cola na borda superior */
+  left: 0; /* Cola na borda esquerda */
+  z-index: 1000; /* Garante que ele fique acima de outros elementos */
+}
+
+.header-left {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.header-logo {
+  height: 50px;
+  width: auto;
+}
+
+.search-box {
+  display: flex;
+  border-radius: 5px;
+  overflow: hidden;
+  background-color: white;
+}
+
+.search-input {
+  border: none;
+  padding: 8px 12px;
+  font-size: 1em;
+  outline: none;
+  width: 200px;
+}
+
+.search-button {
+  background-color: #f0f0f0;
+  border: none;
+  padding: 8px 12px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.search-button svg {
+  width: 20px;
+  height: 20px;
+  color: #333;
+}
+
+.header-nav {
+  /* Pode manter vazio ou com seus estilos existentes */
+}
+
+.nav-list {
+  display: flex;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  gap: 0px; /* Definindo gap para 0 para que o espaçamento seja controlado pelos paddings e bordas dos itens */
+}
+
+.nav-item {
+  /* Adiciona o traço vertical (borda) à direita de cada item */
+  border-right: 3px solid rgb(255, 255, 255); /* Traço branco, com 50% de opacidade */
+  /* Ajuste os paddings para controlar o espaço entre o texto e o traço */
+  padding: 0 15px; /* 0px de padding vertical, 15px de padding horizontal */
+}
+
+/* Remove o traço vertical do último item para que não fique um no final */
+.nav-item:last-child {
+  border-right: none;
+}
+
+.nav-link {
+  color: white;
+  text-decoration: none;
+  font-size: 1.1em;
+  font-weight: bold;
+  transition: opacity 0.2s ease-in-out;
+  /* Certifique-se de que não há padding aqui, pois já está no nav-item */
+}
+
+.nav-link:hover {
+  opacity: 0.8;
+}
+
+/* Mantenha suas Media Queries aqui, se já as tiver */
+@media (max-width: 768px) {
+  .header-container {
+    flex-direction: column;
+    height: auto;
+    padding: 10px;
+  }
+  .header-left {
+    width: 100%;
+    justify-content: center;
+    margin-bottom: 10px;
+  }
+  .search-input {
+    width: 150px;
+  }
+  .nav-list {
+    flex-direction: column;
+    gap: 10px;
+    width: 100%;
+    align-items: center;
+  }
+  .nav-item {
+    border-right: none; /* Remove o traço vertical em telas menores para melhor layout */
+    border-bottom: 1px solid rgba(255, 255, 255, 0.5); /* Opcional: Adiciona um traço horizontal */
+    padding: 10px 0; /* Ajusta padding para itens empilhados */
+    width: 100%;
+    text-align: center;
+  }
+  .nav-item:last-child {
+    border-bottom: none; /* Remove o traço horizontal do último item */
+  }
+}
+
+@media (max-width: 480px) {
+  .header-container {
+    padding: 8px;
+  }
+  .header-logo {
+    height: 40px;
+  }
+  .search-input {
+    width: 120px;
+    font-size: 0.9em;
+  }
+  .search-button svg {
+    width: 18px;
+    height: 18px;
+  }
+  .nav-link {
+    font-size: 1em;
+  }
+}

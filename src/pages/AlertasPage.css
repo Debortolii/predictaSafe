@@ -1,0 +1,262 @@
+/* src/pages/AlertasPage.css */
+
+/* Reutilize suas variáveis de cores e propriedades do OcorrenciasPage.css ou defina-as aqui */
+:root {
+    --primary-purple: #6A0DAD;
+    --secondary-purple: #8A2BE2;
+    --dark-background: #1a1a2e;
+    --light-background: #e6e9f0;
+    --card-background: #ffffff;
+    --text-dark: #333333;
+    --text-light: #f0f0f0;
+    --border-color-light: #e0e0e0;
+    --shadow-light: rgba(0, 0, 0, 0.1);
+    --shadow-strong: rgba(0, 0, 0, 0.25);
+    --ia-gradient-start: #311B92;
+    --ia-gradient-end: #8E24AA;
+    --border-radius-card: 18px;
+    --border-radius-input: 12px;
+    --border-radius-button: 15px;
+
+    /* Cores específicas para alertas */
+    --alert-new: #FFDD00; /* Amarelo para "Não Lido" */
+    --alert-read: #BBBBBB; /* Cinza para "Lido" */
+    --alert-update-bg: #e0f2f7; /* Azul claro */
+    --alert-update-text: #01579B;
+    --alert-maintenance-bg: #ffe0b2; /* Laranja claro */
+    --alert-maintenance-text: #E65100;
+    --alert-performance-bg: #dcedc8; /* Verde claro */
+    --alert-performance-text: #33691E;
+    --alert-important-bg: #ffcdd2; /* Vermelho claro */
+    --alert-important-text: #B71C1C;
+}
+
+.alertas-container {
+    padding: 60px 30px;
+    background: linear-gradient(135deg, var(--ia-gradient-start) 0%, var(--ia-gradient-end) 100%); 
+    min-height: calc(100vh - 60px); 
+    color: var(--text-light); 
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.alertas-container h1 {
+    font-size: 3.5em;
+    font-weight: 900;
+    margin-bottom: 20px;
+    letter-spacing: 1px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.alertas-container > p {
+    font-size: 1.2em;
+    margin-bottom: 60px;
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 1.6;
+    opacity: 0.9;
+}
+
+/* Estilo geral para as seções de cards, similar ao OcorrenciasPage */
+.section-card {
+    background-color: var(--card-background); 
+    padding: 40px;
+    border-radius: var(--border-radius-card);
+    box-shadow: 0 12px 25px var(--shadow-strong);
+    margin-bottom: 60px;
+    text-align: left;
+    max-width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+    border: none;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.section-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 18px 35px var(--shadow-strong);
+}
+
+.section-card h2 {
+    color: var(--primary-purple); 
+    margin-bottom: 30px;
+    font-size: 2.5em;
+    font-weight: 600;
+    padding-bottom: 15px;
+    text-align: center;
+    position: relative;
+}
+
+.section-card h2::after {
+    content: '';
+    display: block;
+    width: 80px;
+    height: 6px;
+    background: linear-gradient(90deg, var(--primary-purple), var(--secondary-purple)); 
+    position: absolute;
+    bottom: -3px;
+    left: 50%;
+    transform: translateX(-50%);
+    border-radius: 5px;
+}
+
+/* Estilos específicos para o grid de alertas */
+.alertas-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 30px;
+    margin-top: 30px;
+}
+
+.alerta-item {
+    background-color: #fcfcfc; /* Um branco levemente diferente para o item */
+    padding: 25px;
+    border-radius: var(--border-radius-card);
+    box-shadow: 0 4px 12px var(--shadow-light);
+    border: 1px solid var(--border-color-light);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; /* Empurra o footer para baixo */
+}
+
+.alerta-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px var(--shadow-strong);
+}
+
+.alerta-item.status-nao-lido {
+    border-left: 5px solid var(--alert-new); /* Borda lateral para "não lido" */
+}
+
+.alerta-item.status-lido {
+    opacity: 0.8; /* Levemente mais transparente quando lido */
+    border-left: 5px solid var(--alert-read); /* Borda lateral para "lido" */
+}
+
+.alerta-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.alerta-item h3 {
+    color: var(--primary-purple);
+    margin: 0;
+    font-size: 1.6em;
+    font-weight: 700;
+    flex-grow: 1; /* Permite que o título ocupe o espaço */
+}
+
+.alerta-item p {
+    color: var(--text-dark);
+    font-size: 1em;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+
+.alerta-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: auto; /* Empurra para a parte inferior do card */
+    padding-top: 15px;
+    border-top: 1px solid var(--border-color-light);
+}
+
+.alerta-data {
+    font-size: 0.9em;
+    color: #777;
+}
+
+/* Tags de Tipo de Alerta */
+.alerta-tag {
+    padding: 6px 12px;
+    border-radius: 20px;
+    font-size: 0.8em;
+    font-weight: bold;
+    text-transform: uppercase;
+    white-space: nowrap; /* Evita quebra de linha */
+}
+
+.alerta-tag-atualizacao-do-sistema {
+    background-color: var(--alert-update-bg);
+    color: var(--alert-update-text);
+}
+
+.alerta-tag-manutencao-programada {
+    background-color: var(--alert-maintenance-bg);
+    color: var(--alert-maintenance-text);
+}
+
+.alerta-tag-melhoria-de-performance {
+    background-color: var(--alert-performance-bg);
+    color: var(--alert-performance-text);
+}
+
+.alerta-tag-aviso-importante {
+    background-color: var(--alert-important-bg);
+    color: var(--alert-important-text);
+}
+
+/* Botão de Status */
+.btn-status {
+    background-color: #f0f0f0;
+    color: var(--text-dark);
+    border: 1px solid var(--border-color-light);
+    padding: 8px 15px;
+    border-radius: var(--border-radius-button);
+    cursor: pointer;
+    font-size: 0.9em;
+    font-weight: 600;
+    transition: all 0.3s ease;
+}
+
+.btn-status.lido {
+    background-color: var(--alert-read);
+    color: #444;
+}
+
+.btn-status.nao-lido {
+    background-color: var(--alert-new);
+    color: #856404;
+    font-weight: bold;
+}
+
+.btn-status:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Responsividade Básica */
+@media (max-width: 768px) {
+    .alertas-container {
+        padding: 30px 15px;
+    }
+    .alertas-container h1 {
+        font-size: 2.8em;
+    }
+    .section-card {
+        padding: 25px;
+        margin-bottom: 40px;
+    }
+    .section-card h2 {
+        font-size: 2em;
+    }
+    .alertas-grid {
+        grid-template-columns: 1fr;
+    }
+    .alerta-item h3 {
+        font-size: 1.4em;
+    }
+    .alerta-tag {
+        font-size: 0.7em;
+        padding: 5px 10px;
+    }
+    .btn-status {
+        padding: 6px 12px;
+        font-size: 0.8em;
+    }
+}

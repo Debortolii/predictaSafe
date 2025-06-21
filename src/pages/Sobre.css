@@ -1,0 +1,163 @@
+/* src/pages/Sobre.css */
+
+/* Definição de Variáveis CSS para Cores e Propriedades Reutilizáveis */
+/* Recomenda-se ter um arquivo de variáveis globais se elas forem usadas em muitos lugares */
+:root {
+    --primary-purple: #6A0DAD; /* Roxo principal */
+    --secondary-purple: #8A2BE2; /* Um tom de roxo ligeiramente diferente, para gradiente/detalhes */
+    --dark-background: #1a1a2e; /* Fundo escuro do header/alguns elementos */
+    --light-background: #e6e9f0; /* Um cinza-azulado muito claro para o fundo geral */
+    --card-background: #ffffff; /* Fundo dos cards brancos */
+    --text-dark: #333333;
+    --text-light: #f0f0f0; /* Cor de texto para fundos escuros (branco) */
+    --border-color-light: #e0e0e0;
+    --shadow-light: rgba(0, 0, 0, 0.1);
+    --shadow-strong: rgba(0, 0, 0, 0.25);
+
+    --ia-gradient-start: #311B92; /* Azul arroxeado escuro - Início do degradê da página IA */
+    --ia-gradient-end: #8E24AA;    /* Roxo mais avermelhado - Fim do degradê da página IA */
+    
+    --border-radius-card: 18px; /* Mais arredondado para os cards */
+    --border-radius-input: 12px; /* Mais arredondado para inputs */
+    --border-radius-button: 15px; /* Mais arredondado para botões */
+}
+
+/* Estilo para o container principal da página */
+.sobre-container {
+    padding: 60px 30px;
+    /* Usando o mesmo gradiente do OcorrenciasPage para manter a consistência */
+    background: linear-gradient(135deg, var(--ia-gradient-start) 0%, var(--ia-gradient-end) 100%); 
+    min-height: calc(100vh - 60px); /* Garante que o fundo cubra a tela toda menos o header */
+    color: var(--text-light); /* Cor do texto geral da página */
+    text-align: center; /* Centraliza o texto do título e parágrafo inicial */
+    box-sizing: border-box; /* Inclui padding e border no cálculo da largura/altura */
+    position: relative; /* Para posicionamento de elementos internos se necessário */
+    overflow: hidden; /* Evita barras de rolagem indesejadas */
+}
+
+/* Estilo para o título principal da página (h1) */
+.sobre-container h1 {
+    font-size: 3.8em; /* Título grande e impactante */
+    font-weight: 900; /* Super negrito */
+    margin-bottom: 20px;
+    letter-spacing: 2px; /* Espaçamento entre as letras */
+    text-transform: uppercase; /* Texto em maiúsculas */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); /* Sombra suave para profundidade */
+    color: var(--text-light); /* Cor branca */
+}
+
+/* Estilo para o parágrafo introdutório abaixo do título */
+.sobre-container > p {
+    font-size: 1.3em;
+    margin-bottom: 60px;
+    color: var(--text-light); 
+    max-width: 900px; /* Limita a largura do parágrafo para melhor leitura */
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 1.6; /* Espaçamento entre linhas */
+    opacity: 0.9; /* Levemente transparente */
+}
+
+/* Estilo geral para as seções (como "Sobre a Equipe") usando o padrão de card */
+.section-card {
+    background-color: var(--card-background); /* Fundo branco para os cards */
+    padding: 40px;
+    border-radius: var(--border-radius-card); /* Bordas arredondadas */
+    box-shadow: 0 12px 25px var(--shadow-strong); /* Sombra forte para profundidade */
+    margin-bottom: 60px;
+    text-align: left; /* Alinha o texto dentro do card à esquerda */
+    max-width: 950px; /* Largura máxima do card */
+    margin-left: auto;
+    margin-right: auto; /* Centraliza o card na página */
+    border: none; /* Remove borda padrão */
+    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Transição suave para hover */
+}
+
+.section-card:hover {
+    transform: translateY(-8px); /* Efeito de levantar no hover */
+    box-shadow: 0 18px 35px var(--shadow-strong); /* Sombra mais intensa no hover */
+}
+
+/* Estilo para o título de cada seção dentro do card (h2) */
+.section-card h2 {
+    color: var(--primary-purple); /* Cor roxa principal */
+    margin-bottom: 30px;
+    font-size: 2.5em;
+    font-weight: 600;
+    padding-bottom: 15px;
+    text-align: center; /* Centraliza o título da seção */
+    position: relative; /* Para posicionar o ::after */
+}
+
+/* Detalhe visual para o h2 - Linha inferior com gradiente (similar ao OcorrenciasPage) */
+.section-card h2::after {
+    content: '';
+    display: block;
+    width: 80px;
+    height: 6px;
+    background: linear-gradient(90deg, var(--primary-purple), var(--secondary-purple)); 
+    position: absolute;
+    bottom: -3px;
+    left: 50%;
+    transform: translateX(-50%);
+    border-radius: 5px;
+}
+
+/* Estilo para os parágrafos dentro das seções dos cards */
+.section-card p {
+    color: var(--text-dark); /* Cor de texto escura */
+    font-size: 1.1em;
+    line-height: 1.7;
+    margin-bottom: 1.5em; /* Espaçamento entre parágrafos */
+}
+
+.section-card p:last-child {
+    margin-bottom: 0; /* Remove margem do último parágrafo da seção */
+}
+
+/* Destaque para texto em negrito dentro dos parágrafos */
+.section-card strong {
+    color: var(--secondary-purple); /* Um tom de roxo para destaque */
+    font-weight: 700;
+}
+
+
+/* Responsividade Básica */
+@media (max-width: 768px) {
+    .sobre-container {
+        padding: 30px 15px; /* Reduz padding em telas menores */
+    }
+    .sobre-container h1 {
+        font-size: 2.8em; /* Ajusta o tamanho do título */
+        letter-spacing: 1px;
+    }
+    .sobre-container > p {
+        font-size: 1em;
+        margin-bottom: 40px;
+    }
+    .section-card {
+        padding: 25px; /* Reduz padding do card */
+        margin-bottom: 40px;
+    }
+    .section-card h2 {
+        font-size: 2em; /* Ajusta o tamanho do título da seção */
+        margin-bottom: 20px;
+    }
+    .section-card h2::after {
+        width: 60px; /* Ajusta a largura da linha de destaque */
+        height: 4px;
+    }
+    .section-card p {
+        font-size: 0.95em; /* Ajusta o tamanho do texto dos parágrafos */
+    }
+}
+
+/* Media query para telas ainda menores (ex: celulares) */
+@media (max-width: 480px) {
+    .sobre-container h1 {
+        font-size: 2.2em;
+    }
+    .section-card h2 {
+        font-size: 1.8em;
+    }
+}

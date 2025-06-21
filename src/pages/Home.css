@@ -1,0 +1,274 @@
+/* src/pages/Home.css */
+
+.ia-page-container {
+  background-color: #4b0082; /* Um roxo escuro mais puxado para o do seu banner */
+  color: white;
+  min-height: calc(100vh - 80px); /* Altura total da tela menos a altura do cabeçalho */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 50px 20px;
+  box-sizing: border-box;
+  position: relative;
+  overflow: hidden;
+}
+
+.ia-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  width: 100%;
+  gap: 50px;
+  position: relative;
+  z-index: 10;
+}
+
+.ia-text-section {
+  flex: 1;
+  text-align: left;
+}
+
+.ia-hackathon-title-box { /* Estilo para a caixa rosa do título */
+    background-color: #ff00ff; /* Rosa choque */
+    padding: 8px 15px;
+    border-radius: 5px;
+    display: inline-block; /* Para que o fundo rosa se ajuste ao texto */
+    margin-bottom: 10px;
+}
+
+.ia-hackathon-title-box h2 {
+    margin: 0;
+    font-size: 1.8em; /* Ajuste o tamanho da fonte conforme a imagem */
+    font-weight: bold;
+    color: white;
+    text-transform: uppercase;
+}
+
+.ia-title {
+  font-size: 3.5em; /* Tamanho da fonte do título grande */
+  line-height: 1.1;
+  margin: 20px 0;
+  font-weight: bold;
+  color: #fff; /* Garante que o título principal seja branco */
+}
+
+.ia-description {
+  font-size: 1.2em;
+  line-height: 1.6;
+  margin-bottom: 30px;
+  max-width: 600px;
+  color: #e0e0e0; /* Um cinza mais claro para a descrição */
+}
+
+.ia-buttons {
+  display: flex;
+  gap: 20px;
+}
+
+.ia-button {
+  padding: 15px 30px;
+  border-radius: 8px;
+  font-size: 1.1em;
+  font-weight: bold;
+  cursor: pointer;
+  border: none;
+  transition: background-color 0.3s ease, border-color 0.3s ease;
+  text-decoration: none;
+  display: inline-block;
+  text-align: center;
+}
+
+.ia-button.primary {
+  background-color: #ff00ff; /* Botão primário rosa */
+  color: white;
+}
+
+.ia-button.primary:hover {
+  background-color: #d900d9;
+}
+
+.ia-button.secondary {
+  background-color: transparent;
+  color: white;
+  border: 2px solid white;
+}
+
+.ia-button.secondary:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.ia-card-section {
+  flex: 0.8;
+  background-color: #3a0066; /* Fundo do card, roxo um pouco mais claro */
+  border: 1px solid #ff00ff; /* Borda do card rosa */
+  border-radius: 10px;
+  padding: 30px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+  min-width: 350px;
+}
+
+.card-title {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 1.3em;
+  font-weight: bold;
+  margin-bottom: 20px;
+  color: white;
+}
+
+.card-question-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.card-question-category {
+  font-weight: bold;
+  margin-top: 15px;
+  margin-bottom: 10px;
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.card-question-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 10px;
+  font-size: 0.95em;
+  cursor: pointer;
+  transition: color 0.2s ease;
+  color: white;
+}
+
+.card-question-item:hover {
+  color: #a0a0a0;
+}
+
+.card-question-item svg {
+  color: #ff00ff; /* Ícones de interrogação em rosa */
+  flex-shrink: 0;
+}
+
+.card-ask-me-anything {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 30px;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  padding-top: 20px;
+}
+
+.card-ask-input {
+  flex-grow: 1;
+  background-color: rgba(255, 255, 255, 0.1);
+  border: none;
+  border-radius: 5px;
+  padding: 10px 15px;
+  color: white;
+  outline: none;
+}
+
+.card-ask-input::placeholder {
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.card-ask-button {
+  background-color: #ff00ff; /* Botão de busca rosa */
+  border: none;
+  border-radius: 5px;
+  padding: 10px 15px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card-ask-button svg {
+  color: white;
+}
+
+/* --- Elementos Abstratos de Fundo (opcional, para replicar o fundo) --- */
+.background-element {
+  position: absolute;
+  border-radius: 50%;
+  opacity: 0.2;
+  filter: blur(50px);
+  z-index: 1;
+}
+
+.background-element.circle1 {
+  width: 300px;
+  height: 300px;
+  background-color: #ff00ff; /* Rosa para o círculo 1 */
+  top: 10%;
+  left: -5%;
+}
+
+.background-element.circle2 {
+  width: 400px;
+  height: 400px;
+  background-color: #be00be; /* Roxo mais forte para o círculo 2 */
+  bottom: 5%;
+  right: -10%;
+}
+
+/* Responsividade */
+@media (max-width: 992px) {
+  .ia-content {
+    flex-direction: column;
+    text-align: center;
+    gap: 30px;
+  }
+  .ia-text-section {
+    flex: none;
+  }
+  .ia-title {
+    font-size: 2.8em;
+  }
+  .ia-description {
+    max-width: 100%;
+  }
+  .ia-buttons {
+    justify-content: center;
+  }
+  .ia-card-section {
+    min-width: unset;
+    width: 100%;
+    max-width: 450px;
+  }
+}
+
+@media (max-width: 576px) {
+  .ia-title {
+    font-size: 2em;
+  }
+  .ia-hackathon-title-box h2 {
+    font-size: 1.4em;
+  }
+  .ia-description {
+    font-size: 1em;
+  }
+  .ia-buttons {
+    flex-direction: column;
+    gap: 15px;
+  }
+  .ia-button {
+    width: 80%;
+    margin: 0 auto;
+  }
+  .ia-card-section {
+    padding: 20px;
+  }
+  .card-ask-me-anything {
+    flex-direction: column;
+    gap: 15px;
+  }
+  .card-ask-input {
+    width: calc(100% - 30px);
+  }
+  .card-ask-button {
+    width: 100%;
+  }
+}
